@@ -16,4 +16,4 @@
 > * Team Information
 
 > [!CAUTION]
-> If you see erroneous data from your team in for any competition year, event, or specific entry, please go to [CONTRIBUTING](https://github.com/steff2019/fsae-database/blob/main/CONTRIBUTING.md) for more information on how to request a fix.
+> If you see erroneous data from your team in for any competition year, event, or specific entry, please go to [CONTRIBUTING](https://github.com/SteffanoMartinez/fsae-database/blob/main/CONTRIBUTING.md) for more information on how to request a fix.
