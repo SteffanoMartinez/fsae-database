@@ -1,0 +1,94 @@
+{
+    "sections": {
+        "overall": [],
+        "design": [],
+        "presentation": [],
+        "cost": [],
+        "accel": [],
+        "skidpad": [],
+        "autocross": [],
+        "endurance": [],
+        "efficiency": [],
+        "endurance_lap_time": [],
+        "team_info": []
+    },
+    "overall": {
+        "name": "Overall Results",
+        "headers": [
+            "Place", "Car Num", "Team", "Penalty", "Cost Score",
+            "Presentation Score", "Design Score", "Acceleration Score",
+            "Skid Pad Score", "Autocross Score", "Endurance Score",
+            "Efficiency Score", "Total Score"
+        ],
+        "content": []
+    },
+    "design": {
+        "name": "Design Event",
+        "headers": ["Place", "Car Num", "Team", "Raw Score", "Penalty", "Status", "Score"],
+        "content": []
+    },
+    "presentation": {
+        "name": "Presentation Event",
+        "headers": ["Place", "Car Num", "Team", "Score"],
+        "content": []
+    },
+    "cost": {
+        "name": "Cost Event",
+        "headers": ["Place", "Car Num", "Team", "Adjusted Cost", "Price Score (40)","Cost Audit", "Discussion Score (40)", "Scenario (20)", "Penalty", "Score"],
+        "content": []
+    },
+   "accel": {
+    "name": "Acceleration Event",
+    "headers": {
+        "base": ["Place", "Car Num", "Team"],
+        "runs": {
+            "Run #1": ["Time", "Cones", "AdjTime"],
+            "Run #2": ["Time", "Cones", "AdjTime"],
+            "Run #3": ["Time", "Cones", "AdjTime"],
+            "Run #4": ["Time", "Cones", "AdjTime"]
+        },
+        "final": ["Best Time", "Penalty", "Score"]
+    },
+    "content": []
+},
+    "skidpad" : {
+    "name": "Skidpad Event",
+    "headers": {
+        "base" : ["Place", "Car Num", "Team"],
+        "runs" :
+        {
+            "Driver 1 Run 1": ["Time R","Time L", "Cones", "AdjTime"],
+            "Driver 1 Run 2": ["Time R","Time L", "Cones", "AdjTime"],
+            "Driver 2 Run 1": ["Time R","Time L", "Cones", "AdjTime"],
+            "Driver 2 Run 2": ["Time R","Time L", "Cones", "AdjTime"]
+        },
+        "final" : ["Best Time", "Penalty", "Score"]
+    },
+    "content": []
+},
+"autocross": {
+   "name": "Autocross Event",
+    "headers": {
+        "base" : ["Place", "Car Num", "Team"],
+        "runs" :
+        {
+            "Run 1": ["Time","Cones", "Off Course", "AdjTime"],
+            "Run 2": ["Time","Cones", "Off Course", "AdjTime"],
+            "Run 3": ["Time","Cones", "Off Course", "AdjTime"],
+            "Run 4": ["Time","Cones", "Off Course", "AdjTime"]
+        },
+        "final" : ["Best Time", "Penalty", "Score"]
+    },
+    "content": []
+},
+    "endurance": {
+        "name": "Endurance Event",
+        "headers": ["Place", "Car Num", "Team", "Time", "Laps", "Cones", "Off Course", "Other Penalty", "Adjusted Time", "Endurance Score"],
+        "content": []
+    },
+    "efficiency": {
+        "name": "Efficiency Event",
+        "headers": ["Place", "Car Num", "Team", "Average Adjusted Laptime", "Lap Completed", "Fuel Used (ltr)", "Adjusted CO2 (kg)", "Average Adjusted CO2 per Lap", "Fuel Type", "Fuel Efficiency Factor", "Fuel Efficiency Score"],
+        "content": []
+    }
+}
