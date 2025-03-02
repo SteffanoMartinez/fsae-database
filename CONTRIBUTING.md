@@ -8,6 +8,24 @@ Opening a pull request with the following content:
 > [!IMPORTANT]
 > Familiarize yourself with the template of the competition year affected, as it holds the schema of the data, you will need to reference it when requesting a fixed entry.
 
+> [!IMPORTANT]
+> For branch naming, please follow the following format:
+> 
+> [action]-[context]
+> action:
+  >* update
+  >* delete
+  >* change
+  >* add
+>
+>context:
+  >* database
+  >* internal_files
+  >* license 
+
+
+
+
 ### PR Template:
 * Team of requester name: [optional]
 * Name of requester : [optional]
