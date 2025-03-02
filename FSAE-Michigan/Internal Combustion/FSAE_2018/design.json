@@ -1,0 +1,957 @@
+{
+    "name": "Design Event",
+    "headers": [
+        "Place",
+        "Car Num",
+        "Team",
+        "Raw Score",
+        "Penalty",
+        "Score"
+    ],
+    "content": {
+        "1": [
+            {
+                "Place": 1,
+                "Car Num": 102,
+                "Team": "Technical Univ of Munich",
+                "Raw Score": 150.0,
+                "Penalty": 0,
+                "Score": 0.0
+            }
+        ],
+        "2": [
+            {
+                "Place": 2,
+                "Car Num": 1,
+                "Team": "Universitat Stuttgart",
+                "Raw Score": 145.0,
+                "Penalty": 0,
+                "Score": 0.0
+            }
+        ],
+        "3": [
+            {
+                "Place": 3,
+                "Car Num": 3,
+                "Team": "Graz Technical Univ",
+                "Raw Score": 132.0,
+                "Penalty": 0,
+                "Score": 0.0
+            }
+        ],
+        "4": [
+            {
+                "Place": 4,
+                "Car Num": 10,
+                "Team": "Univ of Wisconsin - Madison",
+                "Raw Score": 128.0,
+                "Penalty": 0,
+                "Score": 0.0
+            }
+        ],
+        "5": [
+            {
+                "Place": 5,
+                "Car Num": 80,
+                "Team": "National Univ of Singapore",
+                "Raw Score": 125.0,
+                "Penalty": 0,
+                "Score": 0.0
+            }
+        ],
+        "6": [
+            {
+                "Place": 6,
+                "Car Num": 9,
+                "Team": "Rochester Institute of Technology",
+                "Raw Score": 115.0,
+                "Penalty": 0,
+                "Score": 0.0
+            }
+        ],
+        "7": [
+            {
+                "Place": 7,
+                "Car Num": 75,
+                "Team": "Universidad Politecnica de Valencia",
+                "Raw Score": 110.0,
+                "Penalty": 0,
+                "Score": 0.0
+            }
+        ],
+        "8": [
+            {
+                "Place": 8,
+                "Car Num": 2,
+                "Team": "Oregon State Univ",
+                "Raw Score": 108.0,
+                "Penalty": 0,
+                "Score": 0.0
+            }
+        ],
+        "9": [
+            {
+                "Place": 9,
+                "Car Num": 38,
+                "Team": "Univ of Central Florida",
+                "Raw Score": 105.0,
+                "Penalty": 0,
+                "Score": 0.0
+            }
+        ],
+        "10": [
+            {
+                "Place": 10,
+                "Car Num": 6,
+                "Team": "San Jose State University",
+                "Raw Score": 100.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 10,
+                "Car Num": 8,
+                "Team": "Cornell Univ",
+                "Raw Score": 100.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 10,
+                "Car Num": 18,
+                "Team": "Ecole De Technologie Superieure",
+                "Raw Score": 100.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 10,
+                "Car Num": 31,
+                "Team": "Auburn Univ",
+                "Raw Score": 100.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 10,
+                "Car Num": 37,
+                "Team": "Univ of Illinois - Urbana Champaign",
+                "Raw Score": 100.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 10,
+                "Car Num": 73,
+                "Team": "Univ of Akron",
+                "Raw Score": 100.0,
+                "Penalty": 0,
+                "Score": 0.0
+            }
+        ],
+        "16": [
+            {
+                "Place": 16,
+                "Car Num": 115,
+                "Team": "Univ of Victoria",
+                "Raw Score": 106.0,
+                "Penalty": 10,
+                "Score": 0.0
+            }
+        ],
+        "17": [
+            {
+                "Place": 17,
+                "Car Num": 5,
+                "Team": "Univ of Michigan - Ann Arbor",
+                "Raw Score": 80.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 17,
+                "Car Num": 7,
+                "Team": "Univ of Minnesota - Twin Cities",
+                "Raw Score": 80.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 17,
+                "Car Num": 16,
+                "Team": "Michigan State Univ",
+                "Raw Score": 80.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 17,
+                "Car Num": 21,
+                "Team": "Rensselaer Polytechnic Inst",
+                "Raw Score": 80.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 17,
+                "Car Num": 22,
+                "Team": "Rose Hulman Inst of Tech",
+                "Raw Score": 80.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 17,
+                "Car Num": 27,
+                "Team": "Univ of Florida",
+                "Raw Score": 80.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 17,
+                "Car Num": 34,
+                "Team": "Univ of Missouri",
+                "Raw Score": 80.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 17,
+                "Car Num": 35,
+                "Team": "Univ of Pittsburgh - Pittsburgh",
+                "Raw Score": 80.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 17,
+                "Car Num": 36,
+                "Team": "Louisiana State Univ",
+                "Raw Score": 80.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 17,
+                "Car Num": 46,
+                "Team": "Universidad Simon Bolivar",
+                "Raw Score": 80.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 17,
+                "Car Num": 48,
+                "Team": "Georgia Institute of Technology",
+                "Raw Score": 80.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 17,
+                "Car Num": 49,
+                "Team": "Carleton Univ",
+                "Raw Score": 80.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 17,
+                "Car Num": 55,
+                "Team": "Western University",
+                "Raw Score": 80.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 17,
+                "Car Num": 58,
+                "Team": "Univ of British Columbia",
+                "Raw Score": 80.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 17,
+                "Car Num": 59,
+                "Team": "Kookmin Univ",
+                "Raw Score": 80.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 17,
+                "Car Num": 60,
+                "Team": "US Naval Academy",
+                "Raw Score": 80.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 17,
+                "Car Num": 62,
+                "Team": "North Carolina State Univ - Raleigh",
+                "Raw Score": 80.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 17,
+                "Car Num": 64,
+                "Team": "Polytechnique Montréal",
+                "Raw Score": 80.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 17,
+                "Car Num": 69,
+                "Team": "Univ of Saskatchewan",
+                "Raw Score": 80.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 17,
+                "Car Num": 89,
+                "Team": "Cooper Union",
+                "Raw Score": 80.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 17,
+                "Car Num": 99,
+                "Team": "Villanova Univ",
+                "Raw Score": 80.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 17,
+                "Car Num": 107,
+                "Team": "Rutgers Univ",
+                "Raw Score": 80.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 17,
+                "Car Num": 111,
+                "Team": "Duke Univ",
+                "Raw Score": 80.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 17,
+                "Car Num": 114,
+                "Team": "Bialystok University of Technology",
+                "Raw Score": 80.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 17,
+                "Car Num": 119,
+                "Team": "Univ of Manitoba",
+                "Raw Score": 80.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 17,
+                "Car Num": 121,
+                "Team": "The Ohio State University",
+                "Raw Score": 80.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 17,
+                "Car Num": 122,
+                "Team": "Univ of Waterloo",
+                "Raw Score": 80.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 17,
+                "Car Num": 127,
+                "Team": "Univ of Kansas - Lawrence",
+                "Raw Score": 80.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 17,
+                "Car Num": 129,
+                "Team": "Missouri University of Science and Tech",
+                "Raw Score": 80.0,
+                "Penalty": 0,
+                "Score": 0.0
+            }
+        ],
+        "46": [
+            {
+                "Place": 46,
+                "Car Num": 76,
+                "Team": "Universite de Sherbrooke",
+                "Raw Score": 80.0,
+                "Penalty": 10,
+                "Score": 0.0
+            },
+            {
+                "Place": 46,
+                "Car Num": 86,
+                "Team": "California State Poly Univ - Pomona",
+                "Raw Score": 80.0,
+                "Penalty": 10,
+                "Score": 0.0
+            }
+        ],
+        "48": [
+            {
+                "Place": 48,
+                "Car Num": 19,
+                "Team": "Kettering Univ",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 20,
+                "Team": "Ryerson Univ",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 25,
+                "Team": "Lehigh Univ",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 29,
+                "Team": "York College of Pennsylvania",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 30,
+                "Team": "Michigan Tech Univ",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 39,
+                "Team": "Univ of Toledo",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 40,
+                "Team": "Washington Univ - St Louis",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 41,
+                "Team": "Penn State Univ - University Park",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 42,
+                "Team": "Brown Univ",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 45,
+                "Team": "Univ of Maryland - College Park",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 47,
+                "Team": "Lawrence Technological Univ",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 50,
+                "Team": "Clarkson University",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 51,
+                "Team": "Concordia University",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 52,
+                "Team": "Virginia Tech",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 53,
+                "Team": "Georgia Southern Univ",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 56,
+                "Team": "South Dakota School of Mines & Tech",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 57,
+                "Team": "Florida International Univ",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 66,
+                "Team": "Florida Atlantic Univ",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 67,
+                "Team": "Univ of Connecticut",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 68,
+                "Team": "Florida Inst of Tech",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 71,
+                "Team": "Univ of Alabama - Tuscaloosa",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 78,
+                "Team": "Embry-Riddle Aero Univ - Daytona Beach",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 82,
+                "Team": "Minnesota State University - Mankato",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 83,
+                "Team": "Univ of New Hampshire",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 84,
+                "Team": "Worcester Polytechnic Inst",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 87,
+                "Team": "Washington State Univ",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 88,
+                "Team": "Cegep du Vieux - Montreal",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 98,
+                "Team": "Purdue Univ - W Lafayette",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 103,
+                "Team": "Universite Du Quebec-Chicoutimi",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 104,
+                "Team": "Saginaw Valley State Univ",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 108,
+                "Team": "Northwestern Univ",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 109,
+                "Team": "AGH Univ of Science and Technology",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 112,
+                "Team": "Western Michigan Univ",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 126,
+                "Team": "Univ of Nebraska - Lincoln",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 135,
+                "Team": "Univ of South Florida",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 48,
+                "Car Num": 136,
+                "Team": "Faculdade de Engenharia de Sorocaba",
+                "Raw Score": 60.0,
+                "Penalty": 0,
+                "Score": 0.0
+            }
+        ],
+        "84": [
+            {
+                "Place": 84,
+                "Car Num": 11,
+                "Team": "Colorado Mesa University",
+                "Raw Score": 50.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 84,
+                "Car Num": 15,
+                "Team": "Univ of Evansville",
+                "Raw Score": 50.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 84,
+                "Car Num": 17,
+                "Team": "Purdue Univ - Northwest",
+                "Raw Score": 50.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 84,
+                "Car Num": 24,
+                "Team": "Tennessee Tech Univ",
+                "Raw Score": 50.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 84,
+                "Car Num": 26,
+                "Team": "Univ of Toronto",
+                "Raw Score": 50.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 84,
+                "Car Num": 32,
+                "Team": "Grand Valley State Univ",
+                "Raw Score": 50.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 84,
+                "Car Num": 43,
+                "Team": "US Air Force Academy",
+                "Raw Score": 50.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 84,
+                "Car Num": 54,
+                "Team": "Univ of Guelph",
+                "Raw Score": 50.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 84,
+                "Car Num": 63,
+                "Team": "Univ of Hartford",
+                "Raw Score": 50.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 84,
+                "Car Num": 72,
+                "Team": "Wayne State Univ",
+                "Raw Score": 60.0,
+                "Penalty": 10,
+                "Score": 0.0
+            },
+            {
+                "Place": 84,
+                "Car Num": 74,
+                "Team": "Columbia Univ",
+                "Raw Score": 60.0,
+                "Penalty": 10,
+                "Score": 0.0
+            },
+            {
+                "Place": 84,
+                "Car Num": 77,
+                "Team": "Univ of Michigan - Dearborn",
+                "Raw Score": 50.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 84,
+                "Car Num": 79,
+                "Team": "Univ of North Carolina - Charlotte",
+                "Raw Score": 50.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 84,
+                "Car Num": 81,
+                "Team": "Lakehead Univ",
+                "Raw Score": 50.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 84,
+                "Car Num": 85,
+                "Team": "Texas Tech Univ",
+                "Raw Score": 50.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 84,
+                "Car Num": 91,
+                "Team": "Univ of North Florida",
+                "Raw Score": 50.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 84,
+                "Car Num": 96,
+                "Team": "Bradley Univ",
+                "Raw Score": 50.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 84,
+                "Car Num": 97,
+                "Team": "Dalhousie Univ",
+                "Raw Score": 50.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 84,
+                "Car Num": 101,
+                "Team": "Central Michigan Univ",
+                "Raw Score": 50.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 84,
+                "Car Num": 105,
+                "Team": "Oakland University",
+                "Raw Score": 60.0,
+                "Penalty": 10,
+                "Score": 0.0
+            },
+            {
+                "Place": 84,
+                "Car Num": 106,
+                "Team": "Mississippi State Univ",
+                "Raw Score": 50.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 84,
+                "Car Num": 110,
+                "Team": "Universidad Autonoma Estado Mexico",
+                "Raw Score": 50.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 84,
+                "Car Num": 117,
+                "Team": "Penn State Univ - Harrisburg",
+                "Raw Score": 50.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 84,
+                "Car Num": 118,
+                "Team": "Alabama A & M Univ",
+                "Raw Score": 50.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 84,
+                "Car Num": 124,
+                "Team": "Temple Univ",
+                "Raw Score": 50.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 84,
+                "Car Num": 128,
+                "Team": "South Dakota State Univ",
+                "Raw Score": 50.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 84,
+                "Car Num": 134,
+                "Team": "California State Univ - Fullerton",
+                "Raw Score": 50.0,
+                "Penalty": 0,
+                "Score": 0.0
+            }
+        ],
+        "111": [
+            {
+                "Place": 111,
+                "Car Num": 70,
+                "Team": "St Cloud State Univ",
+                "Raw Score": 50.0,
+                "Penalty": 10,
+                "Score": 0.0
+            },
+            {
+                "Place": 111,
+                "Car Num": 92,
+                "Team": "Univ of Cincinnati",
+                "Raw Score": 50.0,
+                "Penalty": 10,
+                "Score": 0.0
+            },
+            {
+                "Place": 111,
+                "Car Num": 94,
+                "Team": "Ferris State University",
+                "Raw Score": 40.0,
+                "Penalty": 0,
+                "Score": 0.0
+            },
+            {
+                "Place": 111,
+                "Car Num": 132,
+                "Team": "Universidad Nacional Autónoma de México",
+                "Raw Score": 50.0,
+                "Penalty": 10,
+                "Score": 0.0
+            }
+        ]
+    }
+}

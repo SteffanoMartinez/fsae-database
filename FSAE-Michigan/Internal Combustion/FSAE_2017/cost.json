@@ -1,0 +1,1543 @@
+{
+    "name": "Cost Event",
+    "headers": [
+        "Place",
+        "Car Num",
+        "Team",
+        "Adjusted Cost",
+        "Price Score (40)",
+        "Report Score (20)",
+        "Part Content / Feasibility (20)",
+        "Real Case (20)",
+        "Penalty",
+        "Score"
+    ],
+    "content": {
+        "1": [
+            {
+                "Place": 1,
+                "Car Num": 55,
+                "Team": "Tennessee Tech Univ",
+                "Adjusted Cost": "$6,538",
+                "Price Score (40)": 40.0,
+                "Report Score (20)": 16.7,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 17,
+                "Penalty": 0,
+                "Score": 93.7
+            }
+        ],
+        "2": [
+            {
+                "Place": 2,
+                "Car Num": 113,
+                "Team": "Central Michigan Univ",
+                "Adjusted Cost": "$7,867",
+                "Price Score (40)": 30.54,
+                "Report Score (20)": 15.05,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 15,
+                "Penalty": 0,
+                "Score": 80.59
+            }
+        ],
+        "3": [
+            {
+                "Place": 3,
+                "Car Num": 106,
+                "Team": "Universidad Autonoma Estado Mexico",
+                "Adjusted Cost": "$8,287",
+                "Price Score (40)": 28.18,
+                "Report Score (20)": 18.35,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 14,
+                "Penalty": 0,
+                "Score": 80.53
+            }
+        ],
+        "4": [
+            {
+                "Place": 4,
+                "Car Num": 91,
+                "Team": "Saint Louis Univ",
+                "Adjusted Cost": "$8,741",
+                "Price Score (40)": 25.89,
+                "Report Score (20)": 17.53,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 14,
+                "Penalty": 0,
+                "Score": 77.41
+            }
+        ],
+        "5": [
+            {
+                "Place": 5,
+                "Car Num": 115,
+                "Team": "Universidad Simon Bolivar",
+                "Adjusted Cost": "$9,535",
+                "Price Score (40)": 22.4,
+                "Report Score (20)": 16.7,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 18,
+                "Penalty": 0,
+                "Score": 77.1
+            }
+        ],
+        "6": [
+            {
+                "Place": 6,
+                "Car Num": 22,
+                "Team": "Villanova Univ",
+                "Adjusted Cost": "$9,100",
+                "Price Score (40)": 24.23,
+                "Report Score (20)": 19.59,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 13,
+                "Penalty": 0,
+                "Score": 76.82
+            }
+        ],
+        "7": [
+            {
+                "Place": 7,
+                "Car Num": 76,
+                "Team": "Univ of Hartford",
+                "Adjusted Cost": "$9,207",
+                "Price Score (40)": 23.77,
+                "Report Score (20)": 19.18,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 12,
+                "Penalty": 0,
+                "Score": 74.94
+            }
+        ],
+        "8": [
+            {
+                "Place": 8,
+                "Car Num": 96,
+                "Team": "Universite Du Quebec a Trois-Rivieres",
+                "Adjusted Cost": "$11,300",
+                "Price Score (40)": 16.4,
+                "Report Score (20)": 17.53,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 19,
+                "Penalty": 0,
+                "Score": 72.93
+            }
+        ],
+        "9": [
+            {
+                "Place": 9,
+                "Car Num": 97,
+                "Team": "Kettering Univ",
+                "Adjusted Cost": "$10,763",
+                "Price Score (40)": 18.02,
+                "Report Score (20)": 16.7,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 17,
+                "Penalty": 0,
+                "Score": 71.72
+            }
+        ],
+        "10": [
+            {
+                "Place": 10,
+                "Car Num": 122,
+                "Team": "Penn State Univ - University Park",
+                "Adjusted Cost": "$13,319",
+                "Price Score (40)": 11.49,
+                "Report Score (20)": 20.0,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 71.49
+            }
+        ],
+        "11": [
+            {
+                "Place": 11,
+                "Car Num": 124,
+                "Team": "North Carolina State Univ - Raleigh",
+                "Adjusted Cost": "$11,530",
+                "Price Score (40)": 15.76,
+                "Report Score (20)": 15.46,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 71.22
+            }
+        ],
+        "12": [
+            {
+                "Place": 12,
+                "Car Num": 49,
+                "Team": "Univ of Illinois - Urbana Champaign",
+                "Adjusted Cost": "$12,832",
+                "Price Score (40)": 12.53,
+                "Report Score (20)": 19.59,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 19,
+                "Penalty": 0,
+                "Score": 71.12
+            }
+        ],
+        "13": [
+            {
+                "Place": 13,
+                "Car Num": 112,
+                "Team": "Ferris State University",
+                "Adjusted Cost": "$11,048",
+                "Price Score (40)": 17.14,
+                "Report Score (20)": 15.88,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 18,
+                "Penalty": 0,
+                "Score": 71.02
+            }
+        ],
+        "14": [
+            {
+                "Place": 14,
+                "Car Num": 84,
+                "Team": "Univ of Toronto",
+                "Adjusted Cost": "$12,652",
+                "Price Score (40)": 12.94,
+                "Report Score (20)": 17.94,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 70.88
+            }
+        ],
+        "15": [
+            {
+                "Place": 15,
+                "Car Num": 87,
+                "Team": "West Virginia Univ",
+                "Adjusted Cost": "$9,059",
+                "Price Score (40)": 24.42,
+                "Report Score (20)": 18.35,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 8,
+                "Penalty": 0,
+                "Score": 70.77
+            }
+        ],
+        "16": [
+            {
+                "Place": 16,
+                "Car Num": 13,
+                "Team": "Technical Univ of Munich",
+                "Adjusted Cost": "$11,922",
+                "Price Score (40)": 14.71,
+                "Report Score (20)": 17.94,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 18,
+                "Penalty": 0,
+                "Score": 70.65
+            }
+        ],
+        "17": [
+            {
+                "Place": 17,
+                "Car Num": 18,
+                "Team": "Univ of Illinois - Chicago",
+                "Adjusted Cost": "$12,583",
+                "Price Score (40)": 13.1,
+                "Report Score (20)": 17.53,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 70.62
+            }
+        ],
+        "18": [
+            {
+                "Place": 18,
+                "Car Num": 31,
+                "Team": "Univ of Louisiana - Lafayette",
+                "Adjusted Cost": "$10,635",
+                "Price Score (40)": 18.43,
+                "Report Score (20)": 17.11,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 15,
+                "Penalty": 0,
+                "Score": 70.54
+            }
+        ],
+        "19": [
+            {
+                "Place": 19,
+                "Car Num": 38,
+                "Team": "Rensselaer Polytechnic Inst",
+                "Adjusted Cost": "$11,892",
+                "Price Score (40)": 14.79,
+                "Report Score (20)": 17.11,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 18,
+                "Penalty": 0,
+                "Score": 69.9
+            }
+        ],
+        "20": [
+            {
+                "Place": 20,
+                "Car Num": 44,
+                "Team": "Univ of Guelph",
+                "Adjusted Cost": "$12,728",
+                "Price Score (40)": 12.77,
+                "Report Score (20)": 17.11,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 69.88
+            }
+        ],
+        "21": [
+            {
+                "Place": 21,
+                "Car Num": 51,
+                "Team": "Carleton Univ",
+                "Adjusted Cost": "$12,063",
+                "Price Score (40)": 14.35,
+                "Report Score (20)": 17.53,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 18,
+                "Penalty": 0,
+                "Score": 69.88
+            }
+        ],
+        "22": [
+            {
+                "Place": 22,
+                "Car Num": 5,
+                "Team": "Michigan State Univ",
+                "Adjusted Cost": "$13,938",
+                "Price Score (40)": 10.27,
+                "Report Score (20)": 20.0,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 19,
+                "Penalty": 0,
+                "Score": 69.27
+            }
+        ],
+        "23": [
+            {
+                "Place": 23,
+                "Car Num": 71,
+                "Team": "Temple Univ",
+                "Adjusted Cost": "$11,577",
+                "Price Score (40)": 15.63,
+                "Report Score (20)": 17.53,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 16,
+                "Penalty": 0,
+                "Score": 69.15
+            }
+        ],
+        "24": [
+            {
+                "Place": 24,
+                "Car Num": 54,
+                "Team": "Univ of Kansas - Lawrence",
+                "Adjusted Cost": "$13,464",
+                "Price Score (40)": 11.19,
+                "Report Score (20)": 17.94,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 69.13
+            }
+        ],
+        "25": [
+            {
+                "Place": 25,
+                "Car Num": 19,
+                "Team": "Mississippi State Univ",
+                "Adjusted Cost": "$12,382",
+                "Price Score (40)": 13.57,
+                "Report Score (20)": 15.46,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 69.03
+            }
+        ],
+        "26": [
+            {
+                "Place": 26,
+                "Car Num": 65,
+                "Team": "Univ of Akron",
+                "Adjusted Cost": "$14,334",
+                "Price Score (40)": 209.55,
+                "Report Score (20)": 19.18,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 68.72
+            }
+        ],
+        "27": [
+            {
+                "Place": 27,
+                "Car Num": 39,
+                "Team": "Western Michigan Univ",
+                "Adjusted Cost": "$13,891",
+                "Price Score (40)": 10.36,
+                "Report Score (20)": 20.0,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 18,
+                "Penalty": 0,
+                "Score": 68.36
+            }
+        ],
+        "28": [
+            {
+                "Place": 28,
+                "Car Num": 23,
+                "Team": "Univ of Missouri",
+                "Adjusted Cost": "$14,864",
+                "Price Score (40)": 8.63,
+                "Report Score (20)": 19.59,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 68.22
+            }
+        ],
+        "29": [
+            {
+                "Place": 29,
+                "Car Num": 83,
+                "Team": "Kookmin Univ",
+                "Adjusted Cost": "$10,906",
+                "Price Score (40)": 17.57,
+                "Report Score (20)": 14.64,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 16,
+                "Penalty": 0,
+                "Score": 68.21
+            }
+        ],
+        "30": [
+            {
+                "Place": 30,
+                "Car Num": 36,
+                "Team": "Colorado Mesa University",
+                "Adjusted Cost": "$13,281",
+                "Price Score (40)": 11.57,
+                "Report Score (20)": 19.59,
+                "Part Content / Feasibility (20)": 17,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 68.16
+            }
+        ],
+        "31": [
+            {
+                "Place": 31,
+                "Car Num": 111,
+                "Team": "Univ of Michigan - Ann Arbor",
+                "Adjusted Cost": "$13,973",
+                "Price Score (40)": 10.2,
+                "Report Score (20)": 17.94,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 68.14
+            }
+        ],
+        "32": [
+            {
+                "Place": 32,
+                "Car Num": 78,
+                "Team": "Polytechnique Montréal",
+                "Adjusted Cost": "$14,201",
+                "Price Score (40)": 9.78,
+                "Report Score (20)": 19.18,
+                "Part Content / Feasibility (20)": 19,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 67.96
+            }
+        ],
+        "33": [
+            {
+                "Place": 33,
+                "Car Num": 57,
+                "Team": "Univ of Victoria",
+                "Adjusted Cost": "$13,968",
+                "Price Score (40)": 10.21,
+                "Report Score (20)": 19.18,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 18,
+                "Penalty": 0,
+                "Score": 67.39
+            }
+        ],
+        "34": [
+            {
+                "Place": 34,
+                "Car Num": 77,
+                "Team": "Rose Hulman Inst of Tech",
+                "Adjusted Cost": "$13,025",
+                "Price Score (40)": 12.11,
+                "Report Score (20)": 15.05,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 67.16
+            }
+        ],
+        "35": [
+            {
+                "Place": 35,
+                "Car Num": 80,
+                "Team": "Ryerson Univ",
+                "Adjusted Cost": "$14,440",
+                "Price Score (40)": 9.36,
+                "Report Score (20)": 18.76,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 19,
+                "Penalty": 0,
+                "Score": 67.12
+            }
+        ],
+        "36": [
+            {
+                "Place": 36,
+                "Car Num": 69,
+                "Team": "Univ of Pittsburgh - Pittsburgh",
+                "Adjusted Cost": "$14,338",
+                "Price Score (40)": 9.54,
+                "Report Score (20)": 17.53,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 67.06
+            }
+        ],
+        "37": [
+            {
+                "Place": 37,
+                "Car Num": 79,
+                "Team": "Univ of New Hampshire",
+                "Adjusted Cost": "$12,399",
+                "Price Score (40)": 13.53,
+                "Report Score (20)": 17.53,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 16,
+                "Penalty": 0,
+                "Score": 67.05
+            }
+        ],
+        "38": [
+            {
+                "Place": 38,
+                "Car Num": 123,
+                "Team": "Queen's Univ - Ontario Canada",
+                "Adjusted Cost": "$13,217",
+                "Price Score (40)": 11.7,
+                "Report Score (20)": 18.35,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 17,
+                "Penalty": 0,
+                "Score": 67.05
+            }
+        ],
+        "39": [
+            {
+                "Place": 39,
+                "Car Num": 35,
+                "Team": "York College of Pennsylvania",
+                "Adjusted Cost": "$10,849",
+                "Price Score (40)": 17.75,
+                "Report Score (20)": 16.29,
+                "Part Content / Feasibility (20)": 19,
+                "Real Case (20)": 14,
+                "Penalty": 0,
+                "Score": 67.04
+            }
+        ],
+        "40": [
+            {
+                "Place": 40,
+                "Car Num": 108,
+                "Team": "Washington State Univ",
+                "Adjusted Cost": "$11,107",
+                "Price Score (40)": 16.97,
+                "Report Score (20)": 15.05,
+                "Part Content / Feasibility (20)": 18,
+                "Real Case (20)": 17,
+                "Penalty": 0,
+                "Score": 67.02
+            }
+        ],
+        "41": [
+            {
+                "Place": 41,
+                "Car Num": 6,
+                "Team": "Univ of Wisconsin - Madison",
+                "Adjusted Cost": "$16,069",
+                "Price Score (40)": 6.79,
+                "Report Score (20)": 20.0,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 66.79
+            }
+        ],
+        "42": [
+            {
+                "Place": 42,
+                "Car Num": 53,
+                "Team": "Univ of Toledo",
+                "Adjusted Cost": "$14,067",
+                "Price Score (40)": 10.03,
+                "Report Score (20)": 16.7,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 66.73
+            }
+        ],
+        "43": [
+            {
+                "Place": 43,
+                "Car Num": 24,
+                "Team": "Purdue Univ - Northwest",
+                "Adjusted Cost": "$15,775",
+                "Price Score (40)": 7.21,
+                "Report Score (20)": 19.18,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 66.39
+            }
+        ],
+        "44": [
+            {
+                "Place": 44,
+                "Car Num": 42,
+                "Team": "Western University",
+                "Adjusted Cost": "$15,792",
+                "Price Score (40)": 7.19,
+                "Report Score (20)": 19.18,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 66.36
+            }
+        ],
+        "45": [
+            {
+                "Place": 45,
+                "Car Num": 94,
+                "Team": "Stevens Inst of Tech",
+                "Adjusted Cost": "$11,883",
+                "Price Score (40)": 14.81,
+                "Report Score (20)": 17.53,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 14,
+                "Penalty": 0,
+                "Score": 66.34
+            }
+        ],
+        "46": [
+            {
+                "Place": 46,
+                "Car Num": 21,
+                "Team": "Brown Univ",
+                "Adjusted Cost": "$13,849",
+                "Price Score (40)": 10.44,
+                "Report Score (20)": 15.88,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 66.31
+            }
+        ],
+        "47": [
+            {
+                "Place": 47,
+                "Car Num": 82,
+                "Team": "Univ of Cincinnati",
+                "Adjusted Cost": "$12,089",
+                "Price Score (40)": 14.29,
+                "Report Score (20)": 15.03,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 17,
+                "Penalty": 0,
+                "Score": 66.31
+            }
+        ],
+        "48": [
+            {
+                "Place": 48,
+                "Car Num": 32,
+                "Team": "Louisiana State Univ",
+                "Adjusted Cost": "$14,820",
+                "Price Score (40)": 8.71,
+                "Report Score (20)": 19.59,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 18,
+                "Penalty": 0,
+                "Score": 66.3
+            }
+        ],
+        "49": [
+            {
+                "Place": 49,
+                "Car Num": 16,
+                "Team": "San Jose State University",
+                "Adjusted Cost": "$13,356",
+                "Price Score (40)": 11.42,
+                "Report Score (20)": 14.61,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 66.03
+            }
+        ],
+        "50": [
+            {
+                "Place": 50,
+                "Car Num": 126,
+                "Team": "Univ of Waterloo",
+                "Adjusted Cost": "$15,312",
+                "Price Score (40)": 7.91,
+                "Report Score (20)": 17.94,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 65.85
+            }
+        ],
+        "51": [
+            {
+                "Place": 51,
+                "Car Num": 15,
+                "Team": "Univ of Alabama - Tuscaloosa",
+                "Adjusted Cost": "$14,141",
+                "Price Score (40)": 9.89,
+                "Report Score (20)": 17.94,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 18,
+                "Penalty": 0,
+                "Score": 65.83
+            }
+        ],
+        "52": [
+            {
+                "Place": 52,
+                "Car Num": 93,
+                "Team": "US Air Force Academy",
+                "Adjusted Cost": "$12,379",
+                "Price Score (40)": 13.58,
+                "Report Score (20)": 15.88,
+                "Part Content / Feasibility (20)": 19,
+                "Real Case (20)": 17,
+                "Penalty": 0,
+                "Score": 65.45
+            }
+        ],
+        "53": [
+            {
+                "Place": 53,
+                "Car Num": 50,
+                "Team": "Rutgers Univ",
+                "Adjusted Cost": "$15,661",
+                "Price Score (40)": 7.38,
+                "Report Score (20)": 19.59,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 18,
+                "Penalty": 0,
+                "Score": 64.97
+            }
+        ],
+        "54": [
+            {
+                "Place": 54,
+                "Car Num": 14,
+                "Team": "Florida Atlantic Univ",
+                "Adjusted Cost": "$13,358",
+                "Price Score (40)": 2011.41,
+                "Report Score (20)": 17.53,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 16,
+                "Penalty": 0,
+                "Score": 64.94
+            }
+        ],
+        "55": [
+            {
+                "Place": 55,
+                "Car Num": 46,
+                "Team": "US Naval Academy",
+                "Adjusted Cost": "$17,792",
+                "Price Score (40)": 4.58,
+                "Report Score (20)": 20.0,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 64.58
+            }
+        ],
+        "56": [
+            {
+                "Place": 56,
+                "Car Num": 105,
+                "Team": "Univ of Minnesota - Twin Cities",
+                "Adjusted Cost": "$14,008",
+                "Price Score (40)": 10.14,
+                "Report Score (20)": 16.29,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 18,
+                "Penalty": 0,
+                "Score": 64.43
+            }
+        ],
+        "57": [
+            {
+                "Place": 57,
+                "Car Num": 101,
+                "Team": "North Dakota State Univ",
+                "Adjusted Cost": "$13,165",
+                "Price Score (40)": 11.81,
+                "Report Score (20)": 15.46,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 17,
+                "Penalty": 0,
+                "Score": 64.28
+            }
+        ],
+        "58": [
+            {
+                "Place": 58,
+                "Car Num": 45,
+                "Team": "St Cloud State Univ",
+                "Adjusted Cost": "$10,743",
+                "Price Score (40)": 18.08,
+                "Report Score (20)": 17.11,
+                "Part Content / Feasibility (20)": 19,
+                "Real Case (20)": 10,
+                "Penalty": 0,
+                "Score": 64.2
+            }
+        ],
+        "59": [
+            {
+                "Place": 59,
+                "Car Num": 58,
+                "Team": "Universite de Sherbrooke",
+                "Adjusted Cost": "$11,884",
+                "Price Score (40)": 14.81,
+                "Report Score (20)": 18.35,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 11,
+                "Penalty": 0,
+                "Score": 64.16
+            }
+        ],
+        "60": [
+            {
+                "Place": 60,
+                "Car Num": 85,
+                "Team": "Univ of Kentucky",
+                "Adjusted Cost": "$15,614",
+                "Price Score (40)": 7.45,
+                "Report Score (20)": 17.94,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 18,
+                "Penalty": 0,
+                "Score": 63.39
+            }
+        ],
+        "61": [
+            {
+                "Place": 61,
+                "Car Num": 40,
+                "Team": "Univ of North Florida",
+                "Adjusted Cost": "$16,455",
+                "Price Score (40)": 6.25,
+                "Report Score (20)": 17.11,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 63.37
+            }
+        ],
+        "62": [
+            {
+                "Place": 62,
+                "Car Num": 9,
+                "Team": "Univ of Florida",
+                "Adjusted Cost": "$17,169",
+                "Price Score (40)": 5.33,
+                "Report Score (20)": 20.0,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 18,
+                "Penalty": 0,
+                "Score": 63.33
+            }
+        ],
+        "63": [
+            {
+                "Place": 63,
+                "Car Num": 29,
+                "Team": "Washington Univ - St Louis",
+                "Adjusted Cost": "$13,299",
+                "Price Score (40)": 11.53,
+                "Report Score (20)": 11.4,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 62.93
+            }
+        ],
+        "64": [
+            {
+                "Place": 64,
+                "Car Num": 110,
+                "Team": "Univ of Manitoba",
+                "Adjusted Cost": "$18,749",
+                "Price Score (40)": 3.53,
+                "Report Score (20)": 19.18,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 62.71
+            }
+        ],
+        "65": [
+            {
+                "Place": 65,
+                "Car Num": 61,
+                "Team": "Northwestern Univ",
+                "Adjusted Cost": "$17,644",
+                "Price Score (40)": 4.75,
+                "Report Score (20)": 17.94,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 62.69
+            }
+        ],
+        "66": [
+            {
+                "Place": 66,
+                "Car Num": 1,
+                "Team": "Universitat Stuttgart",
+                "Adjusted Cost": "$14,899",
+                "Price Score (40)": 8.58,
+                "Report Score (20)": 16.94,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 17,
+                "Penalty": 0,
+                "Score": 62.51
+            }
+        ],
+        "67": [
+            {
+                "Place": 67,
+                "Car Num": 125,
+                "Team": "Univ of Nebraska - Lincoln",
+                "Adjusted Cost": "$13,912",
+                "Price Score (40)": 10.32,
+                "Report Score (20)": 15.05,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 17,
+                "Penalty": 0,
+                "Score": 62.37
+            }
+        ],
+        "68": [
+            {
+                "Place": 68,
+                "Car Num": 114,
+                "Team": "Florida Inst of Tech",
+                "Adjusted Cost": "$13,150",
+                "Price Score (40)": 11.84,
+                "Report Score (20)": 15.46,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 15,
+                "Penalty": 0,
+                "Score": 62.31
+            }
+        ],
+        "69": [
+            {
+                "Place": 69,
+                "Car Num": 120,
+                "Team": "Oakland University",
+                "Adjusted Cost": "$12,699",
+                "Price Score (40)": 12.83,
+                "Report Score (20)": 15.46,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 14,
+                "Penalty": 0,
+                "Score": 62.3
+            }
+        ],
+        "70": [
+            {
+                "Place": 70,
+                "Car Num": 62,
+                "Team": "Cooper Union",
+                "Adjusted Cost": "$15,883",
+                "Price Score (40)": 7.05,
+                "Report Score (20)": 17.11,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 18,
+                "Penalty": 0,
+                "Score": 62.17
+            }
+        ],
+        "71": [
+            {
+                "Place": 71,
+                "Car Num": 70,
+                "Team": "Universidad Metropolitana",
+                "Adjusted Cost": "$10,991",
+                "Price Score (40)": 17.31,
+                "Report Score (20)": 15.85,
+                "Part Content / Feasibility (20)": 19,
+                "Real Case (20)": 10,
+                "Penalty": 0,
+                "Score": 62.16
+            }
+        ],
+        "72": [
+            {
+                "Place": 72,
+                "Car Num": 100,
+                "Team": "Univ of British Columbia - Okangan",
+                "Adjusted Cost": "$12,571",
+                "Price Score (40)": 13.13,
+                "Report Score (20)": 17.94,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 11,
+                "Penalty": 0,
+                "Score": 62.06
+            }
+        ],
+        "73": [
+            {
+                "Place": 73,
+                "Car Num": 48,
+                "Team": "Univ of Connecticut",
+                "Adjusted Cost": "$16,714",
+                "Price Score (40)": 5.91,
+                "Report Score (20)": 17.11,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 19,
+                "Penalty": 0,
+                "Score": 62.02
+            }
+        ],
+        "74": [
+            {
+                "Place": 74,
+                "Car Num": 41,
+                "Team": "Lawrence Technological Univ",
+                "Adjusted Cost": "$20,410",
+                "Price Score (40)": 1.94,
+                "Report Score (20)": 20.0,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 61.94
+            }
+        ],
+        "75": [
+            {
+                "Place": 75,
+                "Car Num": 81,
+                "Team": "Virginia Tech",
+                "Adjusted Cost": "$19,056",
+                "Price Score (40)": 3.22,
+                "Report Score (20)": 18.68,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 61.89
+            }
+        ],
+        "76": [
+            {
+                "Place": 76,
+                "Car Num": 33,
+                "Team": "Univ of Maryland - College Park",
+                "Adjusted Cost": "$14,281",
+                "Price Score (40)": 9.64,
+                "Report Score (20)": 14.23,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 18,
+                "Penalty": 0,
+                "Score": 61.87
+            }
+        ],
+        "77": [
+            {
+                "Place": 77,
+                "Car Num": 25,
+                "Team": "Michigan Tech Univ",
+                "Adjusted Cost": "$13,037",
+                "Price Score (40)": 12.09,
+                "Report Score (20)": 14.64,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 15,
+                "Penalty": 0,
+                "Score": 61.72
+            }
+        ],
+        "78": [
+            {
+                "Place": 78,
+                "Car Num": 7,
+                "Team": "Missouri University of Science and Tech",
+                "Adjusted Cost": "$15,321",
+                "Price Score (40)": 7.9,
+                "Report Score (20)": 13.79,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 61.69
+            }
+        ],
+        "79": [
+            {
+                "Place": 79,
+                "Car Num": 73,
+                "Team": "Embry-Riddle Aero Univ - Daytona Beach",
+                "Adjusted Cost": "$18,056",
+                "Price Score (40)": 4.28,
+                "Report Score (20)": 19.18,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 18,
+                "Penalty": 0,
+                "Score": 61.46
+            }
+        ],
+        "80": [
+            {
+                "Place": 80,
+                "Car Num": 99,
+                "Team": "Cornell Univ",
+                "Adjusted Cost": "$19,685",
+                "Price Score (40)": 2.6,
+                "Report Score (20)": 18.76,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 61.36
+            }
+        ],
+        "81": [
+            {
+                "Place": 81,
+                "Car Num": 88,
+                "Team": "Ecole De Technologie Superieure",
+                "Adjusted Cost": "$13,005",
+                "Price Score (40)": 12.16,
+                "Report Score (20)": 19.18,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": -10,
+                "Score": 61.33
+            }
+        ],
+        "82": [
+            {
+                "Place": 82,
+                "Car Num": 67,
+                "Team": "Rochester Institute of Technology",
+                "Adjusted Cost": "$18,875",
+                "Price Score (40)": 203.4,
+                "Report Score (20)": 17.85,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 61.25
+            }
+        ],
+        "83": [
+            {
+                "Place": 83,
+                "Car Num": 47,
+                "Team": "National Univ of Singapore",
+                "Adjusted Cost": "$19,429",
+                "Price Score (40)": 2.85,
+                "Report Score (20)": 18.35,
+                "Part Content / Feasibility (20)": 20,
+                "Real Case (20)": 20,
+                "Penalty": 0,
+                "Score": 61.2
+            }
+        ],
+        "84": [
+            {
+                "Place": 84,
+                "Car Num": 72,
+                "Team": "Saginaw Valley State Univ",
+                "Adjusted Cost": "$10,411",
+                "Price Score (40)": 19.17,
+                "Report Score (20)": 17.94,
+                "Part Content / Feasibility (20)": 18,
+                "Real Case (20)": 6,
+                "Penalty": 0,
+                "Score": 61.11
+            }
+        ],
+        "85": [
+            {
+                "Place": 85,
+                "Car Num": 102,
+                "Team": "Duke Univ",
+                "Adjusted Cost": "$13,775",
+                "Price Score (40)": 10.58,
+                "Report Score (20)": 15.44,
+                "Part Content / Feasibility (20)": 20.0,
+                "Real Case (20)": 15.0,
+                "Penalty": 0,
+                "Score": 61.02
+            }
+        ],
+        "86": [
+            {
+                "Place": 86,
+                "Car Num": 89,
+                "Team": "Lakehead Univ",
+                "Adjusted Cost": "$17,610",
+                "Price Score (40)": 4.79,
+                "Report Score (20)": 19.59,
+                "Part Content / Feasibility (20)": 20.0,
+                "Real Case (20)": 16.0,
+                "Penalty": 0,
+                "Score": 60.38
+            }
+        ],
+        "87": [
+            {
+                "Place": 87,
+                "Car Num": 64,
+                "Team": "Penn State Univ - Harrisburg",
+                "Adjusted Cost": "$14,118",
+                "Price Score (40)": 9.93,
+                "Report Score (20)": 14.23,
+                "Part Content / Feasibility (20)": 20.0,
+                "Real Case (20)": 15.0,
+                "Penalty": 0,
+                "Score": 59.16
+            }
+        ],
+        "88": [
+            {
+                "Place": 88,
+                "Car Num": 20,
+                "Team": "Minnesota State University - Mankato",
+                "Adjusted Cost": "$16,246",
+                "Price Score (40)": 6.54,
+                "Report Score (20)": 15.46,
+                "Part Content / Feasibility (20)": 20.0,
+                "Real Case (20)": 17.0,
+                "Penalty": 0,
+                "Score": 59.0
+            }
+        ],
+        "89": [
+            {
+                "Place": 89,
+                "Car Num": 27,
+                "Team": "South Dakota School of Mines & Tech",
+                "Adjusted Cost": "$22,886",
+                "Price Score (40)": 0.0,
+                "Report Score (20)": 18.76,
+                "Part Content / Feasibility (20)": 20.0,
+                "Real Case (20)": 20.0,
+                "Penalty": 0,
+                "Score": 58.76
+            }
+        ],
+        "90": [
+            {
+                "Place": 90,
+                "Car Num": 3,
+                "Team": "U A S Graz",
+                "Adjusted Cost": "$20,210",
+                "Price Score (40)": 2.12,
+                "Report Score (20)": 17.11,
+                "Part Content / Feasibility (20)": 19.0,
+                "Real Case (20)": 20.0,
+                "Penalty": 0,
+                "Score": 58.23
+            }
+        ],
+        "91": [
+            {
+                "Place": 91,
+                "Car Num": 37,
+                "Team": "Univ of British Columbia",
+                "Adjusted Cost": "$19,545",
+                "Price Score (40)": 2.73,
+                "Report Score (20)": 17.11,
+                "Part Content / Feasibility (20)": 20.0,
+                "Real Case (20)": 18.0,
+                "Penalty": 0,
+                "Score": 57.85
+            }
+        ],
+        "92": [
+            {
+                "Place": 92,
+                "Car Num": 11,
+                "Team": "Universidade de Sao Paulo",
+                "Adjusted Cost": "$11,532",
+                "Price Score (40)": 15.75,
+                "Report Score (20)": 9.93,
+                "Part Content / Feasibility (20)": 20.0,
+                "Real Case (20)": 12.0,
+                "Penalty": 0,
+                "Score": 57.67
+            }
+        ],
+        "93": [
+            {
+                "Place": 93,
+                "Car Num": 4,
+                "Team": "Oregon State Univ",
+                "Adjusted Cost": "$22,046",
+                "Price Score (40)": 0.61,
+                "Report Score (20)": 20.0,
+                "Part Content / Feasibility (20)": 20.0,
+                "Real Case (20)": 17.0,
+                "Penalty": 0,
+                "Score": 57.61
+            }
+        ],
+        "94": [
+            {
+                "Place": 94,
+                "Car Num": 92,
+                "Team": "Kansas State Univ",
+                "Adjusted Cost": "$22,357",
+                "Price Score (40)": 0.38,
+                "Report Score (20)": 18.76,
+                "Part Content / Feasibility (20)": 20.0,
+                "Real Case (20)": 18.0,
+                "Penalty": 0,
+                "Score": 57.14
+            }
+        ],
+        "95": [
+            {
+                "Place": 95,
+                "Car Num": 60,
+                "Team": "The Ohio State University",
+                "Adjusted Cost": "$19,124",
+                "Price Score (40)": 3.15,
+                "Report Score (20)": 15.46,
+                "Part Content / Feasibility (20)": 19.0,
+                "Real Case (20)": 19.0,
+                "Penalty": 0,
+                "Score": 56.61
+            }
+        ],
+        "96": [
+            {
+                "Place": 96,
+                "Car Num": 2,
+                "Team": "Graz Technical Univ",
+                "Adjusted Cost": "$19,618",
+                "Price Score (40)": 2.67,
+                "Report Score (20)": 14.05,
+                "Part Content / Feasibility (20)": 20.0,
+                "Real Case (20)": 19.0,
+                "Penalty": 0,
+                "Score": 55.72
+            }
+        ],
+        "97": [
+            {
+                "Place": 97,
+                "Car Num": 109,
+                "Team": "Clemson Univ",
+                "Adjusted Cost": "$17,803",
+                "Price Score (40)": 4.57,
+                "Report Score (20)": 14.64,
+                "Part Content / Feasibility (20)": 19.0,
+                "Real Case (20)": 17.0,
+                "Penalty": 0,
+                "Score": 55.21
+            }
+        ],
+        "98": [
+            {
+                "Place": 98,
+                "Car Num": 90,
+                "Team": "Univ of Massachusetts - Lowell",
+                "Adjusted Cost": "$20,100",
+                "Price Score (40)": 2.22,
+                "Report Score (20)": 12.99,
+                "Part Content / Feasibility (20)": 20.0,
+                "Real Case (20)": 20.0,
+                "Penalty": 0,
+                "Score": 55.21
+            }
+        ],
+        "99": [
+            {
+                "Place": 99,
+                "Car Num": 30,
+                "Team": "Lehigh Univ",
+                "Adjusted Cost": "$16,474",
+                "Price Score (40)": 6.23,
+                "Report Score (20)": 13.81,
+                "Part Content / Feasibility (20)": 20.0,
+                "Real Case (20)": 15.0,
+                "Penalty": 0,
+                "Score": 55.04
+            }
+        ],
+        "100": [
+            {
+                "Place": 100,
+                "Car Num": 103,
+                "Team": "Univ of Central Florida",
+                "Adjusted Cost": "$13,750",
+                "Price Score (40)": 10.63,
+                "Report Score (20)": 15.05,
+                "Part Content / Feasibility (20)": 16.0,
+                "Real Case (20)": 13.0,
+                "Penalty": 0,
+                "Score": 54.68
+            }
+        ],
+        "101": [
+            {
+                "Place": 101,
+                "Car Num": 121,
+                "Team": "Texas State University-San Marcos",
+                "Adjusted Cost": "$13,161",
+                "Price Score (40)": 11.82,
+                "Report Score (20)": 12.81,
+                "Part Content / Feasibility (20)": 15.0,
+                "Real Case (20)": 15.0,
+                "Penalty": 0,
+                "Score": 54.63
+            }
+        ],
+        "102": [
+            {
+                "Place": 102,
+                "Car Num": 56,
+                "Team": "Univ of South Florida",
+                "Adjusted Cost": "$14,343",
+                "Price Score (40)": 9.53,
+                "Report Score (20)": 12.58,
+                "Part Content / Feasibility (20)": 20.0,
+                "Real Case (20)": 12.0,
+                "Penalty": 0,
+                "Score": 54.1
+            }
+        ],
+        "103": [
+            {
+                "Place": 103,
+                "Car Num": 59,
+                "Team": "Purdue Univ - W Lafayette",
+                "Adjusted Cost": "$16,821",
+                "Price Score (40)": 5.77,
+                "Report Score (20)": 12.99,
+                "Part Content / Feasibility (20)": 19.0,
+                "Real Case (20)": 16.0,
+                "Penalty": 0,
+                "Score": 53.76
+            }
+        ],
+        "104": [
+            {
+                "Place": 104,
+                "Car Num": 98,
+                "Team": "Univ of Puerto Rico-Mayaquez",
+                "Adjusted Cost": "$10,360",
+                "Price Score (40)": 19.34,
+                "Report Score (20)": 13.38,
+                "Part Content / Feasibility (20)": 20.0,
+                "Real Case (20)": 11.0,
+                "Penalty": -10,
+                "Score": 53.72
+            }
+        ],
+        "105": [
+            {
+                "Place": 105,
+                "Car Num": 52,
+                "Team": "Univ of Minnesota-Duluth",
+                "Adjusted Cost": "$12,546",
+                "Price Score (40)": 13.18,
+                "Report Score (20)": 13.81,
+                "Part Content / Feasibility (20)": 15.0,
+                "Real Case (20)": 10.0,
+                "Penalty": 0,
+                "Score": 52.0
+            }
+        ],
+        "106": [
+            {
+                "Place": 106,
+                "Car Num": 104,
+                "Team": "Univ of Evansville",
+                "Adjusted Cost": "$19,334",
+                "Price Score (40)": 2.94,
+                "Report Score (20)": 12.14,
+                "Part Content / Feasibility (20)": 20.0,
+                "Real Case (20)": 16.0,
+                "Penalty": 0,
+                "Score": 51.08
+            }
+        ],
+        "107": [
+            {
+                "Place": 107,
+                "Car Num": 86,
+                "Team": "Indiana Univ Purdue Univ Indianapolis",
+                "Adjusted Cost": "$14,016",
+                "Price Score (40)": 10.12,
+                "Report Score (20)": 8.51,
+                "Part Content / Feasibility (20)": 16.0,
+                "Real Case (20)": 13.0,
+                "Penalty": 0,
+                "Score": 47.64
+            }
+        ],
+        "108": [
+            {
+                "Place": 108,
+                "Car Num": 34,
+                "Team": "Grand Valley State Univ",
+                "Adjusted Cost": "$15,971",
+                "Price Score (40)": 6.93,
+                "Report Score (20)": 10.08,
+                "Part Content / Feasibility (20)": 20.0,
+                "Real Case (20)": 10.0,
+                "Penalty": 0,
+                "Score": 47.0
+            }
+        ],
+        "109": [
+            {
+                "Place": 109,
+                "Car Num": 117,
+                "Team": "Texas Tech Univ",
+                "Adjusted Cost": "$16,116",
+                "Price Score (40)": 6.72,
+                "Report Score (20)": 10.51,
+                "Part Content / Feasibility (20)": 16.0,
+                "Real Case (20)": 12.0,
+                "Penalty": 0,
+                "Score": 45.23
+            }
+        ]
+    }
+}

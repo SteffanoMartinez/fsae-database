@@ -1,0 +1,2571 @@
+{
+    "name": "Acceleration Event",
+    "headers": {
+        "base": [
+            "Place",
+            "Car Num",
+            "Team"
+        ],
+        "runs": {
+            "Run #1": [
+                "Time",
+                "Cones",
+                "AdjTime"
+            ],
+            "Run #2": [
+                "Time",
+                "Cones",
+                "AdjTime"
+            ],
+            "Run #3": [
+                "Time",
+                "Cones",
+                "AdjTime"
+            ],
+            "Run #4": [
+                "Time",
+                "Cones",
+                "AdjTime"
+            ]
+        },
+        "final": [
+            "Best Time",
+            "Score"
+        ]
+    },
+    "content": {
+        "1": [
+            {
+                "Place": 1,
+                "Car Num": 6,
+                "Team": "Univ of Michigan - Ann Arbor",
+                "Runs": {
+                    "1": {
+                        "Time": 4.288,
+                        "Cones": 0,
+                        "AdjTime": 4.288
+                    },
+                    "2": {
+                        "Time": 4.219,
+                        "Cones": 0,
+                        "AdjTime": 4.219
+                    },
+                    "3": {
+                        "Time": 4.231,
+                        "Cones": 0,
+                        "AdjTime": 4.231
+                    },
+                    "4": {
+                        "Time": 4.112,
+                        "Cones": 0,
+                        "AdjTime": 4.112
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.112,
+                    "Score": 75.0
+                }
+            }
+        ],
+        "2": [
+            {
+                "Place": 2,
+                "Car Num": 4,
+                "Team": "Graz Univ of Technology",
+                "Runs": {
+                    "1": {
+                        "Time": 4.396,
+                        "Cones": 0,
+                        "AdjTime": 4.396
+                    },
+                    "2": {
+                        "Time": 4.425,
+                        "Cones": 0,
+                        "AdjTime": 4.425
+                    },
+                    "3": {
+                        "Time": 4.255,
+                        "Cones": 0,
+                        "AdjTime": 4.255
+                    },
+                    "4": {
+                        "Time": 4.203,
+                        "Cones": 0,
+                        "AdjTime": 4.203
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.203,
+                    "Score": 69.68
+                }
+            }
+        ],
+        "3": [
+            {
+                "Place": 3,
+                "Car Num": 27,
+                "Team": "Michigan State Univ",
+                "Runs": {
+                    "1": {
+                        "Time": 5.108,
+                        "Cones": 0,
+                        "AdjTime": 5.108
+                    },
+                    "2": {
+                        "Time": 4.774,
+                        "Cones": 0,
+                        "AdjTime": 4.774
+                    },
+                    "3": {
+                        "Time": 4.573,
+                        "Cones": 0,
+                        "AdjTime": 4.573
+                    },
+                    "4": {
+                        "Time": 4.204,
+                        "Cones": 0,
+                        "AdjTime": 4.204
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.204,
+                    "Score": 69.62
+                }
+            }
+        ],
+        "4": [
+            {
+                "Place": 4,
+                "Car Num": 11,
+                "Team": "Ecole De Technologie Superieure",
+                "Runs": {
+                    "1": {
+                        "Time": 4.41,
+                        "Cones": 0,
+                        "AdjTime": 4.41
+                    },
+                    "2": {
+                        "Time": 4.284,
+                        "Cones": 0,
+                        "AdjTime": 0.2
+                    },
+                    "3": {
+                        "Time": 4.279,
+                        "Cones": 0,
+                        "AdjTime": 4.279
+                    },
+                    "4": {
+                        "Time": 4.258,
+                        "Cones": 0,
+                        "AdjTime": 4.258
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.258,
+                    "Score": 66.58
+                }
+            }
+        ],
+        "5": [
+            {
+                "Place": 5,
+                "Car Num": 59,
+                "Team": "North Carolina State Univ - Raleigh",
+                "Runs": {
+                    "1": {
+                        "Time": 4.26,
+                        "Cones": 0,
+                        "AdjTime": 4.26
+                    },
+                    "2": {
+                        "Time": 4.265,
+                        "Cones": 0,
+                        "AdjTime": 4.265
+                    },
+                    "3": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    },
+                    "4": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.26,
+                    "Score": 66.47
+                }
+            }
+        ],
+        "6": [
+            {
+                "Place": 6,
+                "Car Num": 2,
+                "Team": "Technical Univ of Munich",
+                "Runs": {
+                    "1": {
+                        "Time": 4.504,
+                        "Cones": 0,
+                        "AdjTime": 4.504
+                    },
+                    "2": {
+                        "Time": 4.535,
+                        "Cones": 0,
+                        "AdjTime": 4.535
+                    },
+                    "3": {
+                        "Time": 0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    },
+                    "4": {
+                        "Time": 4.276,
+                        "Cones": 0,
+                        "AdjTime": 4.276
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.276,
+                    "Score": 65.58
+                }
+            }
+        ],
+        "7": [
+            {
+                "Place": 7,
+                "Car Num": 108,
+                "Team": "Univ of Minnesota - Twin Cities",
+                "Runs": {
+                    "1": {
+                        "Time": 4.38,
+                        "Cones": 0,
+                        "AdjTime": 4.38
+                    },
+                    "2": {
+                        "Time": 4.29,
+                        "Cones": 0,
+                        "AdjTime": 4.29
+                    },
+                    "3": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    },
+                    "4": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.29,
+                    "Score": 64.81
+                }
+            }
+        ],
+        "8": [
+            {
+                "Place": 8,
+                "Car Num": 19,
+                "Team": "Rensselaer Polytechnic Inst",
+                "Runs": {
+                    "1": {
+                        "Time": 4.343,
+                        "Cones": 0,
+                        "AdjTime": 4.343
+                    },
+                    "2": {
+                        "Time": 4.536,
+                        "Cones": 0,
+                        "AdjTime": 4.536
+                    },
+                    "3": {
+                        "Time": 4.304,
+                        "Cones": 0,
+                        "AdjTime": 4.304
+                    },
+                    "4": {
+                        "Time": 4.139,
+                        "Cones": 0,
+                        "AdjTime": 6.139
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.304,
+                    "Score": 64.04
+                }
+            }
+        ],
+        "9": [
+            {
+                "Place": 9,
+                "Car Num": 118,
+                "Team": "Metropolia University of Applied Science",
+                "Runs": {
+                    "1": {
+                        "Time": 4.647,
+                        "Cones": 0,
+                        "AdjTime": 4.647
+                    },
+                    "2": {
+                        "Time": 4.49,
+                        "Cones": 0,
+                        "AdjTime": 4.49
+                    },
+                    "3": {
+                        "Time": 4.408,
+                        "Cones": 0,
+                        "AdjTime": 4.408
+                    },
+                    "4": {
+                        "Time": 4.321,
+                        "Cones": 0,
+                        "AdjTime": 4.321
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.321,
+                    "Score": 63.12
+                }
+            }
+        ],
+        "10": [
+            {
+                "Place": 10,
+                "Car Num": 14,
+                "Team": "Karlsruhe Institute of Technology",
+                "Runs": {
+                    "1": {
+                        "Time": 4.42,
+                        "Cones": 0,
+                        "AdjTime": 4.42
+                    },
+                    "2": {
+                        "Time": 4.4,
+                        "Cones": 0,
+                        "AdjTime": 4.4
+                    },
+                    "3": {
+                        "Time": 4.377,
+                        "Cones": 0,
+                        "AdjTime": 4.377
+                    },
+                    "4": {
+                        "Time": 4.326,
+                        "Cones": 0,
+                        "AdjTime": 4.326
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.326,
+                    "Score": 62.85
+                }
+            }
+        ],
+        "11": [
+            {
+                "Place": 11,
+                "Car Num": 3,
+                "Team": "Universitat Stuttgart",
+                "Runs": {
+                    "1": {
+                        "Time": 4.395,
+                        "Cones": 0,
+                        "AdjTime": 4.395
+                    },
+                    "2": {
+                        "Time": 4.329,
+                        "Cones": 0,
+                        "AdjTime": 4.329
+                    },
+                    "3": {
+                        "Time": 4.495,
+                        "Cones": 0,
+                        "AdjTime": 4.495
+                    },
+                    "4": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.329,
+                    "Score": 62.69
+                }
+            },
+            {
+                "Place": 11,
+                "Car Num": 120,
+                "Team": "Virginia Tech",
+                "Runs": {
+                    "1": {
+                        "Time": 4.329,
+                        "Cones": 0,
+                        "AdjTime": 4.329
+                    },
+                    "2": {
+                        "Time": 4.548,
+                        "Cones": 0,
+                        "AdjTime": 4.548
+                    },
+                    "3": {
+                        "Time": 4.521,
+                        "Cones": 0,
+                        "AdjTime": 4.521
+                    },
+                    "4": {
+                        "Time": 4.383,
+                        "Cones": 0,
+                        "AdjTime": 4.383
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.329,
+                    "Score": 62.69
+                }
+            }
+        ],
+        "13": [
+            {
+                "Place": 13,
+                "Car Num": 36,
+                "Team": "Univ of Waterloo",
+                "Runs": {
+                    "1": {
+                        "Time": 4.407,
+                        "Cones": 0,
+                        "AdjTime": 4.407
+                    },
+                    "2": {
+                        "Time": 4.386,
+                        "Cones": 0,
+                        "AdjTime": 4.0
+                    },
+                    "3": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    },
+                    "4": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.386,
+                    "Score": 59.65
+                }
+            }
+        ],
+        "14": [
+            {
+                "Place": 14,
+                "Car Num": 62,
+                "Team": "Univ of Toledo",
+                "Runs": {
+                    "1": {
+                        "Time": 4.976,
+                        "Cones": 0,
+                        "AdjTime": 4.976
+                    },
+                    "2": {
+                        "Time": 5.065,
+                        "Cones": 0,
+                        "AdjTime": 5.065
+                    },
+                    "3": {
+                        "Time": 4.644,
+                        "Cones": 0,
+                        "AdjTime": 4.644
+                    },
+                    "4": {
+                        "Time": 4.396,
+                        "Cones": 0,
+                        "AdjTime": 4.396
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.396,
+                    "Score": 59.13
+                }
+            }
+        ],
+        "15": [
+            {
+                "Place": 15,
+                "Car Num": 35,
+                "Team": "Oakland University",
+                "Runs": {
+                    "1": {
+                        "Time": 5.089,
+                        "Cones": 0,
+                        "AdjTime": 5.089
+                    },
+                    "2": {
+                        "Time": 4.91,
+                        "Cones": 0,
+                        "AdjTime": 4.91
+                    },
+                    "3": {
+                        "Time": 4.475,
+                        "Cones": 0,
+                        "AdjTime": 4.475
+                    },
+                    "4": {
+                        "Time": 4.43,
+                        "Cones": 0,
+                        "AdjTime": 4.43
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.43,
+                    "Score": 57.37
+                }
+            }
+        ],
+        "16": [
+            {
+                "Place": 16,
+                "Car Num": 89,
+                "Team": "Duke Univ",
+                "Runs": {
+                    "1": {
+                        "Time": 4.581,
+                        "Cones": 0,
+                        "AdjTime": 4.581
+                    },
+                    "2": {
+                        "Time": 4.656,
+                        "Cones": 0,
+                        "AdjTime": 4.656
+                    },
+                    "3": {
+                        "Time": 4.522,
+                        "Cones": 0,
+                        "AdjTime": 4.522
+                    },
+                    "4": {
+                        "Time": 4.432,
+                        "Cones": 0,
+                        "AdjTime": 4.432
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.432,
+                    "Score": 57.26
+                }
+            }
+        ],
+        "17": [
+            {
+                "Place": 17,
+                "Car Num": 49,
+                "Team": "Friedrich Alexander Univ of Erlangen",
+                "Runs": {
+                    "1": {
+                        "Time": 4.499,
+                        "Cones": 0,
+                        "AdjTime": 4.499
+                    },
+                    "2": {
+                        "Time": 4.438,
+                        "Cones": 0,
+                        "AdjTime": 4.438
+                    },
+                    "3": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    },
+                    "4": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.438,
+                    "Score": 56.95
+                }
+            }
+        ],
+        "18": [
+            {
+                "Place": 18,
+                "Car Num": 96,
+                "Team": "Univ of Guelph",
+                "Runs": {
+                    "1": {
+                        "Time": 4.693,
+                        "Cones": 0,
+                        "AdjTime": 4.693
+                    },
+                    "2": {
+                        "Time": 4.606,
+                        "Cones": 0,
+                        "AdjTime": 4.0
+                    },
+                    "3": {
+                        "Time": 4.44,
+                        "Cones": 0,
+                        "AdjTime": 4.44
+                    },
+                    "4": {
+                        "Time": 4.446,
+                        "Cones": 0,
+                        "AdjTime": 4.446
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.44,
+                    "Score": 56.85
+                }
+            }
+        ],
+        "19": [
+            {
+                "Place": 19,
+                "Car Num": 39,
+                "Team": "Auburn Univ",
+                "Runs": {
+                    "1": {
+                        "Time": 4.6,
+                        "Cones": 0,
+                        "AdjTime": 4.6
+                    },
+                    "2": {
+                        "Time": 4.507,
+                        "Cones": 0,
+                        "AdjTime": 4.507
+                    },
+                    "3": {
+                        "Time": 4.659,
+                        "Cones": 0,
+                        "AdjTime": 6.659
+                    },
+                    "4": {
+                        "Time": 4.447,
+                        "Cones": 0,
+                        "AdjTime": 4.447
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.447,
+                    "Score": 56.49
+                }
+            }
+        ],
+        "20": [
+            {
+                "Place": 20,
+                "Car Num": 119,
+                "Team": "UAS Esslingen",
+                "Runs": {
+                    "1": {
+                        "Time": 4.485,
+                        "Cones": 0,
+                        "AdjTime": 4.485
+                    },
+                    "2": {
+                        "Time": 4.457,
+                        "Cones": 0,
+                        "AdjTime": 4.457
+                    },
+                    "3": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    },
+                    "4": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.457,
+                    "Score": 55.98
+                }
+            }
+        ],
+        "21": [
+            {
+                "Place": 21,
+                "Car Num": 58,
+                "Team": "Rutgers Univ",
+                "Runs": {
+                    "1": {
+                        "Time": 4.644,
+                        "Cones": 0,
+                        "AdjTime": 4.644
+                    },
+                    "2": {
+                        "Time": 4.667,
+                        "Cones": 0,
+                        "AdjTime": 4.0
+                    },
+                    "3": {
+                        "Time": 4.523,
+                        "Cones": 0,
+                        "AdjTime": 4.523
+                    },
+                    "4": {
+                        "Time": 4.492,
+                        "Cones": 0,
+                        "AdjTime": 4.492
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.492,
+                    "Score": 54.22
+                }
+            },
+            {
+                "Place": 21,
+                "Car Num": 97,
+                "Team": "Villanova Univ",
+                "Runs": {
+                    "1": {
+                        "Time": 4.614,
+                        "Cones": 0,
+                        "AdjTime": 4.614
+                    },
+                    "2": {
+                        "Time": 4.492,
+                        "Cones": 0,
+                        "AdjTime": 4.492
+                    },
+                    "3": {
+                        "Time": 5.112,
+                        "Cones": 0,
+                        "AdjTime": 5.112
+                    },
+                    "4": {
+                        "Time": 4.671,
+                        "Cones": 0,
+                        "AdjTime": 4.671
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.492,
+                    "Score": 54.22
+                }
+            }
+        ],
+        "23": [
+            {
+                "Place": 23,
+                "Car Num": 50,
+                "Team": "San Jose State University",
+                "Runs": {
+                    "1": {
+                        "Time": 4.506,
+                        "Cones": 0,
+                        "AdjTime": 4.506
+                    },
+                    "2": {
+                        "Time": 5.564,
+                        "Cones": 0,
+                        "AdjTime": 0.5
+                    },
+                    "3": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    },
+                    "4": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.506,
+                    "Score": 53.52
+                }
+            }
+        ],
+        "24": [
+            {
+                "Place": 24,
+                "Car Num": 68,
+                "Team": "Southern Polytechnic State Univ",
+                "Runs": {
+                    "1": {
+                        "Time": 4.727,
+                        "Cones": 0,
+                        "AdjTime": 4.727
+                    },
+                    "2": {
+                        "Time": 4.802,
+                        "Cones": 0,
+                        "AdjTime": 4.802
+                    },
+                    "3": {
+                        "Time": 4.621,
+                        "Cones": 0,
+                        "AdjTime": 4.621
+                    },
+                    "4": {
+                        "Time": 4.507,
+                        "Cones": 0,
+                        "AdjTime": 4.507
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.507,
+                    "Score": 53.47
+                }
+            }
+        ],
+        "25": [
+            {
+                "Place": 25,
+                "Car Num": 42,
+                "Team": "Kookmin Univ",
+                "Runs": {
+                    "1": {
+                        "Time": 4.65,
+                        "Cones": 0,
+                        "AdjTime": 4.65
+                    },
+                    "2": {
+                        "Time": 4.593,
+                        "Cones": 0,
+                        "AdjTime": 4.593
+                    },
+                    "3": {
+                        "Time": 4.508,
+                        "Cones": 0,
+                        "AdjTime": 4.508
+                    },
+                    "4": {
+                        "Time": 4.685,
+                        "Cones": 0,
+                        "AdjTime": 4.685
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.508,
+                    "Score": 53.42
+                }
+            }
+        ],
+        "26": [
+            {
+                "Place": 26,
+                "Car Num": 73,
+                "Team": "Universite Laval",
+                "Runs": {
+                    "1": {
+                        "Time": 4.515,
+                        "Cones": 0,
+                        "AdjTime": 4.515
+                    },
+                    "2": {
+                        "Time": 4.568,
+                        "Cones": 0,
+                        "AdjTime": 4.568
+                    },
+                    "3": {
+                        "Time": 4.772,
+                        "Cones": 0,
+                        "AdjTime": 4.772
+                    },
+                    "4": {
+                        "Time": 4.572,
+                        "Cones": 0,
+                        "AdjTime": 4.572
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.515,
+                    "Score": 53.07
+                }
+            }
+        ],
+        "27": [
+            {
+                "Place": 27,
+                "Car Num": 48,
+                "Team": "Concordia University",
+                "Runs": {
+                    "1": {
+                        "Time": 5.234,
+                        "Cones": 0,
+                        "AdjTime": 5.234
+                    },
+                    "2": {
+                        "Time": 4.558,
+                        "Cones": 0,
+                        "AdjTime": 4.558
+                    },
+                    "3": {
+                        "Time": 6.152,
+                        "Cones": 0,
+                        "AdjTime": 6.152
+                    },
+                    "4": {
+                        "Time": 4.526,
+                        "Cones": 0,
+                        "AdjTime": 4.526
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.526,
+                    "Score": 52.53
+                }
+            }
+        ],
+        "28": [
+            {
+                "Place": 28,
+                "Car Num": 1,
+                "Team": "Oregon State Univ",
+                "Runs": {
+                    "1": {
+                        "Time": 4.709,
+                        "Cones": 0,
+                        "AdjTime": 4.709
+                    },
+                    "2": {
+                        "Time": 4.571,
+                        "Cones": 0,
+                        "AdjTime": 4.571
+                    },
+                    "3": {
+                        "Time": 0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    },
+                    "4": {
+                        "Time": 4.537,
+                        "Cones": 0,
+                        "AdjTime": 4.537
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.537,
+                    "Score": 51.99
+                }
+            }
+        ],
+        "29": [
+            {
+                "Place": 29,
+                "Car Num": 54,
+                "Team": "Univ of Michigan - Dearborn",
+                "Runs": {
+                    "1": {
+                        "Time": 4.734,
+                        "Cones": 0,
+                        "AdjTime": 4.734
+                    },
+                    "2": {
+                        "Time": 4.538,
+                        "Cones": 0,
+                        "AdjTime": 4.538
+                    },
+                    "3": {
+                        "Time": 5.17,
+                        "Cones": 0,
+                        "AdjTime": 5.17
+                    },
+                    "4": {
+                        "Time": 5.276,
+                        "Cones": 0,
+                        "AdjTime": 5.276
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.538,
+                    "Score": 51.94
+                }
+            }
+        ],
+        "30": [
+            {
+                "Place": 30,
+                "Car Num": 43,
+                "Team": "Brown Univ",
+                "Runs": {
+                    "1": {
+                        "Time": 6.118,
+                        "Cones": 0,
+                        "AdjTime": 6.118
+                    },
+                    "2": {
+                        "Time": 4.564,
+                        "Cones": 0,
+                        "AdjTime": 4.564
+                    },
+                    "3": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    },
+                    "4": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.564,
+                    "Score": 50.67
+                }
+            }
+        ],
+        "31": [
+            {
+                "Place": 31,
+                "Car Num": 8,
+                "Team": "Univ of Akron",
+                "Runs": {
+                    "1": {
+                        "Time": 4.705,
+                        "Cones": 0,
+                        "AdjTime": 4.705
+                    },
+                    "2": {
+                        "Time": 4.607,
+                        "Cones": 0,
+                        "AdjTime": 0.6
+                    },
+                    "3": {
+                        "Time": 4.725,
+                        "Cones": 0,
+                        "AdjTime": 4.725
+                    },
+                    "4": {
+                        "Time": 4.578,
+                        "Cones": 0,
+                        "AdjTime": 4.578
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.578,
+                    "Score": 49.99
+                }
+            }
+        ],
+        "32": [
+            {
+                "Place": 32,
+                "Car Num": 45,
+                "Team": "Missouri University of Science and Tech",
+                "Runs": {
+                    "1": {
+                        "Time": 4.711,
+                        "Cones": 0,
+                        "AdjTime": 4.711
+                    },
+                    "2": {
+                        "Time": 4.705,
+                        "Cones": 0,
+                        "AdjTime": 4.705
+                    },
+                    "3": {
+                        "Time": 4.726,
+                        "Cones": 0,
+                        "AdjTime": 4.726
+                    },
+                    "4": {
+                        "Time": 4.591,
+                        "Cones": 0,
+                        "AdjTime": 4.591
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.591,
+                    "Score": 49.37
+                }
+            }
+        ],
+        "33": [
+            {
+                "Place": 33,
+                "Car Num": 21,
+                "Team": "Rose Hulman Inst of Tech",
+                "Runs": {
+                    "1": {
+                        "Time": 4.952,
+                        "Cones": 0,
+                        "AdjTime": 4.952
+                    },
+                    "2": {
+                        "Time": 4.877,
+                        "Cones": 0,
+                        "AdjTime": 4.877
+                    },
+                    "3": {
+                        "Time": 4.965,
+                        "Cones": 0,
+                        "AdjTime": 4.965
+                    },
+                    "4": {
+                        "Time": 4.593,
+                        "Cones": 0,
+                        "AdjTime": 4.593
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.593,
+                    "Score": 49.27
+                }
+            }
+        ],
+        "34": [
+            {
+                "Place": 34,
+                "Car Num": 71,
+                "Team": "Clemson Univ",
+                "Runs": {
+                    "1": {
+                        "Time": 4.82,
+                        "Cones": 0,
+                        "AdjTime": 4.82
+                    },
+                    "2": {
+                        "Time": 4.788,
+                        "Cones": 0,
+                        "AdjTime": 4.788
+                    },
+                    "3": {
+                        "Time": 4.679,
+                        "Cones": 0,
+                        "AdjTime": 4.679
+                    },
+                    "4": {
+                        "Time": 4.608,
+                        "Cones": 0,
+                        "AdjTime": 4.608
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.608,
+                    "Score": 48.56
+                }
+            }
+        ],
+        "35": [
+            {
+                "Place": 35,
+                "Car Num": 16,
+                "Team": "Universidad Simon Bolivar",
+                "Runs": {
+                    "1": {
+                        "Time": 5.322,
+                        "Cones": 0,
+                        "AdjTime": 5.322
+                    },
+                    "2": {
+                        "Time": 5.142,
+                        "Cones": 0,
+                        "AdjTime": 5.142
+                    },
+                    "3": {
+                        "Time": 5.057,
+                        "Cones": 0,
+                        "AdjTime": 5.057
+                    },
+                    "4": {
+                        "Time": 4.617,
+                        "Cones": 0,
+                        "AdjTime": 4.617
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.617,
+                    "Score": 48.13
+                }
+            }
+        ],
+        "36": [
+            {
+                "Place": 36,
+                "Car Num": 93,
+                "Team": "Universite Du Quebec a Trois-Rivieres",
+                "Runs": {
+                    "1": {
+                        "Time": 4.838,
+                        "Cones": 0,
+                        "AdjTime": 4.838
+                    },
+                    "2": {
+                        "Time": 4.719,
+                        "Cones": 0,
+                        "AdjTime": 0.7
+                    },
+                    "3": {
+                        "Time": 4.95,
+                        "Cones": 0,
+                        "AdjTime": 4.95
+                    },
+                    "4": {
+                        "Time": 4.635,
+                        "Cones": 0,
+                        "AdjTime": 4.635
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.635,
+                    "Score": 47.28
+                }
+            }
+        ],
+        "37": [
+            {
+                "Place": 37,
+                "Car Num": 61,
+                "Team": "York College of Pa",
+                "Runs": {
+                    "1": {
+                        "Time": 4.643,
+                        "Cones": 0,
+                        "AdjTime": 4.643
+                    },
+                    "2": {
+                        "Time": 4.638,
+                        "Cones": 0,
+                        "AdjTime": 4.638
+                    },
+                    "3": {
+                        "Time": 4.978,
+                        "Cones": 0,
+                        "AdjTime": 4.978
+                    },
+                    "4": {
+                        "Time": 4.755,
+                        "Cones": 0,
+                        "AdjTime": 4.755
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.638,
+                    "Score": 47.14
+                }
+            }
+        ],
+        "38": [
+            {
+                "Place": 38,
+                "Car Num": 57,
+                "Team": "Carnegie Mellon Univ",
+                "Runs": {
+                    "1": {
+                        "Time": 5.087,
+                        "Cones": 0,
+                        "AdjTime": 5.087
+                    },
+                    "2": {
+                        "Time": 4.659,
+                        "Cones": 0,
+                        "AdjTime": 4.659
+                    },
+                    "3": {
+                        "Time": 5.209,
+                        "Cones": 0,
+                        "AdjTime": 5.209
+                    },
+                    "4": {
+                        "Time": 4.841,
+                        "Cones": 0,
+                        "AdjTime": 4.841
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.659,
+                    "Score": 46.16
+                }
+            }
+        ],
+        "39": [
+            {
+                "Place": 39,
+                "Car Num": 26,
+                "Team": "Lafayette College",
+                "Runs": {
+                    "1": {
+                        "Time": 5.39,
+                        "Cones": 0,
+                        "AdjTime": 5.39
+                    },
+                    "2": {
+                        "Time": 4.934,
+                        "Cones": 0,
+                        "AdjTime": 4.934
+                    },
+                    "3": {
+                        "Time": 5.097,
+                        "Cones": 0,
+                        "AdjTime": 5.097
+                    },
+                    "4": {
+                        "Time": 4.667,
+                        "Cones": 0,
+                        "AdjTime": 4.667
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.667,
+                    "Score": 45.78
+                }
+            }
+        ],
+        "40": [
+            {
+                "Place": 40,
+                "Car Num": 30,
+                "Team": "South Dakota Sch of Mines & Tech",
+                "Runs": {
+                    "1": {
+                        "Time": 4.983,
+                        "Cones": 0,
+                        "AdjTime": 4.983
+                    },
+                    "2": {
+                        "Time": 5.074,
+                        "Cones": 0,
+                        "AdjTime": 5.074
+                    },
+                    "3": {
+                        "Time": 4.804,
+                        "Cones": 0,
+                        "AdjTime": 4.804
+                    },
+                    "4": {
+                        "Time": 4.675,
+                        "Cones": 0,
+                        "AdjTime": 4.675
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.675,
+                    "Score": 45.41
+                }
+            }
+        ],
+        "41": [
+            {
+                "Place": 41,
+                "Car Num": 66,
+                "Team": "Massachusetts Inst of Tech",
+                "Runs": {
+                    "1": {
+                        "Time": 4.841,
+                        "Cones": 0,
+                        "AdjTime": 4.841
+                    },
+                    "2": {
+                        "Time": 4.687,
+                        "Cones": 0,
+                        "AdjTime": 4.687
+                    },
+                    "3": {
+                        "Time": 4.762,
+                        "Cones": 0,
+                        "AdjTime": 4.762
+                    },
+                    "4": {
+                        "Time": 0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.687,
+                    "Score": 44.86
+                }
+            }
+        ],
+        "42": [
+            {
+                "Place": 42,
+                "Car Num": 29,
+                "Team": "Univ of Florida",
+                "Runs": {
+                    "1": {
+                        "Time": 4.821,
+                        "Cones": 0,
+                        "AdjTime": 4.821
+                    },
+                    "2": {
+                        "Time": 4.966,
+                        "Cones": 0,
+                        "AdjTime": 4.966
+                    },
+                    "3": {
+                        "Time": 4.83,
+                        "Cones": 0,
+                        "AdjTime": 4.83
+                    },
+                    "4": {
+                        "Time": 4.697,
+                        "Cones": 0,
+                        "AdjTime": 4.697
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.697,
+                    "Score": 44.4
+                }
+            }
+        ],
+        "43": [
+            {
+                "Place": 43,
+                "Car Num": 32,
+                "Team": "Univ of St Thomas",
+                "Runs": {
+                    "1": {
+                        "Time": 5.93,
+                        "Cones": 0,
+                        "AdjTime": 5.93
+                    },
+                    "2": {
+                        "Time": 4.703,
+                        "Cones": 0,
+                        "AdjTime": 4.703
+                    },
+                    "3": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    },
+                    "4": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.703,
+                    "Score": 44.13
+                }
+            }
+        ],
+        "44": [
+            {
+                "Place": 44,
+                "Car Num": 107,
+                "Team": "Univ of Missouri",
+                "Runs": {
+                    "1": {
+                        "Time": 4.793,
+                        "Cones": 0,
+                        "AdjTime": 4.793
+                    },
+                    "2": {
+                        "Time": 4.99,
+                        "Cones": 0,
+                        "AdjTime": 4.99
+                    },
+                    "3": {
+                        "Time": 4.709,
+                        "Cones": 0,
+                        "AdjTime": 4.709
+                    },
+                    "4": {
+                        "Time": 5.0,
+                        "Cones": 0,
+                        "AdjTime": 5.0
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.709,
+                    "Score": 43.85
+                }
+            }
+        ],
+        "45": [
+            {
+                "Place": 45,
+                "Car Num": 33,
+                "Team": "Univ of Victoria",
+                "Runs": {
+                    "1": {
+                        "Time": 4.775,
+                        "Cones": 0,
+                        "AdjTime": 4.775
+                    },
+                    "2": {
+                        "Time": 6.692,
+                        "Cones": 0,
+                        "AdjTime": 6.0
+                    },
+                    "3": {
+                        "Time": 4.733,
+                        "Cones": 0,
+                        "AdjTime": 4.733
+                    },
+                    "4": {
+                        "Time": 4.85,
+                        "Cones": 0,
+                        "AdjTime": 4.85
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.733,
+                    "Score": 42.77
+                }
+            }
+        ],
+        "46": [
+            {
+                "Place": 46,
+                "Car Num": 111,
+                "Team": "Univ of Western Ontario",
+                "Runs": {
+                    "1": {
+                        "Time": 5.996,
+                        "Cones": 0,
+                        "AdjTime": 5.996
+                    },
+                    "2": {
+                        "Time": 4.993,
+                        "Cones": 0,
+                        "AdjTime": 4.993
+                    },
+                    "3": {
+                        "Time": 4.824,
+                        "Cones": 0,
+                        "AdjTime": 4.824
+                    },
+                    "4": {
+                        "Time": 4.742,
+                        "Cones": 0,
+                        "AdjTime": 4.742
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.742,
+                    "Score": 42.36
+                }
+            }
+        ],
+        "47": [
+            {
+                "Place": 47,
+                "Car Num": 86,
+                "Team": "Cooper Union",
+                "Runs": {
+                    "1": {
+                        "Time": 4.743,
+                        "Cones": 0,
+                        "AdjTime": 4.743
+                    },
+                    "2": {
+                        "Time": 4.808,
+                        "Cones": 0,
+                        "AdjTime": 4.808
+                    },
+                    "3": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    },
+                    "4": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.743,
+                    "Score": 42.32
+                }
+            }
+        ],
+        "48": [
+            {
+                "Place": 48,
+                "Car Num": 34,
+                "Team": "National Univ of Singapore",
+                "Runs": {
+                    "1": {
+                        "Time": 4.809,
+                        "Cones": 0,
+                        "AdjTime": 4.809
+                    },
+                    "2": {
+                        "Time": 4.746,
+                        "Cones": 0,
+                        "AdjTime": 4.746
+                    },
+                    "3": {
+                        "Time": 5.002,
+                        "Cones": 0,
+                        "AdjTime": 5.002
+                    },
+                    "4": {
+                        "Time": 4.813,
+                        "Cones": 0,
+                        "AdjTime": 4.813
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.746,
+                    "Score": 42.18
+                }
+            }
+        ],
+        "49": [
+            {
+                "Place": 49,
+                "Car Num": 79,
+                "Team": "Univ of Cincinnati",
+                "Runs": {
+                    "1": {
+                        "Time": 4.841,
+                        "Cones": 0,
+                        "AdjTime": 4.841
+                    },
+                    "2": {
+                        "Time": 0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    },
+                    "3": {
+                        "Time": 5.054,
+                        "Cones": 0,
+                        "AdjTime": 5.054
+                    },
+                    "4": {
+                        "Time": 4.763,
+                        "Cones": 0,
+                        "AdjTime": 4.763
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.763,
+                    "Score": 41.42
+                }
+            }
+        ],
+        "50": [
+            {
+                "Place": 50,
+                "Car Num": 40,
+                "Team": "Lehigh Univ",
+                "Runs": {
+                    "1": {
+                        "Time": 5.271,
+                        "Cones": 0,
+                        "AdjTime": 5.271
+                    },
+                    "2": {
+                        "Time": 5.244,
+                        "Cones": 0,
+                        "AdjTime": 5.0
+                    },
+                    "3": {
+                        "Time": 4.767,
+                        "Cones": 0,
+                        "AdjTime": 4.767
+                    },
+                    "4": {
+                        "Time": 5.371,
+                        "Cones": 0,
+                        "AdjTime": 5.371
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.767,
+                    "Score": 41.24
+                }
+            }
+        ],
+        "51": [
+            {
+                "Place": 51,
+                "Car Num": 88,
+                "Team": "Mississippi State Univ",
+                "Runs": {
+                    "1": {
+                        "Time": 9.11,
+                        "Cones": 0,
+                        "AdjTime": 9.11
+                    },
+                    "2": {
+                        "Time": 5.696,
+                        "Cones": 0,
+                        "AdjTime": 5.696
+                    },
+                    "3": {
+                        "Time": 4.949,
+                        "Cones": 0,
+                        "AdjTime": 4.949
+                    },
+                    "4": {
+                        "Time": 4.784,
+                        "Cones": 0,
+                        "AdjTime": 4.784
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.784,
+                    "Score": 40.49
+                }
+            }
+        ],
+        "52": [
+            {
+                "Place": 52,
+                "Car Num": 31,
+                "Team": "Lakehead Univ",
+                "Runs": {
+                    "1": {
+                        "Time": 5.058,
+                        "Cones": 0,
+                        "AdjTime": 5.058
+                    },
+                    "2": {
+                        "Time": 5.206,
+                        "Cones": 0,
+                        "AdjTime": 5.206
+                    },
+                    "3": {
+                        "Time": 4.815,
+                        "Cones": 0,
+                        "AdjTime": 4.815
+                    },
+                    "4": {
+                        "Time": 4.794,
+                        "Cones": 0,
+                        "AdjTime": 4.794
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.794,
+                    "Score": 40.05
+                }
+            }
+        ],
+        "53": [
+            {
+                "Place": 53,
+                "Car Num": 20,
+                "Team": "Univ of Central Florida",
+                "Runs": {
+                    "1": {
+                        "Time": 4.906,
+                        "Cones": 0,
+                        "AdjTime": 4.906
+                    },
+                    "2": {
+                        "Time": 4.865,
+                        "Cones": 0,
+                        "AdjTime": 4.865
+                    },
+                    "3": {
+                        "Time": 4.81,
+                        "Cones": 0,
+                        "AdjTime": 4.81
+                    },
+                    "4": {
+                        "Time": 5.395,
+                        "Cones": 0,
+                        "AdjTime": 5.395
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.81,
+                    "Score": 39.35
+                }
+            }
+        ],
+        "54": [
+            {
+                "Place": 54,
+                "Car Num": 109,
+                "Team": "Oxford Brookes Univ",
+                "Runs": {
+                    "1": {
+                        "Time": 4.813,
+                        "Cones": 0,
+                        "AdjTime": 4.813
+                    },
+                    "2": {
+                        "Time": 4.821,
+                        "Cones": 0,
+                        "AdjTime": 4.821
+                    },
+                    "3": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    },
+                    "4": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.813,
+                    "Score": 39.22
+                }
+            }
+        ],
+        "55": [
+            {
+                "Place": 55,
+                "Car Num": 102,
+                "Team": "Bradley Univ",
+                "Runs": {
+                    "1": {
+                        "Time": 4.851,
+                        "Cones": 0,
+                        "AdjTime": 4.851
+                    },
+                    "2": {
+                        "Time": 5.35,
+                        "Cones": 0,
+                        "AdjTime": 0.3
+                    },
+                    "3": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    },
+                    "4": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.851,
+                    "Score": 37.57
+                }
+            }
+        ],
+        "56": [
+            {
+                "Place": 56,
+                "Car Num": 5,
+                "Team": "Univ of Wisconsin - Madison",
+                "Runs": {
+                    "1": {
+                        "Time": 4.877,
+                        "Cones": 0,
+                        "AdjTime": 4.877
+                    },
+                    "2": {
+                        "Time": 0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    },
+                    "3": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    },
+                    "4": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.877,
+                    "Score": 36.46
+                }
+            }
+        ],
+        "57": [
+            {
+                "Place": 57,
+                "Car Num": 106,
+                "Team": "Old Dominion Univ",
+                "Runs": {
+                    "1": {
+                        "Time": 4.881,
+                        "Cones": 0,
+                        "AdjTime": 4.881
+                    },
+                    "2": {
+                        "Time": 9.246,
+                        "Cones": 0,
+                        "AdjTime": 9.246
+                    },
+                    "3": {
+                        "Time": 6.092,
+                        "Cones": 0,
+                        "AdjTime": 6.092
+                    },
+                    "4": {
+                        "Time": 8.076,
+                        "Cones": 0,
+                        "AdjTime": 8.076
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.881,
+                    "Score": 36.29
+                }
+            }
+        ],
+        "58": [
+            {
+                "Place": 58,
+                "Car Num": 115,
+                "Team": "Georgia Southern Univ",
+                "Runs": {
+                    "1": {
+                        "Time": 4.923,
+                        "Cones": 0,
+                        "AdjTime": 4.923
+                    },
+                    "2": {
+                        "Time": 5.361,
+                        "Cones": 0,
+                        "AdjTime": 5.361
+                    },
+                    "3": {
+                        "Time": 5.053,
+                        "Cones": 0,
+                        "AdjTime": 5.053
+                    },
+                    "4": {
+                        "Time": 5.077,
+                        "Cones": 0,
+                        "AdjTime": 5.077
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.923,
+                    "Score": 34.53
+                }
+            }
+        ],
+        "59": [
+            {
+                "Place": 59,
+                "Car Num": 13,
+                "Team": "Univ of South Florida",
+                "Runs": {
+                    "1": {
+                        "Time": 0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    },
+                    "2": {
+                        "Time": 5.06,
+                        "Cones": 0,
+                        "AdjTime": 5.06
+                    },
+                    "3": {
+                        "Time": 8.442,
+                        "Cones": 0,
+                        "AdjTime": 8.442
+                    },
+                    "4": {
+                        "Time": 4.93,
+                        "Cones": 0,
+                        "AdjTime": 4.93
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.93,
+                    "Score": 34.24
+                }
+            }
+        ],
+        "60": [
+            {
+                "Place": 60,
+                "Car Num": 47,
+                "Team": "Dalhousie Univ",
+                "Runs": {
+                    "1": {
+                        "Time": 5.199,
+                        "Cones": 0,
+                        "AdjTime": 5.199
+                    },
+                    "2": {
+                        "Time": 4.986,
+                        "Cones": 0,
+                        "AdjTime": 4.986
+                    },
+                    "3": {
+                        "Time": 0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    },
+                    "4": {
+                        "Time": 4.944,
+                        "Cones": 0,
+                        "AdjTime": 4.944
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.944,
+                    "Score": 33.66
+                }
+            }
+        ],
+        "61": [
+            {
+                "Place": 61,
+                "Car Num": 67,
+                "Team": "Georgia Institute of Technology",
+                "Runs": {
+                    "1": {
+                        "Time": 4.953,
+                        "Cones": 0,
+                        "AdjTime": 4.953
+                    },
+                    "2": {
+                        "Time": 4.961,
+                        "Cones": 0,
+                        "AdjTime": 4.961
+                    },
+                    "3": {
+                        "Time": 5.17,
+                        "Cones": 0,
+                        "AdjTime": 5.17
+                    },
+                    "4": {
+                        "Time": 5.034,
+                        "Cones": 0,
+                        "AdjTime": 5.034
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.953,
+                    "Score": 33.29
+                }
+            }
+        ],
+        "62": [
+            {
+                "Place": 62,
+                "Car Num": 17,
+                "Team": "US Air Force Academy",
+                "Runs": {
+                    "1": {
+                        "Time": 5.129,
+                        "Cones": 0,
+                        "AdjTime": 5.129
+                    },
+                    "2": {
+                        "Time": 5.037,
+                        "Cones": 0,
+                        "AdjTime": 5.037
+                    },
+                    "3": {
+                        "Time": 5.03,
+                        "Cones": 0,
+                        "AdjTime": 5.03
+                    },
+                    "4": {
+                        "Time": 4.991,
+                        "Cones": 0,
+                        "AdjTime": 4.991
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.991,
+                    "Score": 31.73
+                }
+            }
+        ],
+        "63": [
+            {
+                "Place": 63,
+                "Car Num": 87,
+                "Team": "Univ of Windsor",
+                "Runs": {
+                    "1": {
+                        "Time": 5.258,
+                        "Cones": 0,
+                        "AdjTime": 5.258
+                    },
+                    "2": {
+                        "Time": 5.403,
+                        "Cones": 0,
+                        "AdjTime": 5.403
+                    },
+                    "3": {
+                        "Time": 5.255,
+                        "Cones": 0,
+                        "AdjTime": 5.255
+                    },
+                    "4": {
+                        "Time": 4.993,
+                        "Cones": 0,
+                        "AdjTime": 4.993
+                    }
+                },
+                "Final": {
+                    "Best Time": 4.993,
+                    "Score": 31.65
+                }
+            }
+        ],
+        "64": [
+            {
+                "Place": 64,
+                "Car Num": 80,
+                "Team": "Cornell Univ",
+                "Runs": {
+                    "1": {
+                        "Time": 5.488,
+                        "Cones": 0,
+                        "AdjTime": 5.488
+                    },
+                    "2": {
+                        "Time": 5.552,
+                        "Cones": 0,
+                        "AdjTime": 5.552
+                    },
+                    "3": {
+                        "Time": 5.791,
+                        "Cones": 0,
+                        "AdjTime": 5.791
+                    },
+                    "4": {
+                        "Time": 5.074,
+                        "Cones": 0,
+                        "AdjTime": 5.074
+                    }
+                },
+                "Final": {
+                    "Best Time": 5.074,
+                    "Score": 28.42
+                }
+            }
+        ],
+        "65": [
+            {
+                "Place": 65,
+                "Car Num": 52,
+                "Team": "Univ of New Hampshire",
+                "Runs": {
+                    "1": {
+                        "Time": 5.166,
+                        "Cones": 0,
+                        "AdjTime": 5.166
+                    },
+                    "2": {
+                        "Time": 5.14,
+                        "Cones": 0,
+                        "AdjTime": 5.14
+                    },
+                    "3": {
+                        "Time": 5.197,
+                        "Cones": 0,
+                        "AdjTime": 5.197
+                    },
+                    "4": {
+                        "Time": 0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    }
+                },
+                "Final": {
+                    "Best Time": 5.14,
+                    "Score": 25.87
+                }
+            }
+        ],
+        "66": [
+            {
+                "Place": 66,
+                "Car Num": 84,
+                "Team": "Univ of Maine",
+                "Runs": {
+                    "1": {
+                        "Time": 5.245,
+                        "Cones": 0,
+                        "AdjTime": 5.245
+                    },
+                    "2": {
+                        "Time": 5.204,
+                        "Cones": 0,
+                        "AdjTime": 5.204
+                    },
+                    "3": {
+                        "Time": 5.687,
+                        "Cones": 0,
+                        "AdjTime": 5.687
+                    },
+                    "4": {
+                        "Time": 5.908,
+                        "Cones": 0,
+                        "AdjTime": 5.908
+                    }
+                },
+                "Final": {
+                    "Best Time": 5.204,
+                    "Score": 23.45
+                }
+            }
+        ],
+        "67": [
+            {
+                "Place": 67,
+                "Car Num": 24,
+                "Team": "Universite de Sherbrooke",
+                "Runs": {
+                    "1": {
+                        "Time": 5.465,
+                        "Cones": 0,
+                        "AdjTime": 5.465
+                    },
+                    "2": {
+                        "Time": 5.381,
+                        "Cones": 0,
+                        "AdjTime": 5.381
+                    },
+                    "3": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    },
+                    "4": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    }
+                },
+                "Final": {
+                    "Best Time": 5.381,
+                    "Score": 17.06
+                }
+            }
+        ],
+        "68": [
+            {
+                "Place": 68,
+                "Car Num": 15,
+                "Team": "US Naval Academy",
+                "Runs": {
+                    "1": {
+                        "Time": 5.399,
+                        "Cones": 0,
+                        "AdjTime": 5.399
+                    },
+                    "2": {
+                        "Time": 6.163,
+                        "Cones": 0,
+                        "AdjTime": 0.1
+                    },
+                    "3": {
+                        "Time": 5.983,
+                        "Cones": 0,
+                        "AdjTime": 5.983
+                    },
+                    "4": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    }
+                },
+                "Final": {
+                    "Best Time": 5.399,
+                    "Score": 16.44
+                }
+            }
+        ],
+        "69": [
+            {
+                "Place": 69,
+                "Car Num": 46,
+                "Team": "Columbia Univ",
+                "Runs": {
+                    "1": {
+                        "Time": 5.411,
+                        "Cones": 0,
+                        "AdjTime": 5.411
+                    },
+                    "2": {
+                        "Time": 5.658,
+                        "Cones": 0,
+                        "AdjTime": 5.658
+                    },
+                    "3": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    },
+                    "4": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    }
+                },
+                "Final": {
+                    "Best Time": 5.411,
+                    "Score": 16.02
+                }
+            }
+        ],
+        "70": [
+            {
+                "Place": 70,
+                "Car Num": 78,
+                "Team": "McGill Univ",
+                "Runs": {
+                    "1": {
+                        "Time": 6.265,
+                        "Cones": 0,
+                        "AdjTime": 6.265
+                    },
+                    "2": {
+                        "Time": 6.411,
+                        "Cones": 0,
+                        "AdjTime": 6.411
+                    },
+                    "3": {
+                        "Time": 5.424,
+                        "Cones": 0,
+                        "AdjTime": 5.424
+                    },
+                    "4": {
+                        "Time": 5.422,
+                        "Cones": 0,
+                        "AdjTime": 5.422
+                    }
+                },
+                "Final": {
+                    "Best Time": 5.422,
+                    "Score": 15.64
+                }
+            }
+        ],
+        "71": [
+            {
+                "Place": 71,
+                "Car Num": 99,
+                "Team": "Oklahoma State Univ",
+                "Runs": {
+                    "1": {
+                        "Time": 23.225,
+                        "Cones": 0,
+                        "AdjTime": 23.225
+                    },
+                    "2": {
+                        "Time": 5.678,
+                        "Cones": 0,
+                        "AdjTime": 5.678
+                    },
+                    "3": {
+                        "Time": 5.473,
+                        "Cones": 0,
+                        "AdjTime": 5.473
+                    },
+                    "4": {
+                        "Time": 5.634,
+                        "Cones": 0,
+                        "AdjTime": 5.634
+                    }
+                },
+                "Final": {
+                    "Best Time": 5.473,
+                    "Score": 13.91
+                }
+            }
+        ],
+        "72": [
+            {
+                "Place": 72,
+                "Car Num": 127,
+                "Team": "Univ of Connecticut",
+                "Runs": {
+                    "1": {
+                        "Time": 5.61,
+                        "Cones": 0,
+                        "AdjTime": 5.61
+                    },
+                    "2": {
+                        "Time": 5.588,
+                        "Cones": 0,
+                        "AdjTime": 5.588
+                    },
+                    "3": {
+                        "Time": 7.129,
+                        "Cones": 0,
+                        "AdjTime": 7.129
+                    },
+                    "4": {
+                        "Time": 5.564,
+                        "Cones": 0,
+                        "AdjTime": 5.564
+                    }
+                },
+                "Final": {
+                    "Best Time": 5.564,
+                    "Score": 10.89
+                }
+            }
+        ],
+        "73": [
+            {
+                "Place": 73,
+                "Car Num": 129,
+                "Team": "Vanderbilt Univ",
+                "Runs": {
+                    "1": {
+                        "Time": 5.9,
+                        "Cones": 0,
+                        "AdjTime": 5.9
+                    },
+                    "2": {
+                        "Time": 5.657,
+                        "Cones": 0,
+                        "AdjTime": 5.657
+                    },
+                    "3": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    },
+                    "4": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    }
+                },
+                "Final": {
+                    "Best Time": 5.657,
+                    "Score": 7.9
+                }
+            }
+        ],
+        "74": [
+            {
+                "Place": 74,
+                "Car Num": 116,
+                "Team": "Univ of Pittsburgh - Pittsburgh",
+                "Runs": {
+                    "1": {
+                        "Time": 6.119,
+                        "Cones": 0,
+                        "AdjTime": 6.119
+                    },
+                    "2": {
+                        "Time": 5.781,
+                        "Cones": 0,
+                        "AdjTime": 5.781
+                    },
+                    "3": {
+                        "Time": 6.779,
+                        "Cones": 0,
+                        "AdjTime": 6.779
+                    },
+                    "4": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    }
+                },
+                "Final": {
+                    "Best Time": 5.781,
+                    "Score": 4.07
+                }
+            }
+        ],
+        "75": [
+            {
+                "Place": 75,
+                "Car Num": 75,
+                "Team": "Northwestern Univ",
+                "Runs": {
+                    "1": {
+                        "Time": 6.089,
+                        "Cones": 0,
+                        "AdjTime": 6.089
+                    },
+                    "2": {
+                        "Time": 6.199,
+                        "Cones": 0,
+                        "AdjTime": 6.199
+                    },
+                    "3": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    },
+                    "4": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    }
+                },
+                "Final": {
+                    "Best Time": 6.089,
+                    "Score": 3.5
+                }
+            },
+            {
+                "Place": 75,
+                "Car Num": 114,
+                "Team": "Univ of Evansville",
+                "Runs": {
+                    "1": {
+                        "Time": 6.414,
+                        "Cones": 0,
+                        "AdjTime": 6.414
+                    },
+                    "2": {
+                        "Time": 6.415,
+                        "Cones": 0,
+                        "AdjTime": 6.415
+                    },
+                    "3": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    },
+                    "4": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    }
+                },
+                "Final": {
+                    "Best Time": 6.414,
+                    "Score": 3.5
+                }
+            },
+            {
+                "Place": 75,
+                "Car Num": 90,
+                "Team": "Univ of North Florida",
+                "Runs": {
+                    "1": {
+                        "Time": 6.585,
+                        "Cones": 0,
+                        "AdjTime": 6.585
+                    },
+                    "2": {
+                        "Time": 7.379,
+                        "Cones": 0,
+                        "AdjTime": 7.0
+                    },
+                    "3": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    },
+                    "4": {
+                        "Time": 0.0,
+                        "Cones": 0,
+                        "AdjTime": 0
+                    }
+                },
+                "Final": {
+                    "Best Time": 6.585,
+                    "Score": 3.5
+                }
+            }
+        ]
+    }
+}

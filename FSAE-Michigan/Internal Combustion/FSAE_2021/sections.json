@@ -1,0 +1,28 @@
+{
+    "overall": [
+        1,
+        2,
+        3
+    ],
+    "accel": [
+        4,
+        5
+    ],
+    "skidpad": [
+        6,
+        7
+    ],
+    "autocross": [
+        8,
+        9
+    ],
+    "endurance": [
+        10
+    ],
+    "efficiency": [
+        11
+    ],
+    "endurance_lap_time": [
+        12
+    ]
+}

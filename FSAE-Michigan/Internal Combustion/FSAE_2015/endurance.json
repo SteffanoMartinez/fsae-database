@@ -1,0 +1,605 @@
+{
+    "name": "Endurance Event",
+    "headers": [
+        "Place",
+        "Car Num",
+        "Team",
+        "Time",
+        "Laps",
+        "Cones",
+        "Off Course",
+        "Other Penalty",
+        "Adjusted Time",
+        "Endurance Score"
+    ],
+    "content": {
+        "1": [
+            {
+                "Place": 1,
+                "Car Num": 1.0,
+                "Team": "Oregon State Univ",
+                "Time": 1325.605,
+                "Laps": 22.0,
+                "Cones": 2.0,
+                "Off Course": 0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1329.605,
+                "Endurance Score": 300.0
+            }
+        ],
+        "2": [
+            {
+                "Place": 2,
+                "Car Num": 9.0,
+                "Team": "Univ of Florida",
+                "Time": 1372.369,
+                "Laps": 22.0,
+                "Cones": 1.0,
+                "Off Course": 0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1374.369,
+                "Endurance Score": 273.8
+            }
+        ],
+        "3": [
+            {
+                "Place": 3,
+                "Car Num": 16.0,
+                "Team": "Graz Technical Univ",
+                "Time": 1363.07,
+                "Laps": 22.0,
+                "Cones": 1.0,
+                "Off Course": 1.0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1385.07,
+                "Endurance Score": 267.7
+            }
+        ],
+        "4": [
+            {
+                "Place": 4,
+                "Car Num": 110.0,
+                "Team": "Virginia Tech",
+                "Time": 1433.109,
+                "Laps": 22.0,
+                "Cones": 1.0,
+                "Off Course": 0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1435.109,
+                "Endurance Score": 240.8
+            }
+        ],
+        "5": [
+            {
+                "Place": 5,
+                "Car Num": 53.0,
+                "Team": "Kookmin Univ",
+                "Time": 1437.24,
+                "Laps": 22.0,
+                "Cones": 0,
+                "Off Course": 0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1437.24,
+                "Endurance Score": 239.7
+            }
+        ],
+        "6": [
+            {
+                "Place": 6,
+                "Car Num": 72.0,
+                "Team": "Univ of Michigan - Dearborn",
+                "Time": 1455.976,
+                "Laps": 22.0,
+                "Cones": 4.0,
+                "Off Course": 0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1463.976,
+                "Endurance Score": 226.1
+            }
+        ],
+        "7": [
+            {
+                "Place": 7,
+                "Car Num": 101.0,
+                "Team": "Wroclaw University of Technology",
+                "Time": 1463.633,
+                "Laps": 22.0,
+                "Cones": 5.0,
+                "Off Course": 0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1473.633,
+                "Endurance Score": 221.3
+            }
+        ],
+        "8": [
+            {
+                "Place": 8,
+                "Car Num": 117.0,
+                "Team": "Western University",
+                "Time": 1418.299,
+                "Laps": 22.0,
+                "Cones": 1.0,
+                "Off Course": 3.0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1480.299,
+                "Endurance Score": 218.0
+            }
+        ],
+        "9": [
+            {
+                "Place": 9,
+                "Car Num": 8.0,
+                "Team": "Univ of Michigan - Ann Arbor",
+                "Time": 1442.631,
+                "Laps": 22.0,
+                "Cones": 4.0,
+                "Off Course": 2.0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1490.631,
+                "Endurance Score": 213.0
+            }
+        ],
+        "10": [
+            {
+                "Place": 10,
+                "Car Num": 59.0,
+                "Team": "Univ of Minnesota - Twin Cities",
+                "Time": 1485.496,
+                "Laps": 22.0,
+                "Cones": 3.0,
+                "Off Course": 0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1491.496,
+                "Endurance Score": 212.6
+            }
+        ],
+        "11": [
+            {
+                "Place": 11,
+                "Car Num": 12.0,
+                "Team": "Michigan State Univ",
+                "Time": 1491.889,
+                "Laps": 22.0,
+                "Cones": 10.0,
+                "Off Course": 0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1511.889,
+                "Endurance Score": 202.9
+            }
+        ],
+        "12": [
+            {
+                "Place": 12,
+                "Car Num": 129.0,
+                "Team": "Univ of Texas - Arlington",
+                "Time": 1446.645,
+                "Laps": 22.0,
+                "Cones": 12.0,
+                "Off Course": 3.0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1530.645,
+                "Endurance Score": 194.2
+            }
+        ],
+        "13": [
+            {
+                "Place": 13,
+                "Car Num": 17.0,
+                "Team": "Univ of Toledo",
+                "Time": 1491.063,
+                "Laps": 22.0,
+                "Cones": 4.0,
+                "Off Course": 2.0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1539.063,
+                "Endurance Score": 190.4
+            }
+        ],
+        "14": [
+            {
+                "Place": 14,
+                "Car Num": 37.0,
+                "Team": "Univ of Connecticut",
+                "Time": 1515.272,
+                "Laps": 22.0,
+                "Cones": 3.0,
+                "Off Course": 1.0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1541.272,
+                "Endurance Score": 189.4
+            }
+        ],
+        "15": [
+            {
+                "Place": 15,
+                "Car Num": 50.0,
+                "Team": "Missouri University of Science and Tech",
+                "Time": 1537.227,
+                "Laps": 22.0,
+                "Cones": 3.0,
+                "Off Course": 0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1543.227,
+                "Endurance Score": 188.5
+            }
+        ],
+        "16": [
+            {
+                "Place": 16,
+                "Car Num": 115.0,
+                "Team": "Rochester Institute of Technology",
+                "Time": 1516.661,
+                "Laps": 22.0,
+                "Cones": 4.0,
+                "Off Course": 1.0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1544.661,
+                "Endurance Score": 187.8
+            }
+        ],
+        "17": [
+            {
+                "Place": 17,
+                "Car Num": 38.0,
+                "Team": "National Univ of Singapore",
+                "Time": 1539.347,
+                "Laps": 22.0,
+                "Cones": 4.0,
+                "Off Course": 0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1547.347,
+                "Endurance Score": 186.6
+            }
+        ],
+        "18": [
+            {
+                "Place": 18,
+                "Car Num": 76.0,
+                "Team": "Universite Du Quebec a Trois-Rivieres",
+                "Time": 1578.938,
+                "Laps": 22.0,
+                "Cones": 0,
+                "Off Course": 0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1578.938,
+                "Endurance Score": 172.8
+            }
+        ],
+        "19": [
+            {
+                "Place": 19,
+                "Car Num": 27.0,
+                "Team": "Louisiana State Univ",
+                "Time": 1573.811,
+                "Laps": 22.0,
+                "Cones": 3.0,
+                "Off Course": 1.0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1599.811,
+                "Endurance Score": 163.9
+            }
+        ],
+        "20": [
+            {
+                "Place": 20,
+                "Car Num": 119.0,
+                "Team": "Univ of Victoria",
+                "Time": 1568.768,
+                "Laps": 22.0,
+                "Cones": 6.0,
+                "Off Course": 1.0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1600.768,
+                "Endurance Score": 163.5
+            }
+        ],
+        "21": [
+            {
+                "Place": 21,
+                "Car Num": 15.0,
+                "Team": "Kettering Univ",
+                "Time": 1595.53,
+                "Laps": 22.0,
+                "Cones": 3.0,
+                "Off Course": 1.0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1621.53,
+                "Endurance Score": 155.0
+            }
+        ],
+        "22": [
+            {
+                "Place": 22,
+                "Car Num": 114.0,
+                "Team": "Michigan Tech Univ",
+                "Time": 1607.722,
+                "Laps": 22.0,
+                "Cones": 2.0,
+                "Off Course": 1.0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1631.722,
+                "Endurance Score": 150.8
+            }
+        ],
+        "23": [
+            {
+                "Place": 23,
+                "Car Num": 96.0,
+                "Team": "Penn State Univ - University Park",
+                "Time": 1687.231,
+                "Laps": 22.0,
+                "Cones": 0,
+                "Off Course": 0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1687.231,
+                "Endurance Score": 129.3
+            }
+        ],
+        "24": [
+            {
+                "Place": 24,
+                "Car Num": 40.0,
+                "Team": "Univ of Central Florida",
+                "Time": 1700.683,
+                "Laps": 22.0,
+                "Cones": 0,
+                "Off Course": 0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1700.683,
+                "Endurance Score": 124.2
+            }
+        ],
+        "25": [
+            {
+                "Place": 25,
+                "Car Num": 123.0,
+                "Team": "Florida Atlantic Univ",
+                "Time": 1586.524,
+                "Laps": 22.0,
+                "Cones": 3.0,
+                "Off Course": 0,
+                "Other Penalty": 120.0,
+                "Adjusted Time": 1712.524,
+                "Endurance Score": 119.9
+            }
+        ],
+        "26": [
+            {
+                "Place": 26,
+                "Car Num": 85.0,
+                "Team": "Villanova Univ",
+                "Time": 1715.193,
+                "Laps": 22.0,
+                "Cones": 3.0,
+                "Off Course": 1.0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1741.193,
+                "Endurance Score": 109.6
+            }
+        ],
+        "27": [
+            {
+                "Place": 27,
+                "Car Num": 48.0,
+                "Team": "Washington Univ - St Louis",
+                "Time": 1689.467,
+                "Laps": 22.0,
+                "Cones": 9.0,
+                "Off Course": 4.0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1787.467,
+                "Endurance Score": 93.7
+            }
+        ],
+        "28": [
+            {
+                "Place": 28,
+                "Car Num": 30.0,
+                "Team": "Univ of Missouri",
+                "Time": 1729.348,
+                "Laps": 22.0,
+                "Cones": 3.0,
+                "Off Course": 3.0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1795.348,
+                "Endurance Score": 91.0
+            }
+        ],
+        "29": [
+            {
+                "Place": 29,
+                "Car Num": 70.0,
+                "Team": "Kennesaw State University",
+                "Time": 1759.429,
+                "Laps": 22.0,
+                "Cones": 2.0,
+                "Off Course": 3.0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1823.429,
+                "Endurance Score": 81.8
+            }
+        ],
+        "30": [
+            {
+                "Place": 30,
+                "Car Num": 63.0,
+                "Team": "Duke Univ",
+                "Time": 1802.015,
+                "Laps": 22.0,
+                "Cones": 1.0,
+                "Off Course": 1.0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1824.015,
+                "Endurance Score": 81.6
+            }
+        ],
+        "31": [
+            {
+                "Place": 31,
+                "Car Num": 122.0,
+                "Team": "Indiana Univ Purdue Univ Indianapolis",
+                "Time": 1695.657,
+                "Laps": 22.0,
+                "Cones": 5.0,
+                "Off Course": 0,
+                "Other Penalty": 120.0,
+                "Adjusted Time": 1825.657,
+                "Endurance Score": 81.1
+            }
+        ],
+        "32": [
+            {
+                "Place": 32,
+                "Car Num": 81.0,
+                "Team": "Universidad Simon Bolivar",
+                "Time": 1794.475,
+                "Laps": 22.0,
+                "Cones": 5.0,
+                "Off Course": 2.0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1844.475,
+                "Endurance Score": 75.1
+            }
+        ],
+        "33": [
+            {
+                "Place": 33,
+                "Car Num": 22.0,
+                "Team": "US Naval Academy",
+                "Time": 1836.857,
+                "Laps": 22.0,
+                "Cones": 2.0,
+                "Off Course": 1.0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1860.857,
+                "Endurance Score": 70.0
+            }
+        ],
+        "34": [
+            {
+                "Place": 34,
+                "Car Num": 86.0,
+                "Team": "Cooper Union",
+                "Time": 1660.795,
+                "Laps": 22.0,
+                "Cones": 20.0,
+                "Off Course": 2.0,
+                "Other Penalty": 161.0,
+                "Adjusted Time": 1901.795,
+                "Endurance Score": 57.6
+            }
+        ],
+        "35": [
+            {
+                "Place": 35,
+                "Car Num": 49.0,
+                "Team": "Univ of Toronto",
+                "Time": 1880.198,
+                "Laps": 22.0,
+                "Cones": 0,
+                "Off Course": 2.0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1920.198,
+                "Endurance Score": 52.2
+            }
+        ],
+        "36": [
+            {
+                "Place": 36,
+                "Car Num": 33.0,
+                "Team": "West Virginia Univ",
+                "Time": 1932.108,
+                "Laps": 22.0,
+                "Cones": 0,
+                "Off Course": 0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1932.108,
+                "Endurance Score": 22.0
+            }
+        ],
+        "37": [
+            {
+                "Place": 37,
+                "Car Num": 77.0,
+                "Team": "Cegep du Vieux - Montreal",
+                "Time": 1912.542,
+                "Laps": 22.0,
+                "Cones": 1.0,
+                "Off Course": 1.0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1934.542,
+                "Endurance Score": 22.0
+            }
+        ],
+        "38": [
+            {
+                "Place": 38,
+                "Car Num": 134.0,
+                "Team": "Mississippi State Univ",
+                "Time": 1897.824,
+                "Laps": 22.0,
+                "Cones": 3.0,
+                "Off Course": 2.0,
+                "Other Penalty": 20.0,
+                "Adjusted Time": 1963.824,
+                "Endurance Score": 22.0
+            }
+        ],
+        "39": [
+            {
+                "Place": 39,
+                "Car Num": 68.0,
+                "Team": "Lakehead Univ",
+                "Time": 1952.902,
+                "Laps": 22.0,
+                "Cones": 2.0,
+                "Off Course": 1.0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1976.902,
+                "Endurance Score": 22.0
+            }
+        ],
+        "40": [
+            {
+                "Place": 40,
+                "Car Num": 5.0,
+                "Team": "Univ of Akron",
+                "Time": 1999.494,
+                "Laps": 22.0,
+                "Cones": 0,
+                "Off Course": 0,
+                "Other Penalty": 0,
+                "Adjusted Time": 1999.494,
+                "Endurance Score": 22.0
+            }
+        ],
+        "41": [
+            {
+                "Place": 41,
+                "Car Num": 55.0,
+                "Team": "Universidad Central de Venezuela",
+                "Time": 2054.716,
+                "Laps": 22.0,
+                "Cones": 4.0,
+                "Off Course": 3.0,
+                "Other Penalty": 0,
+                "Adjusted Time": 2122.716,
+                "Endurance Score": 22.0
+            }
+        ],
+        "42": [
+            {
+                "Place": 42,
+                "Car Num": 47.0,
+                "Team": "Univ of South Florida",
+                "Time": 1875.293,
+                "Laps": 22.0,
+                "Cones": 4.0,
+                "Off Course": 8.0,
+                "Other Penalty": 120.0,
+                "Adjusted Time": 2163.293,
+                "Endurance Score": 22.0
+            }
+        ]
+    }
+}

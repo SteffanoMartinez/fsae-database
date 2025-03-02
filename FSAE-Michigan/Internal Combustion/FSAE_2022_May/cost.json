@@ -1,0 +1,1158 @@
+{
+    "name": "Cost Event",
+    "headers": [
+        "Place",
+        "Car Num",
+        "Team",
+        "Adjusted Cost",
+        "Price Score (40)",
+        "Discussion Score (40)",
+        "Scenario Score (20)",
+        "Penalty",
+        "Score"
+    ],
+    "content": {
+        "1": [
+            {
+                "Place": 1,
+                "Car Num": 72,
+                "Team": "Tennessee Tech Univ",
+                "Adjusted Cost": "$7,477",
+                "Price Score (40)": 40.0,
+                "Discussion Score (40)": 40.0,
+                "Scenario Score (20)": 18.0,
+                "Penalty": 0,
+                "Score": 98.0
+            }
+        ],
+        "2": [
+            {
+                "Place": 2,
+                "Car Num": 44,
+                "Team": "Univ of Illinois - Urbana Champaign",
+                "Adjusted Cost": "$13,797",
+                "Price Score (40)": 30.4,
+                "Discussion Score (40)": 39.0,
+                "Scenario Score (20)": 18.0,
+                "Penalty": 0,
+                "Score": 87.43
+            }
+        ],
+        "3": [
+            {
+                "Place": 3,
+                "Car Num": 100,
+                "Team": "Univ of Kentucky",
+                "Adjusted Cost": "$13,618",
+                "Price Score (40)": 30.7,
+                "Discussion Score (40)": 39.0,
+                "Scenario Score (20)": 15.0,
+                "Penalty": 0,
+                "Score": 84.7
+            }
+        ],
+        "4": [
+            {
+                "Place": 4,
+                "Car Num": 47,
+                "Team": "University of Victoria",
+                "Adjusted Cost": "$17,281",
+                "Price Score (40)": 25.1,
+                "Discussion Score (40)": 40.0,
+                "Scenario Score (20)": 19.0,
+                "Penalty": 0,
+                "Score": 84.15
+            }
+        ],
+        "5": [
+            {
+                "Place": 5,
+                "Car Num": 86,
+                "Team": "Kennesaw State University",
+                "Adjusted Cost": "$10,740",
+                "Price Score (40)": 35.1,
+                "Discussion Score (40)": 32.0,
+                "Scenario Score (20)": 15.5,
+                "Penalty": 0,
+                "Score": 82.56
+            }
+        ],
+        "6": [
+            {
+                "Place": 6,
+                "Car Num": 82,
+                "Team": "Univ of Pittsburgh - Pittsburgh",
+                "Adjusted Cost": "$16,03T8e",
+                "Price Score (40)": 27.0,
+                "Discussion Score (40)": 37.0,
+                "Scenario Score (20)": 18.5,
+                "Penalty": 0,
+                "Score": 82.53
+            }
+        ],
+        "7": [
+            {
+                "Place": 7,
+                "Car Num": 76,
+                "Team": "Universidad Simon Bolivar",
+                "Adjusted Cost": "$10,178",
+                "Price Score (40)": 35.9,
+                "Discussion Score (40)": 28.0,
+                "Scenario Score (20)": 18.5,
+                "Penalty": 0,
+                "Score": 82.41
+            }
+        ],
+        "8": [
+            {
+                "Place": 8,
+                "Car Num": 151,
+                "Team": "Univ of Texas - Arlington",
+                "Adjusted Cost": "$15,871",
+                "Price Score (40)": 27.3,
+                "Discussion Score (40)": 38.0,
+                "Scenario Score (20)": 17.0,
+                "Penalty": 0,
+                "Score": 82.28
+            }
+        ],
+        "9": [
+            {
+                "Place": 9,
+                "Car Num": 105,
+                "Team": "Univ of North Dakota",
+                "Adjusted Cost": "$13,319",
+                "Price Score (40)": 31.2,
+                "Discussion Score (40)": 36.0,
+                "Scenario Score (20)": 15.0,
+                "Penalty": 0,
+                "Score": 82.15
+            }
+        ],
+        "10": [
+            {
+                "Place": 10,
+                "Car Num": 53,
+                "Team": "Columbia University",
+                "Adjusted Cost": "$14,142",
+                "Price Score (40)": 29.9,
+                "Discussion Score (40)": 35.0,
+                "Scenario Score (20)": 16.5,
+                "Penalty": 0,
+                "Score": 81.4
+            }
+        ],
+        "11": [
+            {
+                "Place": 11,
+                "Car Num": 102,
+                "Team": "Univ of Wisconsin-Madison",
+                "Adjusted Cost": "$16,305",
+                "Price Score (40)": 26.6,
+                "Discussion Score (40)": 35.0,
+                "Scenario Score (20)": 19.0,
+                "Penalty": 0,
+                "Score": 80.63
+            }
+        ],
+        "12": [
+            {
+                "Place": 12,
+                "Car Num": 104,
+                "Team": "Univ of Connecticut",
+                "Adjusted Cost": "$17,155",
+                "Price Score (40)": 25.3,
+                "Discussion Score (40)": 36.0,
+                "Scenario Score (20)": 19.0,
+                "Penalty": 0,
+                "Score": 80.34
+            }
+        ],
+        "13": [
+            {
+                "Place": 13,
+                "Car Num": 134,
+                "Team": "Univ of New Hampshire",
+                "Adjusted Cost": "$16,690",
+                "Price Score (40)": 26.0,
+                "Discussion Score (40)": 37.0,
+                "Scenario Score (20)": 16.5,
+                "Penalty": 0,
+                "Score": 79.55
+            }
+        ],
+        "14": [
+            {
+                "Place": 14,
+                "Car Num": 146,
+                "Team": "Technische Universitat Berlin",
+                "Adjusted Cost": "$21,008",
+                "Price Score (40)": 19.5,
+                "Discussion Score (40)": 40.0,
+                "Scenario Score (20)": 20.0,
+                "Penalty": 0,
+                "Score": 79.5
+            }
+        ],
+        "15": [
+            {
+                "Place": 15,
+                "Car Num": 45,
+                "Team": "Michigan Tech Univ",
+                "Adjusted Cost": "$16,541",
+                "Price Score (40)": 26.3,
+                "Discussion Score (40)": 37.0,
+                "Scenario Score (20)": 16.0,
+                "Penalty": 0,
+                "Score": 79.27
+            }
+        ],
+        "16": [
+            {
+                "Place": 16,
+                "Car Num": 51,
+                "Team": "Univ of British Columbia",
+                "Adjusted Cost": "$21,256",
+                "Price Score (40)": 19.1,
+                "Discussion Score (40)": 40.0,
+                "Scenario Score (20)": 20.0,
+                "Penalty": 0,
+                "Score": 79.13
+            }
+        ],
+        "17": [
+            {
+                "Place": 17,
+                "Car Num": 106,
+                "Team": "Univ of Waterloo",
+                "Adjusted Cost": "$19,786",
+                "Price Score (40)": 21.4,
+                "Discussion Score (40)": 39.0,
+                "Scenario Score (20)": 17.0,
+                "Penalty": 0,
+                "Score": 77.36
+            }
+        ],
+        "18": [
+            {
+                "Place": 18,
+                "Car Num": 120,
+                "Team": "Washington Univ - St. Louis",
+                "Adjusted Cost": "$19,809",
+                "Price Score (40)": 21.3,
+                "Discussion Score (40)": 38.0,
+                "Scenario Score (20)": 18.0,
+                "Penalty": 0,
+                "Score": 77.32
+            }
+        ],
+        "19": [
+            {
+                "Place": 19,
+                "Car Num": 65,
+                "Team": "Univ of Nebraska - Lincoln",
+                "Adjusted Cost": "$15,920",
+                "Price Score (40)": 27.2,
+                "Discussion Score (40)": 30.0,
+                "Scenario Score (20)": 20.0,
+                "Penalty": 0,
+                "Score": 77.21
+            }
+        ],
+        "20": [
+            {
+                "Place": 20,
+                "Car Num": 59,
+                "Team": "Missouri University of Science & Tech",
+                "Adjusted Cost": "$15,619",
+                "Price Score (40)": 27.7,
+                "Discussion Score (40)": 33.0,
+                "Scenario Score (20)": 16.5,
+                "Penalty": 0,
+                "Score": 77.17
+            }
+        ],
+        "21": [
+            {
+                "Place": 21,
+                "Car Num": 101,
+                "Team": "Univ of Saskatchewan",
+                "Adjusted Cost": "$18P,0r8ic3e",
+                "Price Score (40)": 23.9,
+                "Discussion Score (40)": 35.0,
+                "Scenario Score (20)": 18.0,
+                "Penalty": 0,
+                "Score": 76.94
+            }
+        ],
+        "22": [
+            {
+                "Place": 22,
+                "Car Num": 55,
+                "Team": "Oklahoma State Univ",
+                "Adjusted Cost": "$12,971(4",
+                "Price Score (40)": 31.7,
+                "Discussion Score (40)": 31.0,
+                "Scenario Score (20)": 12.5,
+                "Penalty": 0,
+                "Score": 75.18
+            }
+        ],
+        "23": [
+            {
+                "Place": 23,
+                "Car Num": 126,
+                "Team": "Texas A&M - College Station",
+                "Adjusted Cost": "$14,910",
+                "Price Score (40)": 28.7,
+                "Discussion Score (40)": 36.0,
+                "Scenario Score (20)": 10.0,
+                "Penalty": 0,
+                "Score": 74.74
+            }
+        ],
+        "24": [
+            {
+                "Place": 24,
+                "Car Num": 48,
+                "Team": "North Carolina State Univ - Raleigh",
+                "Adjusted Cost": "$19,009",
+                "Price Score (40)": 22.5,
+                "Discussion Score (40)": 34.0,
+                "Scenario Score (20)": 18.0,
+                "Penalty": 0,
+                "Score": 74.53
+            }
+        ],
+        "25": [
+            {
+                "Place": 25,
+                "Car Num": 89,
+                "Team": "Minnesota State Univerity - Mankato",
+                "Adjusted Cost": "$14,2D7is8c",
+                "Price Score (40)": 29.7,
+                "Discussion Score (40)": 31.0,
+                "Scenario Score (20)": 13.5,
+                "Penalty": 0,
+                "Score": 74.2
+            }
+        ],
+        "26": [
+            {
+                "Place": 26,
+                "Car Num": 116,
+                "Team": "Universidad Autonoma Estado Mexico",
+                "Adjusted Cost": "$12,682",
+                "Price Score (40)": 32.1,
+                "Discussion Score (40)": 26.0,
+                "Scenario Score (20)": 16.0,
+                "Penalty": 0,
+                "Score": 74.12
+            }
+        ],
+        "27": [
+            {
+                "Place": 27,
+                "Car Num": 141,
+                "Team": "Univ of Alberta",
+                "Adjusted Cost": "$17,636",
+                "Price Score (40)": 24.6,
+                "Discussion Score (40)": 34.0,
+                "Scenario Score (20)": 15.5,
+                "Penalty": 0,
+                "Score": 74.11
+            }
+        ],
+        "28": [
+            {
+                "Place": 28,
+                "Car Num": 52,
+                "Team": "Purdue Univ - W. Lafayette",
+                "Adjusted Cost": "$18,979",
+                "Price Score (40)": 22.6,
+                "Discussion Score (40)": 32.0,
+                "Scenario Score (20)": 18.0,
+                "Penalty": 0,
+                "Score": 72.58
+            }
+        ],
+        "29": [
+            {
+                "Place": 29,
+                "Car Num": 79,
+                "Team": "Binghamton Univ",
+                "Adjusted Cost": "$18,487",
+                "Price Score (40)": 23.3,
+                "Discussion Score (40)": 33.0,
+                "Scenario Score (20)": 16.0,
+                "Penalty": 0,
+                "Score": 72.32
+            }
+        ],
+        "30": [
+            {
+                "Place": 30,
+                "Car Num": 92,
+                "Team": "Univ of Michigan - Dearborn",
+                "Adjusted Cost": "$21,323",
+                "Price Score (40)": 19.0,
+                "Discussion Score (40)": 33.0,
+                "Scenario Score (20)": 20.0,
+                "Penalty": 0,
+                "Score": 72.03
+            }
+        ],
+        "31": [
+            {
+                "Place": 31,
+                "Car Num": 77,
+                "Team": "Kansas State Univ",
+                "Adjusted Cost": "$20,86T8e",
+                "Price Score (40)": 19.7,
+                "Discussion Score (40)": 34.0,
+                "Scenario Score (20)": 17.5,
+                "Penalty": 0,
+                "Score": 71.22
+            }
+        ],
+        "32": [
+            {
+                "Place": 32,
+                "Car Num": 83,
+                "Team": "Hope College",
+                "Adjusted Cost": "$15,761",
+                "Price Score (40)": 27.5,
+                "Discussion Score (40)": 34.0,
+                "Scenario Score (20)": 9.5,
+                "Penalty": 0,
+                "Score": 70.95
+            }
+        ],
+        "33": [
+            {
+                "Place": 33,
+                "Car Num": 64,
+                "Team": "Purdue Univ - Northwest",
+                "Adjusted Cost": "$17,993",
+                "Price Score (40)": 24.1,
+                "Discussion Score (40)": 33.0,
+                "Scenario Score (20)": 13.5,
+                "Penalty": 0,
+                "Score": 70.57
+            }
+        ],
+        "34": [
+            {
+                "Place": 34,
+                "Car Num": 58,
+                "Team": "Univ of Cincinnati",
+                "Adjusted Cost": "$17,834",
+                "Price Score (40)": 24.3,
+                "Discussion Score (40)": 29.0,
+                "Scenario Score (20)": 17.0,
+                "Penalty": 0,
+                "Score": 70.31
+            }
+        ],
+        "35": [
+            {
+                "Place": 35,
+                "Car Num": 115,
+                "Team": "Univ of Akron",
+                "Adjusted Cost": "$21,522",
+                "Price Score (40)": 18.7,
+                "Discussion Score (40)": 34.0,
+                "Scenario Score (20)": 17.0,
+                "Penalty": 0,
+                "Score": 69.73
+            }
+        ],
+        "36": [
+            {
+                "Place": 36,
+                "Car Num": 122,
+                "Team": "Western Michigan Univ",
+                "Adjusted Cost": "$16,726",
+                "Price Score (40)": 26.0,
+                "Discussion Score (40)": 28.0,
+                "Scenario Score (20)": 14.0,
+                "Penalty": 0,
+                "Score": 67.99
+            }
+        ],
+        "37": [
+            {
+                "Place": 37,
+                "Car Num": 119,
+                "Team": "Villanova Univ",
+                "Adjusted Cost": "$15,236",
+                "Price Score (40)": 28.2,
+                "Discussion Score (40)": 21.0,
+                "Scenario Score (20)": 18.0,
+                "Penalty": 0,
+                "Score": 67.25
+            }
+        ],
+        "38": [
+            {
+                "Place": 38,
+                "Car Num": 144,
+                "Team": "Wayne State Univ",
+                "Adjusted Cost": "$11,442",
+                "Price Score (40)": 34.0,
+                "Discussion Score (40)": 18.0,
+                "Scenario Score (20)": 15.0,
+                "Penalty": 0,
+                "Score": 66.99
+            }
+        ],
+        "39": [
+            {
+                "Place": 39,
+                "Car Num": 85,
+                "Team": "Univ of Minnesota - Twin Cities",
+                "Adjusted Cost": "$25,036",
+                "Price Score (40)": 13.4,
+                "Discussion Score (40)": 35.0,
+                "Scenario Score (20)": 18.5,
+                "Penalty": 0,
+                "Score": 66.9
+            }
+        ],
+        "40": [
+            {
+                "Place": 40,
+                "Car Num": 73,
+                "Team": "Northwestern Univ",
+                "Adjusted Cost": "$25,167",
+                "Price Score (40)": 13.2,
+                "Discussion Score (40)": 36.0,
+                "Scenario Score (20)": 17.0,
+                "Penalty": 0,
+                "Score": 66.2
+            }
+        ],
+        "41": [
+            {
+                "Place": 41,
+                "Car Num": 54,
+                "Team": "Kettering Univ",
+                "Adjusted Cost": "$12,308",
+                "Price Score (40)": 32.7,
+                "Discussion Score (40)": 33.0,
+                "Scenario Score (20)": 0.5,
+                "Penalty": 0,
+                "Score": 66.18
+            }
+        ],
+        "42": [
+            {
+                "Place": 42,
+                "Car Num": 68,
+                "Team": "Louisiana State Univ",
+                "Adjusted Cost": "$17,260",
+                "Price Score (40)": 25.2,
+                "Discussion Score (40)": 26.0,
+                "Scenario Score (20)": 14.0,
+                "Penalty": 0,
+                "Score": 65.18
+            }
+        ],
+        "43": [
+            {
+                "Place": 43,
+                "Car Num": 96,
+                "Team": "University of Alabama - Tuscaloosa",
+                "Adjusted Cost": "$21,261",
+                "Price Score (40)": 19.1,
+                "Discussion Score (40)": 28.0,
+                "Scenario Score (20)": 18.0,
+                "Penalty": 0,
+                "Score": 65.12
+            }
+        ],
+        "44": [
+            {
+                "Place": 44,
+                "Car Num": 103,
+                "Team": "US Naval Academy",
+                "Adjusted Cost": "$20,129",
+                "Price Score (40)": 20.8,
+                "Discussion Score (40)": 27.0,
+                "Scenario Score (20)": 17.0,
+                "Penalty": 0,
+                "Score": 64.84
+            }
+        ],
+        "45": [
+            {
+                "Place": 45,
+                "Car Num": 137,
+                "Team": "Univ of British Columbia - Okanagan",
+                "Adjusted Cost": "$22,388",
+                "Price Score (40)": 17.4,
+                "Discussion Score (40)": 35.0,
+                "Scenario Score (20)": 11.5,
+                "Penalty": 0,
+                "Score": 63.91
+            }
+        ],
+        "46": [
+            {
+                "Place": 46,
+                "Car Num": 57,
+                "Team": "Univ of Maryland - College Park",
+                "Adjusted Cost": "$22P,1r9ic0e",
+                "Price Score (40)": 17.7,
+                "Discussion Score (40)": 30.0,
+                "Scenario Score (20)": 16.0,
+                "Penalty": 0,
+                "Score": 63.71
+            }
+        ],
+        "47": [
+            {
+                "Place": 47,
+                "Car Num": 70,
+                "Team": "Georgia Institute of Technology",
+                "Adjusted Cost": "$19,974(4",
+                "Price Score (40)": 21.1,
+                "Discussion Score (40)": 33.0,
+                "Scenario Score (20)": 19.0,
+                "Penalty": -10,
+                "Score": 63.07
+            }
+        ],
+        "48": [
+            {
+                "Place": 48,
+                "Car Num": 138,
+                "Team": "Univ of the Pacific",
+                "Adjusted Cost": "$14,196",
+                "Price Score (40)": 29.8,
+                "Discussion Score (40)": 28.0,
+                "Scenario Score (20)": 4.5,
+                "Penalty": 0,
+                "Score": 62.32
+            }
+        ],
+        "49": [
+            {
+                "Place": 49,
+                "Car Num": 118,
+                "Team": "Lakehead University",
+                "Adjusted Cost": "$15,321",
+                "Price Score (40)": 28.1,
+                "Discussion Score (40)": 30.0,
+                "Scenario Score (20)": 14.0,
+                "Penalty": -10,
+                "Score": 62.12
+            }
+        ],
+        "50": [
+            {
+                "Place": 50,
+                "Car Num": 150,
+                "Team": "Univ of North Florida",
+                "Adjusted Cost": "$17,6D7is0c",
+                "Price Score (40)": 24.6,
+                "Discussion Score (40)": 26.0,
+                "Scenario Score (20)": 10.5,
+                "Penalty": 0,
+                "Score": 61.06
+            }
+        ],
+        "51": [
+            {
+                "Place": 51,
+                "Car Num": 50,
+                "Team": "Embry-Riddle Aero Univ - Daytona Beach",
+                "Adjusted Cost": "$16,037",
+                "Price Score (40)": 27.0,
+                "Discussion Score (40)": 17.0,
+                "Scenario Score (20)": 16.0,
+                "Penalty": 0,
+                "Score": 60.03
+            }
+        ],
+        "52": [
+            {
+                "Place": 52,
+                "Car Num": 67,
+                "Team": "Univ of Florida",
+                "Adjusted Cost": "$21,848",
+                "Price Score (40)": 18.2,
+                "Discussion Score (40)": 28.0,
+                "Scenario Score (20)": 12.5,
+                "Penalty": 0,
+                "Score": 58.73
+            }
+        ],
+        "53": [
+            {
+                "Place": 53,
+                "Car Num": 154,
+                "Team": "Rensselaer Polytechnic Institute",
+                "Adjusted Cost": "$17,764",
+                "Price Score (40)": 24.4,
+                "Discussion Score (40)": 14.0,
+                "Scenario Score (20)": 19.0,
+                "Penalty": 0,
+                "Score": 57.42
+            }
+        ],
+        "54": [
+            {
+                "Place": 54,
+                "Car Num": 71,
+                "Team": "Univ of Ottawa",
+                "Adjusted Cost": "$15,306",
+                "Price Score (40)": 28.1,
+                "Discussion Score (40)": 14.0,
+                "Scenario Score (20)": 15.0,
+                "Penalty": 0,
+                "Score": 57.14
+            }
+        ],
+        "55": [
+            {
+                "Place": 55,
+                "Car Num": 97,
+                "Team": "Oakland University",
+                "Adjusted Cost": "$15,339",
+                "Price Score (40)": 28.1,
+                "Discussion Score (40)": 13.0,
+                "Scenario Score (20)": 16.0,
+                "Penalty": 0,
+                "Score": 57.09
+            }
+        ],
+        "56": [
+            {
+                "Place": 56,
+                "Car Num": 81,
+                "Team": "Univ of North Carolina - Charlotte",
+                "Adjusted Cost": "$18,49T7e",
+                "Price Score (40)": 23.3,
+                "Discussion Score (40)": 24.0,
+                "Scenario Score (20)": 9.0,
+                "Penalty": 0,
+                "Score": 56.31
+            }
+        ],
+        "57": [
+            {
+                "Place": 57,
+                "Car Num": 61,
+                "Team": "Univ of South Florida",
+                "Adjusted Cost": "$25,223",
+                "Price Score (40)": 13.1,
+                "Discussion Score (40)": 29.0,
+                "Scenario Score (20)": 12.5,
+                "Penalty": 0,
+                "Score": 54.62
+            }
+        ],
+        "58": [
+            {
+                "Place": 58,
+                "Car Num": 66,
+                "Team": "South Dakota State Univ",
+                "Adjusted Cost": "$12,445",
+                "Price Score (40)": 32.5,
+                "Discussion Score (40)": 11.0,
+                "Scenario Score (20)": 11.0,
+                "Penalty": 0,
+                "Score": 54.47
+            }
+        ],
+        "59": [
+            {
+                "Place": 59,
+                "Car Num": 74,
+                "Team": "Univ of Missouri",
+                "Adjusted Cost": "$16,490",
+                "Price Score (40)": 26.3,
+                "Discussion Score (40)": 36.0,
+                "Scenario Score (20)": 1.5,
+                "Penalty": -10,
+                "Score": 53.85
+            }
+        ],
+        "60": [
+            {
+                "Place": 60,
+                "Car Num": 90,
+                "Team": "Central Michigan Univ",
+                "Adjusted Cost": "$15,389",
+                "Price Score (40)": 28.0,
+                "Discussion Score (40)": 21.0,
+                "Scenario Score (20)": 4.5,
+                "Penalty": 0,
+                "Score": 53.52
+            }
+        ],
+        "61": [
+            {
+                "Place": 61,
+                "Car Num": 130,
+                "Team": "Clemson Univ",
+                "Adjusted Cost": "$18,300",
+                "Price Score (40)": 23.6,
+                "Discussion Score (40)": 29.0,
+                "Scenario Score (20)": 0.5,
+                "Penalty": 0,
+                "Score": 53.11
+            }
+        ],
+        "62": [
+            {
+                "Place": 62,
+                "Car Num": 125,
+                "Team": "Duke Univeristy",
+                "Adjusted Cost": "$19,646",
+                "Price Score (40)": 21.6,
+                "Discussion Score (40)": 16.0,
+                "Scenario Score (20)": 15.5,
+                "Penalty": 0,
+                "Score": 53.07
+            }
+        ],
+        "63": [
+            {
+                "Place": 63,
+                "Car Num": 108,
+                "Team": "Temple Univ",
+                "Adjusted Cost": "$17,535",
+                "Price Score (40)": 24.8,
+                "Discussion Score (40)": 20.0,
+                "Scenario Score (20)": 8.0,
+                "Penalty": 0,
+                "Score": 52.76
+            }
+        ],
+        "64": [
+            {
+                "Place": 64,
+                "Car Num": 95,
+                "Team": "Saginaw Valley State Univ",
+                "Adjusted Cost": "$17,066",
+                "Price Score (40)": 25.5,
+                "Discussion Score (40)": 10.0,
+                "Scenario Score (20)": 16.5,
+                "Penalty": 0,
+                "Score": 51.98
+            }
+        ],
+        "65": [
+            {
+                "Place": 65,
+                "Car Num": 111,
+                "Team": "Carleton University",
+                "Adjusted Cost": "$15,047",
+                "Price Score (40)": 28.5,
+                "Discussion Score (40)": 16.0,
+                "Scenario Score (20)": 6.5,
+                "Penalty": 0,
+                "Score": 51.03
+            }
+        ],
+        "66": [
+            {
+                "Place": 66,
+                "Car Num": 75,
+                "Team": "Univ of Hartford",
+                "Adjusted Cost": "$21,117",
+                "Price Score (40)": 19.3,
+                "Discussion Score (40)": 28.0,
+                "Scenario Score (20)": 2.5,
+                "Penalty": 0,
+                "Score": 49.84
+            }
+        ],
+        "67": [
+            {
+                "Place": 67,
+                "Car Num": 142,
+                "Team": "Rose Hulman Institute of Tech",
+                "Adjusted Cost": "$15,925",
+                "Price Score (40)": 27.2,
+                "Discussion Score (40)": 14.0,
+                "Scenario Score (20)": 8.5,
+                "Penalty": 0,
+                "Score": 49.7
+            }
+        ],
+        "68": [
+            {
+                "Place": 68,
+                "Car Num": 124,
+                "Team": "Lehigh Univ",
+                "Adjusted Cost": "$15,557",
+                "Price Score (40)": 27.8,
+                "Discussion Score (40)": 9.0,
+                "Scenario Score (20)": 12.5,
+                "Penalty": 0,
+                "Score": 49.26
+            }
+        ],
+        "69": [
+            {
+                "Place": 69,
+                "Car Num": 87,
+                "Team": "Lawrence Technological Univ",
+                "Adjusted Cost": "$26,174",
+                "Price Score (40)": 11.7,
+                "Discussion Score (40)": 25.0,
+                "Scenario Score (20)": 11.5,
+                "Penalty": 0,
+                "Score": 48.18
+            }
+        ],
+        "70": [
+            {
+                "Place": 70,
+                "Car Num": 129,
+                "Team": "Univ of Texas - Dallas",
+                "Adjusted Cost": "$18,062",
+                "Price Score (40)": 24.0,
+                "Discussion Score (40)": 17.0,
+                "Scenario Score (20)": 17.0,
+                "Penalty": -10,
+                "Score": 47.97
+            }
+        ],
+        "71": [
+            {
+                "Place": 71,
+                "Car Num": 136,
+                "Team": "Univ of Minnesota - Duluth",
+                "Adjusted Cost": "$14P,5r2ic1e",
+                "Price Score (40)": 29.3,
+                "Discussion Score (40)": 14.0,
+                "Scenario Score (20)": 3.0,
+                "Penalty": 0,
+                "Score": 46.33
+            }
+        ],
+        "72": [
+            {
+                "Place": 72,
+                "Car Num": 84,
+                "Team": "Florida International Univ",
+                "Adjusted Cost": "$17,688(4",
+                "Price Score (40)": 24.5,
+                "Discussion Score (40)": 13.0,
+                "Scenario Score (20)": 8.5,
+                "Penalty": 0,
+                "Score": 46.03
+            }
+        ],
+        "73": [
+            {
+                "Place": 73,
+                "Car Num": 56,
+                "Team": "Florida Atlantic University",
+                "Adjusted Cost": "$16,102",
+                "Price Score (40)": 26.9,
+                "Discussion Score (40)": 10.0,
+                "Scenario Score (20)": 8.5,
+                "Penalty": 0,
+                "Score": 45.44
+            }
+        ],
+        "74": [
+            {
+                "Place": 74,
+                "Car Num": 110,
+                "Team": "Univ of Illinois - Chicago",
+                "Adjusted Cost": "$15,328",
+                "Price Score (40)": 28.1,
+                "Discussion Score (40)": 13.0,
+                "Scenario Score (20)": 3.0,
+                "Penalty": 0,
+                "Score": 44.11
+            }
+        ],
+        "75": [
+            {
+                "Place": 75,
+                "Car Num": 147,
+                "Team": "Northern Illinois Univ",
+                "Adjusted Cost": "$14,6D5is3c",
+                "Price Score (40)": 29.1,
+                "Discussion Score (40)": 13.0,
+                "Scenario Score (20)": 1.0,
+                "Penalty": 0,
+                "Score": 43.13
+            }
+        ],
+        "76": [
+            {
+                "Place": 76,
+                "Car Num": 113,
+                "Team": "Mississippi State Univ",
+                "Adjusted Cost": "$17,444",
+                "Price Score (40)": 24.9,
+                "Discussion Score (40)": 32.0,
+                "Scenario Score (20)": 15.0,
+                "Penalty": -30,
+                "Score": 41.9
+            }
+        ],
+        "77": [
+            {
+                "Place": 77,
+                "Car Num": 131,
+                "Team": "Penn State Univ - University Park",
+                "Adjusted Cost": "$15,645",
+                "Price Score (40)": 27.6,
+                "Discussion Score (40)": 12.0,
+                "Scenario Score (20)": 1.0,
+                "Penalty": 0,
+                "Score": 40.63
+            }
+        ],
+        "78": [
+            {
+                "Place": 78,
+                "Car Num": 63,
+                "Team": "Univ of Kansas - Lawrence",
+                "Adjusted Cost": "$21,124",
+                "Price Score (40)": 19.3,
+                "Discussion Score (40)": 12.0,
+                "Scenario Score (20)": 9.0,
+                "Penalty": 0,
+                "Score": 40.33
+            }
+        ],
+        "79": [
+            {
+                "Place": 79,
+                "Car Num": 80,
+                "Team": "Brown Univ",
+                "Adjusted Cost": "$20,530",
+                "Price Score (40)": 20.2,
+                "Discussion Score (40)": 10.0,
+                "Scenario Score (20)": 9.0,
+                "Penalty": 0,
+                "Score": 39.23
+            }
+        ],
+        "80": [
+            {
+                "Place": 80,
+                "Car Num": 62,
+                "Team": "York Collge of Pennsylvania",
+                "Adjusted Cost": "$21,959",
+                "Price Score (40)": 18.1,
+                "Discussion Score (40)": 11.0,
+                "Scenario Score (20)": 9.0,
+                "Penalty": 0,
+                "Score": 38.06
+            }
+        ],
+        "81": [
+            {
+                "Place": 81,
+                "Car Num": 107,
+                "Team": "Virginia Tech",
+                "Adjusted Cost": "$33,88T5e",
+                "Price Score (40)": 0.0,
+                "Discussion Score (40)": 22.0,
+                "Scenario Score (20)": 13.5,
+                "Penalty": 0,
+                "Score": 35.5
+            }
+        ],
+        "82": [
+            {
+                "Place": 82,
+                "Car Num": 94,
+                "Team": "Texas Tech Univ",
+                "Adjusted Cost": "$26,178",
+                "Price Score (40)": 11.7,
+                "Discussion Score (40)": 13.0,
+                "Scenario Score (20)": 8.5,
+                "Penalty": 0,
+                "Score": 33.17
+            }
+        ],
+        "83": [
+            {
+                "Place": 83,
+                "Car Num": 98,
+                "Team": "South Dakota School of Mines & Technology",
+                "Adjusted Cost": "$27,122",
+                "Price Score (40)": 10.2,
+                "Discussion Score (40)": 11.0,
+                "Scenario Score (20)": 11.5,
+                "Penalty": 0,
+                "Score": 32.74
+            }
+        ],
+        "84": [
+            {
+                "Place": 84,
+                "Car Num": 133,
+                "Team": "California State Univ - Fullerton",
+                "Adjusted Cost": "$17,167",
+                "Price Score (40)": 25.3,
+                "Discussion Score (40)": 9.0,
+                "Scenario Score (20)": 0.5,
+                "Penalty": -10,
+                "Score": 24.82
+            }
+        ],
+        "85": [
+            {
+                "Place": 85,
+                "Car Num": 91,
+                "Team": "Univ of Central Florida",
+                "Adjusted Cost": "$21,534",
+                "Price Score (40)": 18.7,
+                "Discussion Score (40)": 0.0,
+                "Scenario Score (20)": 0.0,
+                "Penalty": -10,
+                "Score": 8.71
+            }
+        ],
+        "86": [
+            {
+                "Place": 86,
+                "Car Num": 140,
+                "Team": "The Ohio State University",
+                "Adjusted Cost": "$23,615",
+                "Price Score (40)": 15.6,
+                "Discussion Score (40)": 21.0,
+                "Scenario Score (20)": 19.5,
+                "Penalty": -50,
+                "Score": 6.06
+            }
+        ],
+        "87": [
+            {
+                "Place": 87,
+                "Car Num": 93,
+                "Team": "Penn State Univ - Harrisburg",
+                "Adjusted Cost": "$20,576",
+                "Price Score (40)": 20.2,
+                "Discussion Score (40)": 15.0,
+                "Scenario Score (20)": 0.5,
+                "Penalty": -50,
+                "Score": 0.01
+            },
+            {
+                "Place": 87,
+                "Car Num": 149,
+                "Team": "Midwestern State Univ",
+                "Adjusted Cost": "$11,335",
+                "Price Score (40)": 34.2,
+                "Discussion Score (40)": 2.0,
+                "Scenario Score (20)": 0.5,
+                "Penalty": -50,
+                "Score": 0.01
+            }
+        ]
+    }
+}

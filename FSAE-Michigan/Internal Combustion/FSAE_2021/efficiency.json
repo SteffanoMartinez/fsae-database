@@ -1,0 +1,17 @@
+{
+    "name": "Efficiency Event",
+    "headers": [
+        "Place",
+        "Car Num",
+        "Team",
+        "Average Adjusted Laptime",
+        "Lap Completed",
+        "Fuel Used (ltr)",
+        "Adjusted CO2 (kg)",
+        "Average Adjusted CO2 per Lap",
+        "Fuel Type",
+        "Fuel Efficiency Factor",
+        "Fuel Efficiency Score"
+    ],
+    "content": []
+}

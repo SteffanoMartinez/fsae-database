@@ -1,0 +1,13 @@
+{
+    "name": "Economy Results",
+    "headers": [
+        "Place",
+        "Car Num",
+        "Team",
+        "Fuel Used",
+        "Fuel Type",
+        "Adjusted Fuel Used",
+        "Economy Score"
+    ],
+    "content": []
+}

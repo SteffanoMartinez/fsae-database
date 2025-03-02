@@ -1,0 +1,1501 @@
+{
+    "name": "Cost Event",
+    "headers": [
+        "Place",
+        "Car Num",
+        "Team",
+        "Adjusted Cost",
+        "Price Score (30)",
+        "Cost Accuracy (15)",
+        "Engineering Drawings (15)",
+        "Scenario Score (40)",
+        "Penalty",
+        "Score"
+    ],
+    "content": {
+        "1": [
+            {
+                "Place": 1,
+                "Car Num": 90,
+                "Team": "Texas Tech Univ",
+                "Adjusted Cost": "$14,531",
+                "Price Score (30)": 22.9,
+                "Cost Accuracy (15)": "13",
+                "Engineering Drawings (15)": 14.0,
+                "Scenario Score (40)": 39.0,
+                "Penalty": 0,
+                "Score": 88.85
+            }
+        ],
+        "2": [
+            {
+                "Place": 2,
+                "Car Num": 60,
+                "Team": "Univ of Illinois - Chicago",
+                "Adjusted Cost": "$13,254",
+                "Price Score (30)": 24.6,
+                "Cost Accuracy (15)": "12.5",
+                "Engineering Drawings (15)": 12.5,
+                "Scenario Score (40)": 38.5,
+                "Penalty": 0,
+                "Score": 88.1
+            }
+        ],
+        "3": [
+            {
+                "Place": 3,
+                "Car Num": 20,
+                "Team": "Univ of Victoria",
+                "Adjusted Cost": "$17,607",
+                "Price Score (30)": 18.6,
+                "Cost Accuracy (15)": "14",
+                "Engineering Drawings (15)": 15.0,
+                "Scenario Score (40)": 39.5,
+                "Penalty": 0,
+                "Score": 87.14
+            }
+        ],
+        "4": [
+            {
+                "Place": 4,
+                "Car Num": 18,
+                "Team": "Kennesaw State University",
+                "Adjusted Cost": "$11,531",
+                "Price Score (30)": 27.0,
+                "Cost Accuracy (15)": "14",
+                "Engineering Drawings (15)": 15.0,
+                "Scenario Score (40)": 31.0,
+                "Penalty": 0,
+                "Score": 86.96
+            }
+        ],
+        "5": [
+            {
+                "Place": 5,
+                "Car Num": 83,
+                "Team": "Univ of South Florida",
+                "Adjusted Cost": "$18,932",
+                "Price Score (30)": 16.8,
+                "Cost Accuracy (15)": "15",
+                "Engineering Drawings (15)": 15.0,
+                "Scenario Score (40)": 40.0,
+                "Penalty": 0,
+                "Score": 86.82
+            }
+        ],
+        "6": [
+            {
+                "Place": 6,
+                "Car Num": 35,
+                "Team": "Texas A & M Univ - College Station",
+                "Adjusted Cost": "$16,680",
+                "Price Score (30)": 19.9,
+                "Cost Accuracy (15)": "12",
+                "Engineering Drawings (15)": 13.5,
+                "Scenario Score (40)": 39.5,
+                "Penalty": 0,
+                "Score": 84.91
+            }
+        ],
+        "7": [
+            {
+                "Place": 7,
+                "Car Num": 57,
+                "Team": "Oakland University",
+                "Adjusted Cost": "$16,237",
+                "Price Score (30)": 20.5,
+                "Cost Accuracy (15)": "13",
+                "Engineering Drawings (15)": 11.0,
+                "Scenario Score (40)": 40.0,
+                "Penalty": 0,
+                "Score": 84.52
+            }
+        ],
+        "8": [
+            {
+                "Place": 8,
+                "Car Num": 104,
+                "Team": "Washington Univ - St Louis",
+                "Adjusted Cost": "$20,226",
+                "Price Score (30)": 15.1,
+                "Cost Accuracy (15)": "14",
+                "Engineering Drawings (15)": 15.0,
+                "Scenario Score (40)": 40.0,
+                "Penalty": 0,
+                "Score": 84.05
+            }
+        ],
+        "9": [
+            {
+                "Place": 9,
+                "Car Num": 66,
+                "Team": "Univ of Michigan - Dearborn",
+                "Adjusted Cost": "$17,193",
+                "Price Score (30)": 19.2,
+                "Cost Accuracy (15)": "13",
+                "Engineering Drawings (15)": 12.5,
+                "Scenario Score (40)": 39.0,
+                "Penalty": 0,
+                "Score": 83.71
+            }
+        ],
+        "10": [
+            {
+                "Place": 10,
+                "Car Num": 145,
+                "Team": "Instituto Maua de Tecnologia",
+                "Adjusted Cost": "$18,333",
+                "Price Score (30)": 17.6,
+                "Cost Accuracy (15)": "13",
+                "Engineering Drawings (15)": 13.0,
+                "Scenario Score (40)": 40.0,
+                "Penalty": 0,
+                "Score": 83.65
+            }
+        ],
+        "11": [
+            {
+                "Place": 11,
+                "Car Num": 16,
+                "Team": "Villanova Univ",
+                "Adjusted Cost": "$12,240",
+                "Price Score (30)": 26.0,
+                "Cost Accuracy (15)": "12",
+                "Engineering Drawings (15)": 9.0,
+                "Scenario Score (40)": 36.0,
+                "Penalty": 0,
+                "Score": 82.99
+            }
+        ],
+        "12": [
+            {
+                "Place": 12,
+                "Car Num": 71,
+                "Team": "Univ of Hartford",
+                "Adjusted Cost": "$17,867",
+                "Price Score (30)": 18.3,
+                "Cost Accuracy (15)": "11",
+                "Engineering Drawings (15)": 14.0,
+                "Scenario Score (40)": 37.5,
+                "Penalty": 0,
+                "Score": 80.78
+            }
+        ],
+        "13": [
+            {
+                "Place": 13,
+                "Car Num": 6,
+                "Team": "California Polytechnic State Univ-SLO",
+                "Adjusted Cost": "$18,263",
+                "Price Score (30)": 17.7,
+                "Cost Accuracy (15)": "10",
+                "Engineering Drawings (15)": 13.0,
+                "Scenario Score (40)": 40.0,
+                "Penalty": 0,
+                "Score": 80.74
+            }
+        ],
+        "14": [
+            {
+                "Place": 14,
+                "Car Num": 3,
+                "Team": "The Ohio State University",
+                "Adjusted Cost": "$23,089",
+                "Price Score (30)": 11.1,
+                "Cost Accuracy (15)": "14",
+                "Engineering Drawings (15)": 15.0,
+                "Scenario Score (40)": 40.0,
+                "Penalty": 0,
+                "Score": 80.13
+            }
+        ],
+        "15": [
+            {
+                "Place": 15,
+                "Car Num": 99,
+                "Team": "Univ of North Florida",
+                "Adjusted Cost": "$20,950",
+                "Price Score (30)": 14.1,
+                "Cost Accuracy (15)": "11",
+                "Engineering Drawings (15)": 15.0,
+                "Scenario Score (40)": 40.0,
+                "Penalty": 0,
+                "Score": 80.06
+            }
+        ],
+        "16": [
+            {
+                "Place": 16,
+                "Car Num": 24,
+                "Team": "Brown Univ",
+                "Adjusted Cost": "$16,965",
+                "Price Score (30)": 19.5,
+                "Cost Accuracy (15)": "13",
+                "Engineering Drawings (15)": 12.0,
+                "Scenario Score (40)": 34.5,
+                "Penalty": 0,
+                "Score": 79.02
+            }
+        ],
+        "17": [
+            {
+                "Place": 17,
+                "Car Num": 40,
+                "Team": "Universite de Sherbrooke",
+                "Adjusted Cost": "$16,410",
+                "Price Score (30)": 20.3,
+                "Cost Accuracy (15)": "12",
+                "Engineering Drawings (15)": 15.0,
+                "Scenario Score (40)": 31.5,
+                "Penalty": 0,
+                "Score": 78.78
+            }
+        ],
+        "18": [
+            {
+                "Place": 18,
+                "Car Num": 31,
+                "Team": "Liberty Univ",
+                "Adjusted Cost": "$19,115",
+                "Price Score (30)": 16.6,
+                "Cost Accuracy (15)": "10",
+                "Engineering Drawings (15)": 12.0,
+                "Scenario Score (40)": 40.0,
+                "Penalty": 0,
+                "Score": 78.57
+            }
+        ],
+        "19": [
+            {
+                "Place": 19,
+                "Car Num": 7,
+                "Team": "Georgia Institute of Technology",
+                "Adjusted Cost": "$20,578",
+                "Price Score (30)": 14.6,
+                "Cost Accuracy (15)": "12",
+                "Engineering Drawings (15)": 15.0,
+                "Scenario Score (40)": 37.0,
+                "Penalty": 0,
+                "Score": 78.57
+            }
+        ],
+        "20": [
+            {
+                "Place": 20,
+                "Car Num": 118,
+                "Team": "Univ of Manitoba",
+                "Adjusted Cost": "$21,829",
+                "Price Score (30)": 12.9,
+                "Cost Accuracy (15)": "15",
+                "Engineering Drawings (15)": 15.0,
+                "Scenario Score (40)": 35.5,
+                "Penalty": 0,
+                "Score": 78.36
+            }
+        ],
+        "21": [
+            {
+                "Place": 21,
+                "Car Num": 126,
+                "Team": "Arizona State Univ - Tempe",
+                "Adjusted Cost": "$21,528",
+                "Price Score (30)": 13.3,
+                "Cost Accuracy (15)": "11",
+                "Engineering Drawings (15)": 13.0,
+                "Scenario Score (40)": 40.0,
+                "Penalty": 0,
+                "Score": 77.27
+            }
+        ],
+        "22": [
+            {
+                "Place": 22,
+                "Car Num": 114,
+                "Team": "Lehigh Univ",
+                "Adjusted Cost": "$14,755",
+                "Price Score (30)": 22.5,
+                "Cost Accuracy (15)": "12",
+                "Engineering Drawings (15)": 12.0,
+                "Scenario Score (40)": 30.5,
+                "Penalty": 0,
+                "Score": 77.05
+            }
+        ],
+        "23": [
+            {
+                "Place": 23,
+                "Car Num": 55,
+                "Team": "Univ of Missouri",
+                "Adjusted Cost": "$19,593",
+                "Price Score (30)": 15.9,
+                "Cost Accuracy (15)": "11",
+                "Engineering Drawings (15)": 15.0,
+                "Scenario Score (40)": 35.0,
+                "Penalty": 0,
+                "Score": 76.92
+            }
+        ],
+        "24": [
+            {
+                "Place": 24,
+                "Car Num": 98,
+                "Team": "Univ of Nebraska - Lincoln",
+                "Adjusted Cost": "$13,032",
+                "Price Score (30)": 24.9,
+                "Cost Accuracy (15)": "y\r12",
+                "Engineering Drawings (15)": 10.0,
+                "Scenario Score (40)": 30.0,
+                "Penalty": 0,
+                "Score": 76.91
+            }
+        ],
+        "25": [
+            {
+                "Place": 25,
+                "Car Num": 86,
+                "Team": "Univ of Akron",
+                "Adjusted Cost": "$20,001",
+                "Price Score (30)": 15.4,
+                "Cost Accuracy (15)": "15",
+                "Engineering Drawings (15)": 14.0,
+                "Scenario Score (40)": 32.5,
+                "Penalty": 0,
+                "Score": 76.86
+            }
+        ],
+        "26": [
+            {
+                "Place": 26,
+                "Car Num": 9,
+                "Team": "Univ of North Carolina - Charlotte",
+                "Adjusted Cost": "$24,965",
+                "Price Score (30)": 8.6,
+                "Cost Accuracy (15)": "13",
+                "Engineering Drawings (15)": 15.0,
+                "Scenario Score (40)": 40.0,
+                "Penalty": 0,
+                "Score": 76.56
+            }
+        ],
+        "27": [
+            {
+                "Place": 27,
+                "Car Num": 127,
+                "Team": "Univ of Connecticut",
+                "Adjusted Cost": "$20,786",
+                "Price Score (30)": 14.3,
+                "Cost Accuracy (15)": "15",
+                "Engineering Drawings (15)": 15.0,
+                "Scenario Score (40)": 32.0,
+                "Penalty": 0,
+                "Score": 76.28
+            }
+        ],
+        "28": [
+            {
+                "Place": 28,
+                "Car Num": 135,
+                "Team": "Univ of Wisconsin - Madison",
+                "Adjusted Cost": "$21,207",
+                "Price Score (30)": 13.7,
+                "Cost Accuracy (15)": "12",
+                "Engineering Drawings (15)": 11.0,
+                "Scenario Score (40)": 39.5,
+                "Penalty": 0,
+                "Score": 76.21
+            }
+        ],
+        "29": [
+            {
+                "Place": 29,
+                "Car Num": 63,
+                "Team": "Duke Univ",
+                "Adjusted Cost": "$20,215",
+                "Price Score (30)": 15.1,
+                "Cost Accuracy (15)": "14",
+                "Engineering Drawings (15)": 12.0,
+                "Scenario Score (40)": 35.0,
+                "Penalty": 0,
+                "Score": 76.07
+            }
+        ],
+        "30": [
+            {
+                "Place": 30,
+                "Car Num": 27,
+                "Team": "Carleton Univ",
+                "Adjusted Cost": "$12,738",
+                "Price Score (30)": 25.3,
+                "Cost Accuracy (15)": "12",
+                "Engineering Drawings (15)": 0,
+                "Scenario Score (40)": 38.0,
+                "Penalty": 0,
+                "Score": 75.31
+            }
+        ],
+        "31": [
+            {
+                "Place": 31,
+                "Car Num": 33,
+                "Team": "Rose Hulman Inst of Tech",
+                "Adjusted Cost": "$20,073",
+                "Price Score (30)": 15.3,
+                "Cost Accuracy (15)": "11",
+                "Engineering Drawings (15)": 13.0,
+                "Scenario Score (40)": 36.0,
+                "Penalty": 0,
+                "Score": 75.26
+            }
+        ],
+        "32": [
+            {
+                "Place": 32,
+                "Car Num": 53,
+                "Team": "Clemson Univ",
+                "Adjusted Cost": "$22,640",
+                "Price Score (30)": 11.7,
+                "Cost Accuracy (15)": "12",
+                "Engineering Drawings (15)": 15.0,
+                "Scenario Score (40)": 36.5,
+                "Penalty": 0,
+                "Score": 75.25
+            }
+        ],
+        "33": [
+            {
+                "Place": 33,
+                "Car Num": 78,
+                "Team": "Univ of the Pacific",
+                "Adjusted Cost": "$11,024",
+                "Price Score (30)": 27.7,
+                "Cost Accuracy (15)": "10.5",
+                "Engineering Drawings (15)": 12.0,
+                "Scenario Score (40)": 24.0,
+                "Penalty": 0,
+                "Score": 74.16
+            }
+        ],
+        "34": [
+            {
+                "Place": 34,
+                "Car Num": 119,
+                "Team": "California Baptist University",
+                "Adjusted Cost": "$19,298",
+                "Price Score (30)": 16.3,
+                "Cost Accuracy (15)": "9",
+                "Engineering Drawings (15)": 12.0,
+                "Scenario Score (40)": 36.0,
+                "Penalty": 0,
+                "Score": 73.32
+            }
+        ],
+        "35": [
+            {
+                "Place": 35,
+                "Car Num": 76,
+                "Team": "Univ of Alabama - Tuscaloosa",
+                "Adjusted Cost": "$28,134",
+                "Price Score (30)": 4.2,
+                "Cost Accuracy (15)": "14",
+                "Engineering Drawings (15)": 15.0,
+                "Scenario Score (40)": 40.0,
+                "Penalty": 0,
+                "Score": 73.22
+            }
+        ],
+        "36": [
+            {
+                "Place": 36,
+                "Car Num": 107,
+                "Team": "Virginia Tech",
+                "Adjusted Cost": "$26,892",
+                "Price Score (30)": 5.9,
+                "Cost Accuracy (15)": "13",
+                "Engineering Drawings (15)": 14.0,
+                "Scenario Score (40)": 40.0,
+                "Penalty": 0,
+                "Score": 72.92
+            }
+        ],
+        "37": [
+            {
+                "Place": 37,
+                "Car Num": 38,
+                "Team": "North Carolina State Univ - Raleigh",
+                "Adjusted Cost": "$19,385",
+                "Price Score (30)": 16.2,
+                "Cost Accuracy (15)": "11",
+                "Engineering Drawings (15)": 13.0,
+                "Scenario Score (40)": 32.0,
+                "Penalty": 0,
+                "Score": 72.2
+            }
+        ],
+        "38": [
+            {
+                "Place": 38,
+                "Car Num": 8,
+                "Team": "Purdue Univ - W Lafayette",
+                "Adjusted Cost": "$25,994",
+                "Price Score (30)": 7.2,
+                "Cost Accuracy (15)": "14",
+                "Engineering Drawings (15)": 15.0,
+                "Scenario Score (40)": 36.0,
+                "Penalty": 0,
+                "Score": 72.15
+            }
+        ],
+        "39": [
+            {
+                "Place": 39,
+                "Car Num": 49,
+                "Team": "Univ of Maryland - College Park",
+                "Adjusted Cost": "$21,191",
+                "Price Score (30)": 13.7,
+                "Cost Accuracy (15)": "13",
+                "Engineering Drawings (15)": 5.0,
+                "Scenario Score (40)": 40.0,
+                "Penalty": 0,
+                "Score": 71.73
+            }
+        ],
+        "40": [
+            {
+                "Place": 40,
+                "Car Num": 67,
+                "Team": "Univ of Minnesota - Twin Cities",
+                "Adjusted Cost": "$24,960",
+                "Price Score (30)": 8.6,
+                "Cost Accuracy (15)": "15",
+                "Engineering Drawings (15)": 15.0,
+                "Scenario Score (40)": 33.0,
+                "Penalty": 0,
+                "Score": 71.57
+            }
+        ],
+        "41": [
+            {
+                "Place": 41,
+                "Car Num": 61,
+                "Team": "Wayne State Univ",
+                "Adjusted Cost": "$17,685",
+                "Price Score (30)": 18.5,
+                "Cost Accuracy (15)": "10",
+                "Engineering Drawings (15)": 14.0,
+                "Scenario Score (40)": 28.0,
+                "Penalty": 0,
+                "Score": 70.53
+            }
+        ],
+        "42": [
+            {
+                "Place": 42,
+                "Car Num": 110,
+                "Team": "Michigan Tech Univ",
+                "Adjusted Cost": "$18,630",
+                "Price Score (30)": 17.2,
+                "Cost Accuracy (15)": "10",
+                "Engineering Drawings (15)": 7.0,
+                "Scenario Score (40)": 36.0,
+                "Penalty": 0,
+                "Score": 70.24
+            }
+        ],
+        "43": [
+            {
+                "Place": 43,
+                "Car Num": 91,
+                "Team": "Mississippi State Univ",
+                "Adjusted Cost": "$16,496",
+                "Price Score (30)": 20.2,
+                "Cost Accuracy (15)": "14",
+                "Engineering Drawings (15)": 10.0,
+                "Scenario Score (40)": 26.0,
+                "Penalty": 0,
+                "Score": 70.16
+            }
+        ],
+        "44": [
+            {
+                "Place": 44,
+                "Car Num": 45,
+                "Team": "California State Univ - Northridge",
+                "Adjusted Cost": "$17,513",
+                "Price Score (30)": 18.8,
+                "Cost Accuracy (15)": "13",
+                "Engineering Drawings (15)": 15.0,
+                "Scenario Score (40)": 23.0,
+                "Penalty": 0,
+                "Score": 69.77
+            }
+        ],
+        "45": [
+            {
+                "Place": 45,
+                "Car Num": 19,
+                "Team": "Purdue Univ - Northwest",
+                "Adjusted Cost": "$18,132",
+                "Price Score (30)": 17.9,
+                "Cost Accuracy (15)": "11",
+                "Engineering Drawings (15)": 12.0,
+                "Scenario Score (40)": 28.0,
+                "Penalty": 0,
+                "Score": 68.92
+            }
+        ],
+        "46": [
+            {
+                "Place": 46,
+                "Car Num": 111,
+                "Team": "Florida International Univ",
+                "Adjusted Cost": "$18,192",
+                "Price Score (30)": 17.8,
+                "Cost Accuracy (15)": "9",
+                "Engineering Drawings (15)": 12.0,
+                "Scenario Score (40)": 30.0,
+                "Penalty": 0,
+                "Score": 68.84
+            }
+        ],
+        "47": [
+            {
+                "Place": 47,
+                "Car Num": 84,
+                "Team": "Univ of British Columbia",
+                "Adjusted Cost": "$25,300",
+                "Price Score (30)": 8.1,
+                "Cost Accuracy (15)": "11",
+                "Engineering Drawings (15)": 12.0,
+                "Scenario Score (40)": 37.5,
+                "Penalty": 0,
+                "Score": 68.6
+            }
+        ],
+        "48": [
+            {
+                "Place": 48,
+                "Car Num": 30,
+                "Team": "Univ of Calif - Berkeley",
+                "Adjusted Cost": "$20,048",
+                "Price Score (30)": 15.3,
+                "Cost Accuracy (15)": "14",
+                "Engineering Drawings (15)": 14.0,
+                "Scenario Score (40)": 25.0,
+                "Penalty": 0,
+                "Score": 68.3
+            }
+        ],
+        "49": [
+            {
+                "Place": 49,
+                "Car Num": 47,
+                "Team": "Univ of Kentucky",
+                "Adjusted Cost": "$15,750",
+                "Price Score (30)": 21.2,
+                "Cost Accuracy (15)": "11",
+                "Engineering Drawings (15)": 0,
+                "Scenario Score (40)": 36.0,
+                "Penalty": 0,
+                "Score": 68.18
+            }
+        ],
+        "50": [
+            {
+                "Place": 50,
+                "Car Num": 48,
+                "Team": "Univ of Central Florida",
+                "Adjusted Cost": "$24,810",
+                "Price Score (30)": 8.8,
+                "Cost Accuracy (15)": "y\r13",
+                "Engineering Drawings (15)": 12.0,
+                "Scenario Score (40)": 34.0,
+                "Penalty": 0,
+                "Score": 67.77
+            }
+        ],
+        "51": [
+            {
+                "Place": 51,
+                "Car Num": 15,
+                "Team": "Tennessee Tech Univ",
+                "Adjusted Cost": "$9,313",
+                "Price Score (30)": 30.0,
+                "Cost Accuracy (15)": "11",
+                "Engineering Drawings (15)": 4.0,
+                "Scenario Score (40)": 22.0,
+                "Penalty": 0,
+                "Score": 67.0
+            }
+        ],
+        "52": [
+            {
+                "Place": 52,
+                "Car Num": 77,
+                "Team": "Vanderbilt Univ",
+                "Adjusted Cost": "$13,901",
+                "Price Score (30)": 23.7,
+                "Cost Accuracy (15)": "8",
+                "Engineering Drawings (15)": 2.0,
+                "Scenario Score (40)": 33.0,
+                "Penalty": 0,
+                "Score": 66.72
+            }
+        ],
+        "53": [
+            {
+                "Place": 53,
+                "Car Num": 74,
+                "Team": "Drexel Univ",
+                "Adjusted Cost": "$22,355",
+                "Price Score (30)": 12.1,
+                "Cost Accuracy (15)": "10.5",
+                "Engineering Drawings (15)": 10.0,
+                "Scenario Score (40)": 34.0,
+                "Penalty": 0,
+                "Score": 66.64
+            }
+        ],
+        "54": [
+            {
+                "Place": 54,
+                "Car Num": 121,
+                "Team": "Univ of Saskatchewan",
+                "Adjusted Cost": "$16,578",
+                "Price Score (30)": 20.0,
+                "Cost Accuracy (15)": "13",
+                "Engineering Drawings (15)": 12.0,
+                "Scenario Score (40)": 21.5,
+                "Penalty": 0,
+                "Score": 66.55
+            }
+        ],
+        "55": [
+            {
+                "Place": 55,
+                "Car Num": 22,
+                "Team": "Sacramento State Univ",
+                "Adjusted Cost": "$18,077",
+                "Price Score (30)": 18.0,
+                "Cost Accuracy (15)": "13",
+                "Engineering Drawings (15)": 2.0,
+                "Scenario Score (40)": 33.5,
+                "Penalty": 0,
+                "Score": 66.5
+            }
+        ],
+        "56": [
+            {
+                "Place": 56,
+                "Car Num": 109,
+                "Team": "Temple Univ",
+                "Adjusted Cost": "$17,685",
+                "Price Score (30)": 18.5,
+                "Cost Accuracy (15)": "15",
+                "Engineering Drawings (15)": 15.0,
+                "Scenario Score (40)": 17.0,
+                "Penalty": 0,
+                "Score": 65.53
+            }
+        ],
+        "57": [
+            {
+                "Place": 57,
+                "Car Num": 101,
+                "Team": "Minnesota State University - Mankato",
+                "Adjusted Cost": "$14,081",
+                "Price Score (30)": 23.5,
+                "Cost Accuracy (15)": "12",
+                "Engineering Drawings (15)": 0,
+                "Scenario Score (40)": 30.0,
+                "Penalty": 0,
+                "Score": 65.47
+            }
+        ],
+        "58": [
+            {
+                "Place": 58,
+                "Car Num": 23,
+                "Team": "Kansas State Univ",
+                "Adjusted Cost": "$23,516",
+                "Price Score (30)": 10.5,
+                "Cost Accuracy (15)": "10",
+                "Engineering Drawings (15)": 11.0,
+                "Scenario Score (40)": 33.0,
+                "Penalty": 0,
+                "Score": 64.54
+            }
+        ],
+        "59": [
+            {
+                "Place": 59,
+                "Car Num": 64,
+                "Team": "West Virginia Univ",
+                "Adjusted Cost": "$20,603",
+                "Price Score (30)": 14.5,
+                "Cost Accuracy (15)": "10",
+                "Engineering Drawings (15)": 10.0,
+                "Scenario Score (40)": 30.0,
+                "Penalty": 0,
+                "Score": 64.54
+            }
+        ],
+        "60": [
+            {
+                "Place": 60,
+                "Car Num": 117,
+                "Team": "Pellissippi State Community College",
+                "Adjusted Cost": "$14,897",
+                "Price Score (30)": 22.4,
+                "Cost Accuracy (15)": "8",
+                "Engineering Drawings (15)": 1.0,
+                "Scenario Score (40)": 33.0,
+                "Penalty": 0,
+                "Score": 64.35
+            }
+        ],
+        "61": [
+            {
+                "Place": 61,
+                "Car Num": 44,
+                "Team": "Univ of Texas - Dallas",
+                "Adjusted Cost": "$18,791",
+                "Price Score (30)": 17.0,
+                "Cost Accuracy (15)": "8",
+                "Engineering Drawings (15)": 5.0,
+                "Scenario Score (40)": 34.0,
+                "Penalty": 0,
+                "Score": 64.02
+            }
+        ],
+        "62": [
+            {
+                "Place": 62,
+                "Car Num": 14,
+                "Team": "Univ of Cincinnati",
+                "Adjusted Cost": "$17,334",
+                "Price Score (30)": 19.0,
+                "Cost Accuracy (15)": "10",
+                "Engineering Drawings (15)": 10.0,
+                "Scenario Score (40)": 25.0,
+                "Penalty": 0,
+                "Score": 64.01
+            }
+        ],
+        "63": [
+            {
+                "Place": 63,
+                "Car Num": 94,
+                "Team": "Univ of Colorado - Boulder",
+                "Adjusted Cost": "$18,891",
+                "Price Score (30)": 16.9,
+                "Cost Accuracy (15)": "10",
+                "Engineering Drawings (15)": 1.0,
+                "Scenario Score (40)": 36.0,
+                "Penalty": 0,
+                "Score": 63.88
+            }
+        ],
+        "64": [
+            {
+                "Place": 64,
+                "Car Num": 36,
+                "Team": "Colorado State University",
+                "Adjusted Cost": "$26,153",
+                "Price Score (30)": 6.9,
+                "Cost Accuracy (15)": "13",
+                "Engineering Drawings (15)": 10.0,
+                "Scenario Score (40)": 33.0,
+                "Penalty": 0,
+                "Score": 62.93
+            }
+        ],
+        "65": [
+            {
+                "Place": 65,
+                "Car Num": 25,
+                "Team": "California State Poly Univ - Pomona",
+                "Adjusted Cost": "$28,321",
+                "Price Score (30)": 4.0,
+                "Cost Accuracy (15)": "12",
+                "Engineering Drawings (15)": 13.0,
+                "Scenario Score (40)": 33.0,
+                "Penalty": 0,
+                "Score": 61.96
+            }
+        ],
+        "66": [
+            {
+                "Place": 66,
+                "Car Num": 105,
+                "Team": "Univ of Southern California",
+                "Adjusted Cost": "$22,365",
+                "Price Score (30)": 12.1,
+                "Cost Accuracy (15)": "14",
+                "Engineering Drawings (15)": 8.0,
+                "Scenario Score (40)": 27.0,
+                "Penalty": 0,
+                "Score": 61.12
+            }
+        ],
+        "67": [
+            {
+                "Place": 67,
+                "Car Num": 106,
+                "Team": "Embry-Riddle Aero Univ - Daytona Beach",
+                "Adjusted Cost": "$26,291",
+                "Price Score (30)": 6.7,
+                "Cost Accuracy (15)": "12",
+                "Engineering Drawings (15)": 5.0,
+                "Scenario Score (40)": 36.0,
+                "Penalty": 0,
+                "Score": 59.74
+            }
+        ],
+        "68": [
+            {
+                "Place": 68,
+                "Car Num": 52,
+                "Team": "California State Univ - Chico",
+                "Adjusted Cost": "$14,367",
+                "Price Score (30)": 23.1,
+                "Cost Accuracy (15)": "10",
+                "Engineering Drawings (15)": 4.5,
+                "Scenario Score (40)": 21.5,
+                "Penalty": 0,
+                "Score": 59.08
+            }
+        ],
+        "69": [
+            {
+                "Place": 69,
+                "Car Num": 133,
+                "Team": "Universidad Autonoma Estado Mexico",
+                "Adjusted Cost": "$16,145",
+                "Price Score (30)": 20.6,
+                "Cost Accuracy (15)": "9",
+                "Engineering Drawings (15)": 0,
+                "Scenario Score (40)": 29.0,
+                "Penalty": 0,
+                "Score": 58.64
+            }
+        ],
+        "70": [
+            {
+                "Place": 70,
+                "Car Num": 102,
+                "Team": "Missouri University of Science and Tech",
+                "Adjusted Cost": "$14,530",
+                "Price Score (30)": 22.9,
+                "Cost Accuracy (15)": "12",
+                "Engineering Drawings (15)": 15.0,
+                "Scenario Score (40)": 8.0,
+                "Penalty": 0,
+                "Score": 57.85
+            }
+        ],
+        "71": [
+            {
+                "Place": 71,
+                "Car Num": 79,
+                "Team": "Univ of Texas - San Antonio",
+                "Adjusted Cost": "$15,209",
+                "Price Score (30)": 21.9,
+                "Cost Accuracy (15)": "9.5",
+                "Engineering Drawings (15)": 0,
+                "Scenario Score (40)": 26.0,
+                "Penalty": 0,
+                "Score": 57.42
+            }
+        ],
+        "72": [
+            {
+                "Place": 72,
+                "Car Num": 65,
+                "Team": "Hope College",
+                "Adjusted Cost": "$16,383",
+                "Price Score (30)": 20.3,
+                "Cost Accuracy (15)": "11",
+                "Engineering Drawings (15)": 7.0,
+                "Scenario Score (40)": 19.0,
+                "Penalty": 0,
+                "Score": 57.32
+            }
+        ],
+        "73": [
+            {
+                "Place": 73,
+                "Car Num": 87,
+                "Team": "Univ of Georgia",
+                "Adjusted Cost": "$13,327",
+                "Price Score (30)": 24.5,
+                "Cost Accuracy (15)": "7",
+                "Engineering Drawings (15)": 1.0,
+                "Scenario Score (40)": 24.0,
+                "Penalty": 0,
+                "Score": 56.5
+            }
+        ],
+        "74": [
+            {
+                "Place": 74,
+                "Car Num": 120,
+                "Team": "Oregon Inst of Tech",
+                "Adjusted Cost": "$17,136",
+                "Price Score (30)": 19.3,
+                "Cost Accuracy (15)": "11",
+                "Engineering Drawings (15)": 2.0,
+                "Scenario Score (40)": 24.0,
+                "Penalty": 0,
+                "Score": 56.28
+            }
+        ],
+        "75": [
+            {
+                "Place": 75,
+                "Car Num": 69,
+                "Team": "Bradley Univ",
+                "Adjusted Cost": "$12,814",
+                "Price Score (30)": 25.2,
+                "Cost Accuracy (15)": "12",
+                "Engineering Drawings (15)": 3.0,
+                "Scenario Score (40)": 25.5,
+                "Penalty": -10,
+                "Score": 55.7
+            }
+        ],
+        "76": [
+            {
+                "Place": 76,
+                "Car Num": 136,
+                "Team": "Univ of Minnesota-Duluth",
+                "Adjusted Cost": "$12,712",
+                "Price Score (30)": 25.3,
+                "Cost Accuracy (15)": "y\r10",
+                "Engineering Drawings (15)": 2.0,
+                "Scenario Score (40)": 18.0,
+                "Penalty": 0,
+                "Score": 55.34
+            }
+        ],
+        "77": [
+            {
+                "Place": 77,
+                "Car Num": 43,
+                "Team": "Universidad Panamericana Sede Guadalajar",
+                "Adjusted Cost": "$14,641",
+                "Price Score (30)": 22.7,
+                "Cost Accuracy (15)": "13",
+                "Engineering Drawings (15)": 15.0,
+                "Scenario Score (40)": 4.0,
+                "Penalty": 0,
+                "Score": 54.7
+            }
+        ],
+        "78": [
+            {
+                "Place": 78,
+                "Car Num": 100,
+                "Team": "Kettering Univ",
+                "Adjusted Cost": "$14,301",
+                "Price Score (30)": 23.2,
+                "Cost Accuracy (15)": "12",
+                "Engineering Drawings (15)": 8.0,
+                "Scenario Score (40)": 10.0,
+                "Penalty": 0,
+                "Score": 53.17
+            }
+        ],
+        "79": [
+            {
+                "Place": 79,
+                "Car Num": 42,
+                "Team": "Univ of Oklahoma",
+                "Adjusted Cost": "$25,153",
+                "Price Score (30)": 8.3,
+                "Cost Accuracy (15)": "11",
+                "Engineering Drawings (15)": 10.0,
+                "Scenario Score (40)": 23.0,
+                "Penalty": 0,
+                "Score": 52.3
+            }
+        ],
+        "80": [
+            {
+                "Place": 80,
+                "Car Num": 131,
+                "Team": "Univ of Ottawa",
+                "Adjusted Cost": "$14,225",
+                "Price Score (30)": 23.3,
+                "Cost Accuracy (15)": "11",
+                "Engineering Drawings (15)": 7.0,
+                "Scenario Score (40)": 10.5,
+                "Penalty": 0,
+                "Score": 51.77
+            }
+        ],
+        "81": [
+            {
+                "Place": 81,
+                "Car Num": 21,
+                "Team": "Oklahoma State Univ",
+                "Adjusted Cost": "$16,528",
+                "Price Score (30)": 20.1,
+                "Cost Accuracy (15)": "9",
+                "Engineering Drawings (15)": 5.0,
+                "Scenario Score (40)": 17.0,
+                "Penalty": 0,
+                "Score": 51.12
+            }
+        ],
+        "82": [
+            {
+                "Place": 82,
+                "Car Num": 26,
+                "Team": "Univ of Wisconsin - Platteville",
+                "Adjusted Cost": "$16,173",
+                "Price Score (30)": 20.6,
+                "Cost Accuracy (15)": "12",
+                "Engineering Drawings (15)": 7.0,
+                "Scenario Score (40)": 10.5,
+                "Penalty": 0,
+                "Score": 50.1
+            }
+        ],
+        "83": [
+            {
+                "Place": 83,
+                "Car Num": 73,
+                "Team": "Univ of Puerto Rico-Mayaquez",
+                "Adjusted Cost": "$17,699",
+                "Price Score (30)": 18.5,
+                "Cost Accuracy (15)": "13.5",
+                "Engineering Drawings (15)": 15.0,
+                "Scenario Score (40)": 3.0,
+                "Penalty": 0,
+                "Score": 50.01
+            }
+        ],
+        "84": [
+            {
+                "Place": 84,
+                "Car Num": 34,
+                "Team": "Colorado Mesa University",
+                "Adjusted Cost": "$18,083",
+                "Price Score (30)": 18.0,
+                "Cost Accuracy (15)": "9",
+                "Engineering Drawings (15)": 0,
+                "Scenario Score (40)": 23.0,
+                "Penalty": 0,
+                "Score": 49.99
+            }
+        ],
+        "85": [
+            {
+                "Place": 85,
+                "Car Num": 68,
+                "Team": "AGH Univ of Science and Technology",
+                "Adjusted Cost": "$25,269",
+                "Price Score (30)": 8.1,
+                "Cost Accuracy (15)": "10",
+                "Engineering Drawings (15)": 4.0,
+                "Scenario Score (40)": 27.0,
+                "Penalty": 0,
+                "Score": 49.14
+            }
+        ],
+        "86": [
+            {
+                "Place": 86,
+                "Car Num": 108,
+                "Team": "Lawrence Technological Univ",
+                "Adjusted Cost": "$28,233",
+                "Price Score (30)": 4.1,
+                "Cost Accuracy (15)": "10",
+                "Engineering Drawings (15)": 8.0,
+                "Scenario Score (40)": 26.0,
+                "Penalty": 0,
+                "Score": 48.08
+            }
+        ],
+        "87": [
+            {
+                "Place": 87,
+                "Car Num": 116,
+                "Team": "Saginaw Valley State Univ",
+                "Adjusted Cost": "$17,437",
+                "Price Score (30)": 18.9,
+                "Cost Accuracy (15)": "4",
+                "Engineering Drawings (15)": 1.0,
+                "Scenario Score (40)": 24.0,
+                "Penalty": 0,
+                "Score": 47.87
+            }
+        ],
+        "88": [
+            {
+                "Place": 88,
+                "Car Num": 29,
+                "Team": "Univ of Texas - Austin",
+                "Adjusted Cost": "$21,840",
+                "Price Score (30)": 12.8,
+                "Cost Accuracy (15)": "12",
+                "Engineering Drawings (15)": 14.0,
+                "Scenario Score (40)": 28.5,
+                "Penalty": -20,
+                "Score": 47.34
+            }
+        ],
+        "89": [
+            {
+                "Place": 89,
+                "Car Num": 62,
+                "Team": "Washington State Univ",
+                "Adjusted Cost": "$18,427",
+                "Price Score (30)": 17.5,
+                "Cost Accuracy (15)": "6",
+                "Engineering Drawings (15)": 0,
+                "Scenario Score (40)": 23.0,
+                "Penalty": 0,
+                "Score": 46.52
+            }
+        ],
+        "90": [
+            {
+                "Place": 90,
+                "Car Num": 113,
+                "Team": "US Air Force Academy",
+                "Adjusted Cost": "$17,261",
+                "Price Score (30)": 19.1,
+                "Cost Accuracy (15)": "8",
+                "Engineering Drawings (15)": 0,
+                "Scenario Score (40)": 18.0,
+                "Penalty": 0,
+                "Score": 45.11
+            }
+        ],
+        "91": [
+            {
+                "Place": 91,
+                "Car Num": 95,
+                "Team": "Univ of Toledo",
+                "Adjusted Cost": "$18,361",
+                "Price Score (30)": 17.6,
+                "Cost Accuracy (15)": "11",
+                "Engineering Drawings (15)": 0,
+                "Scenario Score (40)": 16.0,
+                "Penalty": 0,
+                "Score": 44.61
+            }
+        ],
+        "92": [
+            {
+                "Place": 92,
+                "Car Num": 92,
+                "Team": "Clarkson University",
+                "Adjusted Cost": "$30,133",
+                "Price Score (30)": 1.5,
+                "Cost Accuracy (15)": "12",
+                "Engineering Drawings (15)": 6.0,
+                "Scenario Score (40)": 24.0,
+                "Penalty": 0,
+                "Score": 43.48
+            }
+        ],
+        "93": [
+            {
+                "Place": 93,
+                "Car Num": 46,
+                "Team": "York College of Pennsylvania",
+                "Adjusted Cost": "$24,193",
+                "Price Score (30)": 9.6,
+                "Cost Accuracy (15)": "14",
+                "Engineering Drawings (15)": 7.0,
+                "Scenario Score (40)": 12.0,
+                "Penalty": 0,
+                "Score": 42.62
+            }
+        ],
+        "94": [
+            {
+                "Place": 94,
+                "Car Num": 103,
+                "Team": "Penn State Univ - Harrisburg",
+                "Adjusted Cost": "$24,772",
+                "Price Score (30)": 8.8,
+                "Cost Accuracy (15)": "8",
+                "Engineering Drawings (15)": 3.0,
+                "Scenario Score (40)": 22.0,
+                "Penalty": 0,
+                "Score": 41.82
+            }
+        ],
+        "95": [
+            {
+                "Place": 95,
+                "Car Num": 122,
+                "Team": "South Dakota School of Mines & Tech",
+                "Adjusted Cost": "$19,472",
+                "Price Score (30)": 16.1,
+                "Cost Accuracy (15)": "10",
+                "Engineering Drawings (15)": 10.0,
+                "Scenario Score (40)": 14.5,
+                "Penalty": -10,
+                "Score": 40.58
+            }
+        ],
+        "96": [
+            {
+                "Place": 96,
+                "Car Num": 32,
+                "Team": "Colorado School of Mines",
+                "Adjusted Cost": "$20,676",
+                "Price Score (30)": 14.4,
+                "Cost Accuracy (15)": "12",
+                "Engineering Drawings (15)": 8.0,
+                "Scenario Score (40)": 5.0,
+                "Penalty": 0,
+                "Score": 39.44
+            }
+        ],
+        "97": [
+            {
+                "Place": 97,
+                "Car Num": 17,
+                "Team": "Florida Atlantic Univ",
+                "Adjusted Cost": "$17,201",
+                "Price Score (30)": 19.2,
+                "Cost Accuracy (15)": "8",
+                "Engineering Drawings (15)": 8.0,
+                "Scenario Score (40)": 4.0,
+                "Penalty": 0,
+                "Score": 39.2
+            }
+        ],
+        "98": [
+            {
+                "Place": 98,
+                "Car Num": 93,
+                "Team": "South Dakota State Univ",
+                "Adjusted Cost": "$16,565",
+                "Price Score (30)": 20.1,
+                "Cost Accuracy (15)": "8",
+                "Engineering Drawings (15)": 6.0,
+                "Scenario Score (40)": 5.0,
+                "Penalty": 0,
+                "Score": 39.07
+            }
+        ],
+        "99": [
+            {
+                "Place": 99,
+                "Car Num": 80,
+                "Team": "California State Univ - Fullerton",
+                "Adjusted Cost": "$20,341",
+                "Price Score (30)": 14.9,
+                "Cost Accuracy (15)": "8",
+                "Engineering Drawings (15)": 0,
+                "Scenario Score (40)": 16.0,
+                "Penalty": 0,
+                "Score": 38.89
+            }
+        ],
+        "100": [
+            {
+                "Place": 100,
+                "Car Num": 89,
+                "Team": "Southern Illinois Univ - Carbondale",
+                "Adjusted Cost": "$24,836",
+                "Price Score (30)": 8.7,
+                "Cost Accuracy (15)": "6",
+                "Engineering Drawings (15)": 10.0,
+                "Scenario Score (40)": 9.0,
+                "Penalty": 0,
+                "Score": 33.74
+            }
+        ],
+        "101": [
+            {
+                "Place": 101,
+                "Car Num": 125,
+                "Team": "Northern Arizona Univ",
+                "Adjusted Cost": "$19,093",
+                "Price Score (30)": 16.6,
+                "Cost Accuracy (15)": "6",
+                "Engineering Drawings (15)": 0,
+                "Scenario Score (40)": 28.0,
+                "Penalty": -20,
+                "Score": 30.6
+            }
+        ],
+        "102": [
+            {
+                "Place": 102,
+                "Car Num": 138,
+                "Team": "Universidad Autonoma de Baja California",
+                "Adjusted Cost": "$15,057",
+                "Price Score (30)": 22.1,
+                "Cost Accuracy (15)": "y\r4",
+                "Engineering Drawings (15)": 2.0,
+                "Scenario Score (40)": 1.0,
+                "Penalty": 0,
+                "Score": 29.13
+            }
+        ],
+        "103": [
+            {
+                "Place": 103,
+                "Car Num": 58,
+                "Team": "Syracuse Univ",
+                "Adjusted Cost": "$31,214",
+                "Price Score (30)": 0.0,
+                "Cost Accuracy (15)": "6",
+                "Engineering Drawings (15)": 0,
+                "Scenario Score (40)": 12.0,
+                "Penalty": 0,
+                "Score": 18.0
+            }
+        ],
+        "104": [
+            {
+                "Place": 104,
+                "Car Num": 128,
+                "Team": "St Cloud State Univ",
+                "Adjusted Cost": "$22,243",
+                "Price Score (30)": 12.3,
+                "Cost Accuracy (15)": "11",
+                "Engineering Drawings (15)": 0,
+                "Scenario Score (40)": 6.0,
+                "Penalty": -20,
+                "Score": 9.29
+            }
+        ],
+        "105": [
+            {
+                "Place": 105,
+                "Car Num": 72,
+                "Team": "Univ of Delaware",
+                "Adjusted Cost": "$12,741",
+                "Price Score (30)": 25.3,
+                "Cost Accuracy (15)": 13.0,
+                "Engineering Drawings (15)": 4.0,
+                "Scenario Score (40)": 11.5,
+                "Penalty": -50,
+                "Score": 3.8
+            }
+        ],
+        "121": [
+            {
+                "Place": 121,
+                "Car Num": 88,
+                "Team": "UP Aguascalientes",
+                "Adjusted Cost": "$15,219",
+                "Price Score (30)": 21.9,
+                "Cost Accuracy (15)": 0,
+                "Engineering Drawings (15)": 0,
+                "Scenario Score (40)": 5.0,
+                "Penalty": -30,
+                "Score": -3.09
+            }
+        ]
+    }
+}

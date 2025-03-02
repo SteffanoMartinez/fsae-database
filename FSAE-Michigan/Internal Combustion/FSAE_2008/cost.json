@@ -1,0 +1,857 @@
+{
+    "name": "Cost Event",
+    "headers": [
+        "Place",
+        "Car Num",
+        "Team",
+        "Score"
+    ],
+    "content": {
+        "1": [
+            {
+                "Place": 1,
+                "Car Num": 11,
+                "Team": "Faculdade de Engenharia de Sorocaba",
+                "Score": 90.94
+            }
+        ],
+        "2": [
+            {
+                "Place": 2,
+                "Car Num": 7,
+                "Team": "Rochester Institute of Technology",
+                "Score": 88.83
+            }
+        ],
+        "3": [
+            {
+                "Place": 3,
+                "Car Num": 1,
+                "Team": "Univ of Wisconsin - Madison",
+                "Score": 88.41
+            }
+        ],
+        "4": [
+            {
+                "Place": 4,
+                "Car Num": 45,
+                "Team": "Univ of Michigan - Ann Arbor",
+                "Score": 87.62
+            }
+        ],
+        "5": [
+            {
+                "Place": 5,
+                "Car Num": 16,
+                "Team": "Purdue Univ - W Lafayette",
+                "Score": 87.4
+            }
+        ],
+        "6": [
+            {
+                "Place": 6,
+                "Car Num": 30,
+                "Team": "Univ of Oklahoma",
+                "Score": 86.68
+            }
+        ],
+        "7": [
+            {
+                "Place": 7,
+                "Car Num": 92,
+                "Team": "Missouri University of Science and Tech",
+                "Score": 86.63
+            }
+        ],
+        "8": [
+            {
+                "Place": 8,
+                "Car Num": 69,
+                "Team": "Clemson Univ",
+                "Score": 85.9
+            }
+        ],
+        "9": [
+            {
+                "Place": 9,
+                "Car Num": 40,
+                "Team": "Univ of Applied Sciences - Graz",
+                "Score": 85.59
+            }
+        ],
+        "10": [
+            {
+                "Place": 10,
+                "Car Num": 120,
+                "Team": "Kumoh National Institute of Technology",
+                "Score": 85.46
+            }
+        ],
+        "11": [
+            {
+                "Place": 11,
+                "Car Num": 8,
+                "Team": "Univ of Toledo",
+                "Score": 85.38
+            }
+        ],
+        "12": [
+            {
+                "Place": 12,
+                "Car Num": 18,
+                "Team": "Delft Univ of Technology",
+                "Score": 85.15
+            }
+        ],
+        "13": [
+            {
+                "Place": 13,
+                "Car Num": 81,
+                "Team": "Kookmin Univ",
+                "Score": 85.11
+            }
+        ],
+        "14": [
+            {
+                "Place": 14,
+                "Car Num": 102,
+                "Team": "La Universidad Del Zulia",
+                "Score": 84.47
+            }
+        ],
+        "15": [
+            {
+                "Place": 15,
+                "Car Num": 14,
+                "Team": "Univ of Stuttgart",
+                "Score": 84.4
+            }
+        ],
+        "16": [
+            {
+                "Place": 16,
+                "Car Num": 85,
+                "Team": "Penn State Univ - University Park",
+                "Score": 84.16
+            }
+        ],
+        "17": [
+            {
+                "Place": 17,
+                "Car Num": 52,
+                "Team": "Univ of Missouri - Columbia",
+                "Score": 84.0
+            }
+        ],
+        "18": [
+            {
+                "Place": 18,
+                "Car Num": 36,
+                "Team": "Univ of New Hampshire",
+                "Score": 83.74
+            }
+        ],
+        "19": [
+            {
+                "Place": 19,
+                "Car Num": 114,
+                "Team": "SUNY - Buffalo",
+                "Score": 83.33
+            }
+        ],
+        "20": [
+            {
+                "Place": 20,
+                "Car Num": 5,
+                "Team": "Univ of Toronto",
+                "Score": 83.06
+            }
+        ],
+        "21": [
+            {
+                "Place": 21,
+                "Car Num": 100,
+                "Team": "Helsinki Polytechnic",
+                "Score": 83.02
+            }
+        ],
+        "22": [
+            {
+                "Place": 22,
+                "Car Num": 121,
+                "Team": "Saginaw Valley State Univ",
+                "Score": 82.83
+            }
+        ],
+        "23": [
+            {
+                "Place": 23,
+                "Car Num": 49,
+                "Team": "McGill Univ",
+                "Score": 82.73
+            }
+        ],
+        "24": [
+            {
+                "Place": 24,
+                "Car Num": 68,
+                "Team": "Minnesota State University - Mankato",
+                "Score": 82.58
+            }
+        ],
+        "25": [
+            {
+                "Place": 25,
+                "Car Num": 15,
+                "Team": "RMIT Univ",
+                "Score": 82.26
+            }
+        ],
+        "26": [
+            {
+                "Place": 26,
+                "Car Num": 88,
+                "Team": "Univ of Illinois - Urbana Champaign",
+                "Score": 82.0
+            }
+        ],
+        "27": [
+            {
+                "Place": 27,
+                "Car Num": 39,
+                "Team": "Virginia Tech",
+                "Score": 81.81
+            }
+        ],
+        "28": [
+            {
+                "Place": 28,
+                "Car Num": 110,
+                "Team": "Univ of Waterloo",
+                "Score": 81.41
+            }
+        ],
+        "29": [
+            {
+                "Place": 29,
+                "Car Num": 80,
+                "Team": "Iowa State Univ",
+                "Score": 81.36
+            }
+        ],
+        "30": [
+            {
+                "Place": 30,
+                "Car Num": 33,
+                "Team": "Univ of Michigan - Dearborn",
+                "Score": 81.3
+            }
+        ],
+        "31": [
+            {
+                "Place": 31,
+                "Car Num": 91,
+                "Team": "Universidad Simon Bolivar",
+                "Score": 80.95
+            }
+        ],
+        "32": [
+            {
+                "Place": 32,
+                "Car Num": 27,
+                "Team": "Brown Univ",
+                "Score": 80.6
+            }
+        ],
+        "33": [
+            {
+                "Place": 33,
+                "Car Num": 2,
+                "Team": "Univ of Western Australia",
+                "Score": 80.53
+            }
+        ],
+        "34": [
+            {
+                "Place": 34,
+                "Car Num": 58,
+                "Team": "Rutgers Univ",
+                "Score": 80.49
+            }
+        ],
+        "35": [
+            {
+                "Place": 35,
+                "Car Num": 59,
+                "Team": "Cornell Univ",
+                "Score": 80.39
+            }
+        ],
+        "36": [
+            {
+                "Place": 36,
+                "Car Num": 78,
+                "Team": "Ecole De Technologie Superieure",
+                "Score": 80.04
+            }
+        ],
+        "37": [
+            {
+                "Place": 37,
+                "Car Num": 77,
+                "Team": "Univ of Pennsylvania",
+                "Score": 79.81
+            }
+        ],
+        "38": [
+            {
+                "Place": 38,
+                "Car Num": 9,
+                "Team": "Rensselaer Polytechnic Inst",
+                "Score": 79.77
+            }
+        ],
+        "39": [
+            {
+                "Place": 39,
+                "Car Num": 35,
+                "Team": "Georgia Insitute of Technology",
+                "Score": 79.69
+            }
+        ],
+        "40": [
+            {
+                "Place": 40,
+                "Car Num": 117,
+                "Team": "Univ of Louisville",
+                "Score": 79.42
+            }
+        ],
+        "41": [
+            {
+                "Place": 41,
+                "Car Num": 6,
+                "Team": "Univ of Florida",
+                "Score": 79.3
+            }
+        ],
+        "42": [
+            {
+                "Place": 42,
+                "Car Num": 26,
+                "Team": "Carleton Univ",
+                "Score": 79.22
+            }
+        ],
+        "43": [
+            {
+                "Place": 43,
+                "Car Num": 89,
+                "Team": "Univ of Windsor",
+                "Score": 79.22
+            }
+        ],
+        "44": [
+            {
+                "Place": 44,
+                "Car Num": 66,
+                "Team": "Cedarville Univ",
+                "Score": 79.21
+            }
+        ],
+        "45": [
+            {
+                "Place": 45,
+                "Car Num": 74,
+                "Team": "Universidad Central de Venezuela",
+                "Score": 79.17
+            }
+        ],
+        "46": [
+            {
+                "Place": 46,
+                "Car Num": 118,
+                "Team": "Universite de Sherbrooke",
+                "Score": 79.02
+            }
+        ],
+        "47": [
+            {
+                "Place": 47,
+                "Car Num": 4,
+                "Team": "Univ of Cincinnati",
+                "Score": 78.98
+            }
+        ],
+        "48": [
+            {
+                "Place": 48,
+                "Car Num": 28,
+                "Team": "Yeungnam Univ",
+                "Score": 78.89
+            }
+        ],
+        "49": [
+            {
+                "Place": 49,
+                "Car Num": 104,
+                "Team": "Univ of Puerto Rico",
+                "Score": 78.89
+            }
+        ],
+        "50": [
+            {
+                "Place": 50,
+                "Car Num": 79,
+                "Team": "Carnegie Mellon Univ",
+                "Score": 78.88
+            }
+        ],
+        "51": [
+            {
+                "Place": 51,
+                "Car Num": 51,
+                "Team": "Michigan State Univ",
+                "Score": 78.04
+            }
+        ],
+        "52": [
+            {
+                "Place": 52,
+                "Car Num": 25,
+                "Team": "Massachusetts Inst of Tech",
+                "Score": 77.97
+            }
+        ],
+        "53": [
+            {
+                "Place": 53,
+                "Car Num": 98,
+                "Team": "Univ of Ontario Institute of Tech",
+                "Score": 77.94
+            }
+        ],
+        "54": [
+            {
+                "Place": 54,
+                "Car Num": 90,
+                "Team": "Lawrence Tech Univ (Inst)",
+                "Score": 77.46
+            }
+        ],
+        "55": [
+            {
+                "Place": 55,
+                "Car Num": 60,
+                "Team": "Univ of Pittsburgh - Pittsburgh",
+                "Score": 77.21
+            }
+        ],
+        "56": [
+            {
+                "Place": 56,
+                "Car Num": 99,
+                "Team": "Univ of South Florida",
+                "Score": 77.05
+            }
+        ],
+        "57": [
+            {
+                "Place": 57,
+                "Car Num": 67,
+                "Team": "Central Piedmont Community College",
+                "Score": 77.02
+            }
+        ],
+        "58": [
+            {
+                "Place": 58,
+                "Car Num": 38,
+                "Team": "Duke Univ",
+                "Score": 76.81
+            }
+        ],
+        "59": [
+            {
+                "Place": 59,
+                "Car Num": 64,
+                "Team": "National Univ of Singapore",
+                "Score": 76.58
+            }
+        ],
+        "60": [
+            {
+                "Place": 60,
+                "Car Num": 111,
+                "Team": "Kanagawa Institute of Technology",
+                "Score": 76.47
+            }
+        ],
+        "61": [
+            {
+                "Place": 61,
+                "Car Num": 122,
+                "Team": "Oxford Brookes Univ",
+                "Score": 76.37
+            }
+        ],
+        "62": [
+            {
+                "Place": 62,
+                "Car Num": 3,
+                "Team": "Graz Univ of Technology",
+                "Score": 76.32
+            }
+        ],
+        "63": [
+            {
+                "Place": 63,
+                "Car Num": 119,
+                "Team": "Oakland Univ",
+                "Score": 76.12
+            }
+        ],
+        "64": [
+            {
+                "Place": 64,
+                "Car Num": 53,
+                "Team": "Worcester Polytechnic Inst",
+                "Score": 75.98
+            }
+        ],
+        "65": [
+            {
+                "Place": 65,
+                "Car Num": 44,
+                "Team": "Tennessee Tech Univ",
+                "Score": 75.35
+            }
+        ],
+        "66": [
+            {
+                "Place": 66,
+                "Car Num": 48,
+                "Team": "Ohio State Univ",
+                "Score": 75.32
+            }
+        ],
+        "67": [
+            {
+                "Place": 67,
+                "Car Num": 54,
+                "Team": "Univ of North Carolina - Charlotte",
+                "Score": 75.07
+            }
+        ],
+        "68": [
+            {
+                "Place": 68,
+                "Car Num": 113,
+                "Team": "Univ of North Dakota",
+                "Score": 74.21
+            }
+        ],
+        "69": [
+            {
+                "Place": 69,
+                "Car Num": 62,
+                "Team": "Vanderbilt Univ",
+                "Score": 74.19
+            }
+        ],
+        "70": [
+            {
+                "Place": 70,
+                "Car Num": 94,
+                "Team": "Kokushikan Univ",
+                "Score": 74.02
+            }
+        ],
+        "71": [
+            {
+                "Place": 71,
+                "Car Num": 115,
+                "Team": "Michigan Tech Univ",
+                "Score": 73.62
+            }
+        ],
+        "72": [
+            {
+                "Place": 72,
+                "Car Num": 107,
+                "Team": "Univ of Akron",
+                "Score": 73.38
+            }
+        ],
+        "73": [
+            {
+                "Place": 73,
+                "Car Num": 37,
+                "Team": "Univ of Colorado - Boulder",
+                "Score": 73.13
+            }
+        ],
+        "74": [
+            {
+                "Place": 74,
+                "Car Num": 108,
+                "Team": "Univ of Saskatchewan",
+                "Score": 73.0
+            }
+        ],
+        "75": [
+            {
+                "Place": 75,
+                "Car Num": 47,
+                "Team": "McMaster Univ",
+                "Score": 72.58
+            }
+        ],
+        "76": [
+            {
+                "Place": 76,
+                "Car Num": 42,
+                "Team": "Univ of Hawaii - Manoa",
+                "Score": 72.23
+            }
+        ],
+        "77": [
+            {
+                "Place": 77,
+                "Car Num": 56,
+                "Team": "Univ of Guelph",
+                "Score": 71.91
+            }
+        ],
+        "78": [
+            {
+                "Place": 78,
+                "Car Num": 63,
+                "Team": "St Cloud State Univ",
+                "Score": 71.6
+            }
+        ],
+        "79": [
+            {
+                "Place": 79,
+                "Car Num": 55,
+                "Team": "Cooper Union",
+                "Score": 71.35
+            }
+        ],
+        "80": [
+            {
+                "Place": 80,
+                "Car Num": 109,
+                "Team": "Univ of Evansville",
+                "Score": 71.15
+            }
+        ],
+        "81": [
+            {
+                "Place": 81,
+                "Car Num": 106,
+                "Team": "Western Michigan Univ",
+                "Score": 70.88
+            }
+        ],
+        "82": [
+            {
+                "Place": 82,
+                "Car Num": 22,
+                "Team": "Ryerson Univ",
+                "Score": 70.47
+            }
+        ],
+        "83": [
+            {
+                "Place": 83,
+                "Car Num": 83,
+                "Team": "Columbia Univ",
+                "Score": 70.22
+            }
+        ],
+        "84": [
+            {
+                "Place": 84,
+                "Car Num": 76,
+                "Team": "Univ of Western Ontario",
+                "Score": 70.12
+            }
+        ],
+        "85": [
+            {
+                "Place": 85,
+                "Car Num": 116,
+                "Team": "Indian Institute of Tech - Bombay",
+                "Score": 69.67
+            }
+        ],
+        "86": [
+            {
+                "Place": 86,
+                "Car Num": 82,
+                "Team": "Louisiana State Univ",
+                "Score": 69.42
+            }
+        ],
+        "87": [
+            {
+                "Place": 87,
+                "Car Num": 24,
+                "Team": "Universite Laval",
+                "Score": 69.36
+            }
+        ],
+        "88": [
+            {
+                "Place": 88,
+                "Car Num": 17,
+                "Team": "Sophia Univ",
+                "Score": 69.16
+            }
+        ],
+        "89": [
+            {
+                "Place": 89,
+                "Car Num": 34,
+                "Team": "Miami Univ",
+                "Score": 68.2
+            }
+        ],
+        "90": [
+            {
+                "Place": 90,
+                "Car Num": 43,
+                "Team": "Ecole Polytechnique De Montreal",
+                "Score": 68.15
+            }
+        ],
+        "91": [
+            {
+                "Place": 91,
+                "Car Num": 70,
+                "Team": "Wichita State Univ",
+                "Score": 67.98
+            }
+        ],
+        "92": [
+            {
+                "Place": 92,
+                "Car Num": 46,
+                "Team": "Florida Atlantic Univ",
+                "Score": 67.36
+            }
+        ],
+        "93": [
+            {
+                "Place": 93,
+                "Car Num": 84,
+                "Team": "Technical Univ of Munchen",
+                "Score": 67.13
+            }
+        ],
+        "94": [
+            {
+                "Place": 94,
+                "Car Num": 105,
+                "Team": "Queen's Univ - Ontario Canada",
+                "Score": 66.21
+            }
+        ],
+        "95": [
+            {
+                "Place": 95,
+                "Car Num": 10,
+                "Team": "Univ of Kansas - Lawrence",
+                "Score": 65.12
+            }
+        ],
+        "96": [
+            {
+                "Place": 96,
+                "Car Num": 12,
+                "Team": "Texas A & M Univ - College Station",
+                "Score": 64.56
+            }
+        ],
+        "97": [
+            {
+                "Place": 97,
+                "Car Num": 21,
+                "Team": "Universite Du Quebec-Chicoutimi",
+                "Score": 63.99
+            }
+        ],
+        "98": [
+            {
+                "Place": 98,
+                "Car Num": 103,
+                "Team": "Univ of Texas - Arlington",
+                "Score": 63.11
+            }
+        ],
+        "99": [
+            {
+                "Place": 99,
+                "Car Num": 13,
+                "Team": "Auburn Univ",
+                "Score": 62.66
+            }
+        ],
+        "100": [
+            {
+                "Place": 100,
+                "Car Num": 57,
+                "Team": "Univ of Wisconsin - Platteville",
+                "Score": 61.15
+            }
+        ],
+        "101": [
+            {
+                "Place": 101,
+                "Car Num": 87,
+                "Team": "Universidad Autonoma Estado Mexico",
+                "Score": 57.42
+            }
+        ],
+        "102": [
+            {
+                "Place": 102,
+                "Car Num": 86,
+                "Team": "Ferris State Univ",
+                "Score": 55.95
+            }
+        ],
+        "103": [
+            {
+                "Place": 103,
+                "Car Num": 101,
+                "Team": "Northwestern Univ",
+                "Score": 47.15
+            }
+        ],
+        "104": [
+            {
+                "Place": 104,
+                "Car Num": 65,
+                "Team": "Univ of Central Florida",
+                "Score": -46.06
+            }
+        ],
+        "105": [
+            {
+                "Place": 105,
+                "Car Num": 50,
+                "Team": "Georgia Southern Univ",
+                "Score": -100.0
+            },
+            {
+                "Place": 105,
+                "Car Num": 96,
+                "Team": "Villanova Univ",
+                "Score": -100.0
+            }
+        ]
+    }
+}

@@ -1,0 +1,1873 @@
+{
+    "name": "Overall Results",
+    "headers": [
+        "Place",
+        "Car Num",
+        "Team",
+        "Penalty",
+        "Cost Score",
+        "Presentation Score",
+        "Design Score",
+        "Acceleration Score",
+        "Skid Pad Score",
+        "Autocross Score",
+        "Endurance Score",
+        "Efficiency Score",
+        "Total Score"
+    ],
+    "content": {
+        "1": [
+            {
+                "Place": 1,
+                "Car Num": 1,
+                "Team": "Universitat Stuttgart",
+                "Penalty": 0,
+                "Cost Score": 62.5,
+                "Presentation Score": 75.0,
+                "Design Score": 140.0,
+                "Acceleration Score": 81.5,
+                "Skid Pad Score": 56.7,
+                "Autocross Score": 125.0,
+                "Endurance Score": 273.8,
+                "Efficiency Score": 88.1,
+                "Total Score": 902.5
+            }
+        ],
+        "2": [
+            {
+                "Place": 2,
+                "Car Num": 4,
+                "Team": "Oregon State Univ",
+                "Penalty": 0,
+                "Cost Score": 57.6,
+                "Presentation Score": 62.2,
+                "Design Score": 121.0,
+                "Acceleration Score": 87.5,
+                "Skid Pad Score": 75.0,
+                "Autocross Score": 111.4,
+                "Endurance Score": 247.2,
+                "Efficiency Score": 99.9,
+                "Total Score": 861.8
+            }
+        ],
+        "3": [
+            {
+                "Place": 3,
+                "Car Num": 2,
+                "Team": "Graz Technical Univ",
+                "Penalty": 0,
+                "Cost Score": 55.7,
+                "Presentation Score": 50.5,
+                "Design Score": 122.0,
+                "Acceleration Score": 73.9,
+                "Skid Pad Score": 62.4,
+                "Autocross Score": 115.6,
+                "Endurance Score": 275.0,
+                "Efficiency Score": 100.0,
+                "Total Score": 855.1
+            }
+        ],
+        "4": [
+            {
+                "Place": 4,
+                "Car Num": 3,
+                "Team": "U A S Graz",
+                "Penalty": 0,
+                "Cost Score": 58.2,
+                "Presentation Score": 49.1,
+                "Design Score": 142.0,
+                "Acceleration Score": 80.2,
+                "Skid Pad Score": 57.3,
+                "Autocross Score": 113.5,
+                "Endurance Score": 266.0,
+                "Efficiency Score": 76.4,
+                "Total Score": 842.7
+            }
+        ],
+        "5": [
+            {
+                "Place": 5,
+                "Car Num": 111,
+                "Team": "Univ of Michigan - Ann Arbor",
+                "Penalty": 0,
+                "Cost Score": 68.1,
+                "Presentation Score": 64.9,
+                "Design Score": 115.0,
+                "Acceleration Score": 97.8,
+                "Skid Pad Score": 44.3,
+                "Autocross Score": 99.1,
+                "Endurance Score": 205.2,
+                "Efficiency Score": 63.3,
+                "Total Score": 757.9
+            }
+        ],
+        "6": [
+            {
+                "Place": 6,
+                "Car Num": 16,
+                "Team": "San Jose State University",
+                "Penalty": 0,
+                "Cost Score": 66.0,
+                "Presentation Score": 43.1,
+                "Design Score": 117.0,
+                "Acceleration Score": 97.7,
+                "Skid Pad Score": 54.4,
+                "Autocross Score": 76.3,
+                "Endurance Score": 195.0,
+                "Efficiency Score": 80.2,
+                "Total Score": 729.7
+            }
+        ],
+        "7": [
+            {
+                "Place": 7,
+                "Car Num": 105,
+                "Team": "Univ of Minnesota - Twin Cities",
+                "Penalty": 0,
+                "Cost Score": 64.4,
+                "Presentation Score": 48.6,
+                "Design Score": 100.0,
+                "Acceleration Score": 69.3,
+                "Skid Pad Score": 56.8,
+                "Autocross Score": 92.2,
+                "Endurance Score": 218.8,
+                "Efficiency Score": 70.4,
+                "Total Score": 720.6
+            }
+        ],
+        "8": [
+            {
+                "Place": 8,
+                "Car Num": 99,
+                "Team": "Cornell Univ",
+                "Penalty": 0,
+                "Cost Score": 61.4,
+                "Presentation Score": 67.4,
+                "Design Score": 127.0,
+                "Acceleration Score": 100.0,
+                "Skid Pad Score": 40.7,
+                "Autocross Score": 68.7,
+                "Endurance Score": 188.9,
+                "Efficiency Score": 58.4,
+                "Total Score": 712.4
+            }
+        ],
+        "9": [
+            {
+                "Place": 9,
+                "Car Num": 67,
+                "Team": "Rochester Institute of Technology",
+                "Penalty": 0,
+                "Cost Score": 61.3,
+                "Presentation Score": 43.4,
+                "Design Score": 100.0,
+                "Acceleration Score": 74.7,
+                "Skid Pad Score": 60.8,
+                "Autocross Score": 87.2,
+                "Endurance Score": 205.1,
+                "Efficiency Score": 77.9,
+                "Total Score": 710.3
+            }
+        ],
+        "10": [
+            {
+                "Place": 10,
+                "Car Num": 6,
+                "Team": "Univ of Wisconsin - Madison",
+                "Penalty": 0,
+                "Cost Score": 66.8,
+                "Presentation Score": 47.5,
+                "Design Score": 115.0,
+                "Acceleration Score": 70.6,
+                "Skid Pad Score": 46.1,
+                "Autocross Score": 78.5,
+                "Endurance Score": 189.9,
+                "Efficiency Score": 82.7,
+                "Total Score": 697.1
+            }
+        ],
+        "11": [
+            {
+                "Place": 11,
+                "Car Num": 83,
+                "Team": "Kookmin Univ",
+                "Penalty": 0,
+                "Cost Score": 68.2,
+                "Presentation Score": 57.1,
+                "Design Score": 115.0,
+                "Acceleration Score": 85.5,
+                "Skid Pad Score": 56.9,
+                "Autocross Score": 80.7,
+                "Endurance Score": 171.0,
+                "Efficiency Score": 61.6,
+                "Total Score": 695.9
+            }
+        ],
+        "12": [
+            {
+                "Place": 12,
+                "Car Num": 13,
+                "Team": "Technical Univ of Munich",
+                "Penalty": 0,
+                "Cost Score": 70.7,
+                "Presentation Score": 68.7,
+                "Design Score": 150.0,
+                "Acceleration Score": 71.5,
+                "Skid Pad Score": 63.0,
+                "Autocross Score": 110.0,
+                "Endurance Score": 19.0,
+                "Efficiency Score": 96.2,
+                "Total Score": 649.1
+            }
+        ],
+        "13": [
+            {
+                "Place": 13,
+                "Car Num": 60,
+                "Team": "The Ohio State University",
+                "Penalty": 0,
+                "Cost Score": 56.6,
+                "Presentation Score": 54.1,
+                "Design Score": 100.0,
+                "Acceleration Score": 80.0,
+                "Skid Pad Score": 54.4,
+                "Autocross Score": 79.0,
+                "Endurance Score": 147.5,
+                "Efficiency Score": 75.9,
+                "Total Score": 647.5
+            }
+        ],
+        "14": [
+            {
+                "Place": 14,
+                "Car Num": 47,
+                "Team": "National Univ of Singapore",
+                "Penalty": 0,
+                "Cost Score": 61.2,
+                "Presentation Score": 71.1,
+                "Design Score": 118.0,
+                "Acceleration Score": 96.0,
+                "Skid Pad Score": 47.1,
+                "Autocross Score": 62.9,
+                "Endurance Score": 107.1,
+                "Efficiency Score": 83.9,
+                "Total Score": 647.2
+            }
+        ],
+        "15": [
+            {
+                "Place": 15,
+                "Car Num": 49,
+                "Team": "Univ of Illinois - Urbana Champaign",
+                "Penalty": 0,
+                "Cost Score": 71.1,
+                "Presentation Score": 72.0,
+                "Design Score": 115.0,
+                "Acceleration Score": 92.0,
+                "Skid Pad Score": 54.3,
+                "Autocross Score": 65.9,
+                "Endurance Score": 129.6,
+                "Efficiency Score": 43.3,
+                "Total Score": 643.0
+            }
+        ],
+        "16": [
+            {
+                "Place": 16,
+                "Car Num": 57,
+                "Team": "Univ of Victoria",
+                "Penalty": 0,
+                "Cost Score": 67.4,
+                "Presentation Score": 53.9,
+                "Design Score": 115.0,
+                "Acceleration Score": 67.8,
+                "Skid Pad Score": 39.7,
+                "Autocross Score": 75.9,
+                "Endurance Score": 153.0,
+                "Efficiency Score": 69.9,
+                "Total Score": 642.6
+            }
+        ],
+        "17": [
+            {
+                "Place": 17,
+                "Car Num": 15,
+                "Team": "Univ of Alabama - Tuscaloosa",
+                "Penalty": 0,
+                "Cost Score": 65.8,
+                "Presentation Score": 63.8,
+                "Design Score": 115.0,
+                "Acceleration Score": 91.6,
+                "Skid Pad Score": 16.5,
+                "Autocross Score": 48.4,
+                "Endurance Score": 123.7,
+                "Efficiency Score": 82.5,
+                "Total Score": 607.3
+            }
+        ],
+        "18": [
+            {
+                "Place": 18,
+                "Car Num": 11,
+                "Team": "Universidade de Sao Paulo",
+                "Penalty": 0,
+                "Cost Score": 57.7,
+                "Presentation Score": 56.3,
+                "Design Score": 123.0,
+                "Acceleration Score": 44.9,
+                "Skid Pad Score": 46.0,
+                "Autocross Score": 60.2,
+                "Endurance Score": 124.0,
+                "Efficiency Score": 87.1,
+                "Total Score": 599.1
+            }
+        ],
+        "19": [
+            {
+                "Place": 19,
+                "Car Num": 78,
+                "Team": "Polytechnique Montréal",
+                "Penalty": 0,
+                "Cost Score": 68.0,
+                "Presentation Score": 55.0,
+                "Design Score": 85.0,
+                "Acceleration Score": 59.9,
+                "Skid Pad Score": 40.0,
+                "Autocross Score": 58.1,
+                "Endurance Score": 148.1,
+                "Efficiency Score": 84.3,
+                "Total Score": 598.4
+            }
+        ],
+        "20": [
+            {
+                "Place": 20,
+                "Car Num": 97,
+                "Team": "Kettering Univ",
+                "Penalty": 0,
+                "Cost Score": 71.7,
+                "Presentation Score": 47.2,
+                "Design Score": 60.0,
+                "Acceleration Score": 74.8,
+                "Skid Pad Score": 39.3,
+                "Autocross Score": 71.6,
+                "Endurance Score": 143.4,
+                "Efficiency Score": 89.4,
+                "Total Score": 597.4
+            }
+        ],
+        "21": [
+            {
+                "Place": 21,
+                "Car Num": 14,
+                "Team": "Florida Atlantic Univ",
+                "Penalty": 0,
+                "Cost Score": 64.9,
+                "Presentation Score": 59.7,
+                "Design Score": 85.0,
+                "Acceleration Score": 74.3,
+                "Skid Pad Score": 15.2,
+                "Autocross Score": 64.4,
+                "Endurance Score": 159.5,
+                "Efficiency Score": 72.6,
+                "Total Score": 595.5
+            }
+        ],
+        "22": [
+            {
+                "Place": 22,
+                "Car Num": 48,
+                "Team": "Univ of Connecticut",
+                "Penalty": 0,
+                "Cost Score": 62.0,
+                "Presentation Score": 47.6,
+                "Design Score": 55.0,
+                "Acceleration Score": 83.0,
+                "Skid Pad Score": 32.3,
+                "Autocross Score": 86.1,
+                "Endurance Score": 154.9,
+                "Efficiency Score": 70.7,
+                "Total Score": 591.6
+            }
+        ],
+        "23": [
+            {
+                "Place": 23,
+                "Car Num": 37,
+                "Team": "Univ of British Columbia",
+                "Penalty": 0,
+                "Cost Score": 57.9,
+                "Presentation Score": 43.9,
+                "Design Score": 100.0,
+                "Acceleration Score": 87.1,
+                "Skid Pad Score": 45.7,
+                "Autocross Score": 76.2,
+                "Endurance Score": 103.6,
+                "Efficiency Score": 76.2,
+                "Total Score": 590.5
+            }
+        ],
+        "24": [
+            {
+                "Place": 24,
+                "Car Num": 22,
+                "Team": "Villanova Univ",
+                "Penalty": 0,
+                "Cost Score": 76.8,
+                "Presentation Score": 61.3,
+                "Design Score": 70.0,
+                "Acceleration Score": 91.5,
+                "Skid Pad Score": 33.5,
+                "Autocross Score": 52.0,
+                "Endurance Score": 139.7,
+                "Efficiency Score": 51.9,
+                "Total Score": 576.7
+            }
+        ],
+        "25": [
+            {
+                "Place": 25,
+                "Car Num": 80,
+                "Team": "Ryerson Univ",
+                "Penalty": 0,
+                "Cost Score": 67.1,
+                "Presentation Score": 62.7,
+                "Design Score": 45.0,
+                "Acceleration Score": 62.9,
+                "Skid Pad Score": 24.1,
+                "Autocross Score": 77.5,
+                "Endurance Score": 144.9,
+                "Efficiency Score": 76.8,
+                "Total Score": 561.1
+            }
+        ],
+        "26": [
+            {
+                "Place": 26,
+                "Car Num": 81,
+                "Team": "Virginia Tech",
+                "Penalty": -20,
+                "Cost Score": 61.9,
+                "Presentation Score": 61.9,
+                "Design Score": 115.0,
+                "Acceleration Score": 60.9,
+                "Skid Pad Score": 50.7,
+                "Autocross Score": 67.4,
+                "Endurance Score": 62.2,
+                "Efficiency Score": 88.1,
+                "Total Score": 548.1
+            }
+        ],
+        "27": [
+            {
+                "Place": 27,
+                "Car Num": 32,
+                "Team": "Louisiana State Univ",
+                "Penalty": 0,
+                "Cost Score": 66.3,
+                "Presentation Score": 58.3,
+                "Design Score": 100.0,
+                "Acceleration Score": 69.8,
+                "Skid Pad Score": 35.1,
+                "Autocross Score": 50.7,
+                "Endurance Score": 128.2,
+                "Efficiency Score": 38.8,
+                "Total Score": 547.2
+            }
+        ],
+        "28": [
+            {
+                "Place": 28,
+                "Car Num": 58,
+                "Team": "Universite de Sherbrooke",
+                "Penalty": 0,
+                "Cost Score": 64.2,
+                "Presentation Score": 44.4,
+                "Design Score": 100.0,
+                "Acceleration Score": 69.2,
+                "Skid Pad Score": 20.5,
+                "Autocross Score": 63.3,
+                "Endurance Score": 118.4,
+                "Efficiency Score": 66.5,
+                "Total Score": 546.4
+            }
+        ],
+        "29": [
+            {
+                "Place": 29,
+                "Car Num": 7,
+                "Team": "Missouri University of Science and Tech",
+                "Penalty": 0,
+                "Cost Score": 61.7,
+                "Presentation Score": 65.9,
+                "Design Score": 100.0,
+                "Acceleration Score": 83.9,
+                "Skid Pad Score": 63.0,
+                "Autocross Score": 87.5,
+                "Endurance Score": 19.0,
+                "Efficiency Score": 62.3,
+                "Total Score": 543.2
+            }
+        ],
+        "30": [
+            {
+                "Place": 30,
+                "Car Num": 77,
+                "Team": "Rose Hulman Inst of Tech",
+                "Penalty": 0,
+                "Cost Score": 67.2,
+                "Presentation Score": 50.2,
+                "Design Score": 15.0,
+                "Acceleration Score": 57.1,
+                "Skid Pad Score": 19.7,
+                "Autocross Score": 71.6,
+                "Endurance Score": 158.9,
+                "Efficiency Score": 88.7,
+                "Total Score": 528.3
+            }
+        ],
+        "31": [
+            {
+                "Place": 31,
+                "Car Num": 54,
+                "Team": "Univ of Kansas - Lawrence",
+                "Penalty": 0,
+                "Cost Score": 69.1,
+                "Presentation Score": 42.9,
+                "Design Score": 100.0,
+                "Acceleration Score": 77.9,
+                "Skid Pad Score": 22.9,
+                "Autocross Score": 72.2,
+                "Endurance Score": 67.1,
+                "Efficiency Score": 69.5,
+                "Total Score": 521.7
+            }
+        ],
+        "32": [
+            {
+                "Place": 32,
+                "Car Num": 82,
+                "Team": "Univ of Cincinnati",
+                "Penalty": 0,
+                "Cost Score": 66.3,
+                "Presentation Score": 53.5,
+                "Design Score": 100.0,
+                "Acceleration Score": 61.7,
+                "Skid Pad Score": 40.3,
+                "Autocross Score": 87.8,
+                "Endurance Score": 13.0,
+                "Efficiency Score": 93.6,
+                "Total Score": 516.2
+            }
+        ],
+        "33": [
+            {
+                "Place": 33,
+                "Car Num": 126,
+                "Team": "Univ of Waterloo",
+                "Penalty": 0,
+                "Cost Score": 65.9,
+                "Presentation Score": 37.3,
+                "Design Score": 100.0,
+                "Acceleration Score": 98.7,
+                "Skid Pad Score": 25.4,
+                "Autocross Score": 18.0,
+                "Endurance Score": 91.9,
+                "Efficiency Score": 69.3,
+                "Total Score": 506.3
+            }
+        ],
+        "34": [
+            {
+                "Place": 34,
+                "Car Num": 88,
+                "Team": "Ecole De Technologie Superieure",
+                "Penalty": 0,
+                "Cost Score": 61.3,
+                "Presentation Score": 52.3,
+                "Design Score": 138.0,
+                "Acceleration Score": 88.1,
+                "Skid Pad Score": 52.7,
+                "Autocross Score": 100.9,
+                "Endurance Score": 4.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 497.3
+            }
+        ],
+        "35": [
+            {
+                "Place": 35,
+                "Car Num": 5,
+                "Team": "Michigan State Univ",
+                "Penalty": 0,
+                "Cost Score": 69.3,
+                "Presentation Score": 67.2,
+                "Design Score": 100.0,
+                "Acceleration Score": 98.9,
+                "Skid Pad Score": 54.5,
+                "Autocross Score": 97.6,
+                "Endurance Score": 5.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 492.5
+            }
+        ],
+        "36": [
+            {
+                "Place": 36,
+                "Car Num": 102,
+                "Team": "Duke Univ",
+                "Penalty": -10,
+                "Cost Score": 61.0,
+                "Presentation Score": 49.9,
+                "Design Score": 70.0,
+                "Acceleration Score": 66.7,
+                "Skid Pad Score": 39.6,
+                "Autocross Score": 51.5,
+                "Endurance Score": 132.9,
+                "Efficiency Score": 26.5,
+                "Total Score": 488.0
+            }
+        ],
+        "37": [
+            {
+                "Place": 37,
+                "Car Num": 38,
+                "Team": "Rensselaer Polytechnic Inst",
+                "Penalty": 0,
+                "Cost Score": 69.9,
+                "Presentation Score": 57.5,
+                "Design Score": 70.0,
+                "Acceleration Score": 65.9,
+                "Skid Pad Score": 21.8,
+                "Autocross Score": 44.2,
+                "Endurance Score": 89.2,
+                "Efficiency Score": 63.4,
+                "Total Score": 481.9
+            }
+        ],
+        "38": [
+            {
+                "Place": 38,
+                "Car Num": 55,
+                "Team": "Tennessee Tech Univ",
+                "Penalty": 0,
+                "Cost Score": 93.7,
+                "Presentation Score": 52.8,
+                "Design Score": 55.0,
+                "Acceleration Score": 19.3,
+                "Skid Pad Score": 33.6,
+                "Autocross Score": 45.9,
+                "Endurance Score": 108.1,
+                "Efficiency Score": 70.3,
+                "Total Score": 478.8
+            }
+        ],
+        "39": [
+            {
+                "Place": 39,
+                "Car Num": 84,
+                "Team": "Univ of Toronto",
+                "Penalty": 0,
+                "Cost Score": 70.9,
+                "Presentation Score": 39.4,
+                "Design Score": 100.0,
+                "Acceleration Score": 60.9,
+                "Skid Pad Score": 39.3,
+                "Autocross Score": 79.3,
+                "Endurance Score": 11.0,
+                "Efficiency Score": 64.5,
+                "Total Score": 465.2
+            }
+        ],
+        "40": [
+            {
+                "Place": 40,
+                "Car Num": 9,
+                "Team": "Univ of Florida",
+                "Penalty": 0,
+                "Cost Score": 63.3,
+                "Presentation Score": 63.6,
+                "Design Score": 100.0,
+                "Acceleration Score": 91.0,
+                "Skid Pad Score": 41.6,
+                "Autocross Score": 97.9,
+                "Endurance Score": 5.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 462.4
+            }
+        ],
+        "41": [
+            {
+                "Place": 41,
+                "Car Num": 110,
+                "Team": "Univ of Manitoba",
+                "Penalty": 0,
+                "Cost Score": 62.7,
+                "Presentation Score": 55.3,
+                "Design Score": 85.0,
+                "Acceleration Score": 34.6,
+                "Skid Pad Score": 12.2,
+                "Autocross Score": 53.2,
+                "Endurance Score": 99.6,
+                "Efficiency Score": 52.0,
+                "Total Score": 454.5
+            }
+        ],
+        "42": [
+            {
+                "Place": 42,
+                "Car Num": 115,
+                "Team": "Universidad Simon Bolivar",
+                "Penalty": 0,
+                "Cost Score": 77.1,
+                "Presentation Score": 44.5,
+                "Design Score": 70.0,
+                "Acceleration Score": 65.1,
+                "Skid Pad Score": 19.3,
+                "Autocross Score": 51.6,
+                "Endurance Score": 78.4,
+                "Efficiency Score": 48.1,
+                "Total Score": 454.0
+            }
+        ],
+        "43": [
+            {
+                "Place": 43,
+                "Car Num": 65,
+                "Team": "Univ of Akron",
+                "Penalty": 0,
+                "Cost Score": 68.7,
+                "Presentation Score": 67.6,
+                "Design Score": 100.0,
+                "Acceleration Score": 69.9,
+                "Skid Pad Score": 34.9,
+                "Autocross Score": 80.5,
+                "Endurance Score": 11.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 432.6
+            }
+        ],
+        "44": [
+            {
+                "Place": 44,
+                "Car Num": 21,
+                "Team": "Brown Univ",
+                "Penalty": 0,
+                "Cost Score": 66.3,
+                "Presentation Score": 43.4,
+                "Design Score": 100.0,
+                "Acceleration Score": 90.5,
+                "Skid Pad Score": 3.5,
+                "Autocross Score": 28.7,
+                "Endurance Score": 48.0,
+                "Efficiency Score": 49.1,
+                "Total Score": 429.7
+            }
+        ],
+        "45": [
+            {
+                "Place": 45,
+                "Car Num": 72,
+                "Team": "Saginaw Valley State Univ",
+                "Penalty": 0,
+                "Cost Score": 61.1,
+                "Presentation Score": 47.3,
+                "Design Score": 35.0,
+                "Acceleration Score": 97.2,
+                "Skid Pad Score": 45.4,
+                "Autocross Score": 55.7,
+                "Endurance Score": 15.0,
+                "Efficiency Score": 67.0,
+                "Total Score": 423.8
+            }
+        ],
+        "46": [
+            {
+                "Place": 46,
+                "Car Num": 123,
+                "Team": "Queen's Univ - Ontario Canada",
+                "Penalty": 0,
+                "Cost Score": 67.1,
+                "Presentation Score": 61.9,
+                "Design Score": 85.0,
+                "Acceleration Score": 39.1,
+                "Skid Pad Score": 28.8,
+                "Autocross Score": 42.5,
+                "Endurance Score": 99.3,
+                "Efficiency Score": 0.0,
+                "Total Score": 423.6
+            }
+        ],
+        "47": [
+            {
+                "Place": 47,
+                "Car Num": 42,
+                "Team": "Western University",
+                "Penalty": 0,
+                "Cost Score": 66.4,
+                "Presentation Score": 66.6,
+                "Design Score": 100.0,
+                "Acceleration Score": 62.5,
+                "Skid Pad Score": 40.3,
+                "Autocross Score": 80.7,
+                "Endurance Score": 7.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 423.4
+            }
+        ],
+        "48": [
+            {
+                "Place": 48,
+                "Car Num": 40,
+                "Team": "Univ of North Florida",
+                "Penalty": 0,
+                "Cost Score": 63.4,
+                "Presentation Score": 34.4,
+                "Design Score": 55.0,
+                "Acceleration Score": 56.8,
+                "Skid Pad Score": 34.4,
+                "Autocross Score": 61.2,
+                "Endurance Score": 118.1,
+                "Efficiency Score": 0.0,
+                "Total Score": 423.2
+            }
+        ],
+        "49": [
+            {
+                "Place": 49,
+                "Car Num": 62,
+                "Team": "Cooper Union",
+                "Penalty": 0,
+                "Cost Score": 62.2,
+                "Presentation Score": 65.7,
+                "Design Score": 85.0,
+                "Acceleration Score": 58.9,
+                "Skid Pad Score": 3.5,
+                "Autocross Score": 32.0,
+                "Endurance Score": 43.0,
+                "Efficiency Score": 73.1,
+                "Total Score": 423.1
+            }
+        ],
+        "50": [
+            {
+                "Place": 50,
+                "Car Num": 113,
+                "Team": "Central Michigan Univ",
+                "Penalty": 0,
+                "Cost Score": 80.6,
+                "Presentation Score": 30.0,
+                "Design Score": 45.0,
+                "Acceleration Score": 76.4,
+                "Skid Pad Score": 12.0,
+                "Autocross Score": 17.7,
+                "Endurance Score": 76.7,
+                "Efficiency Score": 68.5,
+                "Total Score": 406.8
+            }
+        ],
+        "51": [
+            {
+                "Place": 51,
+                "Car Num": 25,
+                "Team": "Michigan Tech Univ",
+                "Penalty": 0,
+                "Cost Score": 61.7,
+                "Presentation Score": 61.8,
+                "Design Score": 55.0,
+                "Acceleration Score": 69.8,
+                "Skid Pad Score": 24.0,
+                "Autocross Score": 51.5,
+                "Endurance Score": 28.0,
+                "Efficiency Score": 51.8,
+                "Total Score": 403.5
+            }
+        ],
+        "52": [
+            {
+                "Place": 52,
+                "Car Num": 69,
+                "Team": "Univ of Pittsburgh - Pittsburgh",
+                "Penalty": 0,
+                "Cost Score": 67.1,
+                "Presentation Score": 56.9,
+                "Design Score": 100.0,
+                "Acceleration Score": 69.0,
+                "Skid Pad Score": 40.3,
+                "Autocross Score": 61.5,
+                "Endurance Score": 6.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 400.8
+            }
+        ],
+        "53": [
+            {
+                "Place": 53,
+                "Car Num": 79,
+                "Team": "Univ of New Hampshire",
+                "Penalty": 0,
+                "Cost Score": 67.1,
+                "Presentation Score": 31.1,
+                "Design Score": 45.0,
+                "Acceleration Score": 51.2,
+                "Skid Pad Score": 25.6,
+                "Autocross Score": 30.0,
+                "Endurance Score": 54.5,
+                "Efficiency Score": 94.6,
+                "Total Score": 399.0
+            }
+        ],
+        "54": [
+            {
+                "Place": 54,
+                "Car Num": 50,
+                "Team": "Rutgers Univ",
+                "Penalty": 0,
+                "Cost Score": 65.0,
+                "Presentation Score": 57.9,
+                "Design Score": 100.0,
+                "Acceleration Score": 54.5,
+                "Skid Pad Score": 37.9,
+                "Autocross Score": 66.2,
+                "Endurance Score": 11.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 392.4
+            }
+        ],
+        "55": [
+            {
+                "Place": 55,
+                "Car Num": 23,
+                "Team": "Univ of Missouri",
+                "Penalty": 0,
+                "Cost Score": 68.2,
+                "Presentation Score": 38.0,
+                "Design Score": 70.0,
+                "Acceleration Score": 81.3,
+                "Skid Pad Score": 31.2,
+                "Autocross Score": 73.5,
+                "Endurance Score": 25.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 387.3
+            }
+        ],
+        "56": [
+            {
+                "Place": 56,
+                "Car Num": 124,
+                "Team": "North Carolina State Univ - Raleigh",
+                "Penalty": 0,
+                "Cost Score": 71.2,
+                "Presentation Score": 42.1,
+                "Design Score": 85.0,
+                "Acceleration Score": 74.1,
+                "Skid Pad Score": 47.1,
+                "Autocross Score": 62.5,
+                "Endurance Score": 2.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 383.9
+            }
+        ],
+        "57": [
+            {
+                "Place": 57,
+                "Car Num": 51,
+                "Team": "Carleton Univ",
+                "Penalty": 0,
+                "Cost Score": 69.9,
+                "Presentation Score": 48.4,
+                "Design Score": 70.0,
+                "Acceleration Score": 77.3,
+                "Skid Pad Score": 56.9,
+                "Autocross Score": 47.8,
+                "Endurance Score": 11.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 381.2
+            }
+        ],
+        "58": [
+            {
+                "Place": 58,
+                "Car Num": 96,
+                "Team": "Universite Du Quebec a Trois-Rivieres",
+                "Penalty": 0,
+                "Cost Score": 72.9,
+                "Presentation Score": 68.2,
+                "Design Score": 25.0,
+                "Acceleration Score": 67.5,
+                "Skid Pad Score": 40.0,
+                "Autocross Score": 73.3,
+                "Endurance Score": 18.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 364.9
+            }
+        ],
+        "59": [
+            {
+                "Place": 59,
+                "Car Num": 103,
+                "Team": "Univ of Central Florida",
+                "Penalty": 0,
+                "Cost Score": 54.7,
+                "Presentation Score": 42.8,
+                "Design Score": 100.0,
+                "Acceleration Score": 41.0,
+                "Skid Pad Score": 53.1,
+                "Autocross Score": 48.4,
+                "Endurance Score": 18.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 358.1
+            }
+        ],
+        "60": [
+            {
+                "Place": 60,
+                "Car Num": 20,
+                "Team": "Minnesota State University - Mankato",
+                "Penalty": 0,
+                "Cost Score": 59.0,
+                "Presentation Score": 52.9,
+                "Design Score": 100.0,
+                "Acceleration Score": 51.8,
+                "Skid Pad Score": 40.3,
+                "Autocross Score": 49.9,
+                "Endurance Score": 1.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 354.9
+            }
+        ],
+        "61": [
+            {
+                "Place": 61,
+                "Car Num": 41,
+                "Team": "Lawrence Technological Univ",
+                "Penalty": 0,
+                "Cost Score": 61.9,
+                "Presentation Score": 51.1,
+                "Design Score": 70.0,
+                "Acceleration Score": 61.8,
+                "Skid Pad Score": 30.7,
+                "Autocross Score": 39.5,
+                "Endurance Score": 39.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 354.0
+            }
+        ],
+        "62": [
+            {
+                "Place": 62,
+                "Car Num": 98,
+                "Team": "Univ of Puerto Rico-Mayaquez",
+                "Penalty": 0,
+                "Cost Score": 53.7,
+                "Presentation Score": 45.2,
+                "Design Score": 85.0,
+                "Acceleration Score": 40.3,
+                "Skid Pad Score": 10.8,
+                "Autocross Score": 47.2,
+                "Endurance Score": 12.0,
+                "Efficiency Score": 58.6,
+                "Total Score": 352.8
+            }
+        ],
+        "63": [
+            {
+                "Place": 63,
+                "Car Num": 122,
+                "Team": "Penn State Univ - University Park",
+                "Penalty": 0,
+                "Cost Score": 71.5,
+                "Presentation Score": 52.4,
+                "Design Score": 70.0,
+                "Acceleration Score": 63.2,
+                "Skid Pad Score": 31.8,
+                "Autocross Score": 39.6,
+                "Endurance Score": 8.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 336.5
+            }
+        ],
+        "64": [
+            {
+                "Place": 64,
+                "Car Num": 39,
+                "Team": "Western Michigan Univ",
+                "Penalty": 0,
+                "Cost Score": 68.4,
+                "Presentation Score": 33.2,
+                "Design Score": 70.0,
+                "Acceleration Score": 70.8,
+                "Skid Pad Score": 23.9,
+                "Autocross Score": 65.4,
+                "Endurance Score": 3.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 334.5
+            }
+        ],
+        "65": [
+            {
+                "Place": 65,
+                "Car Num": 46,
+                "Team": "US Naval Academy",
+                "Penalty": 0,
+                "Cost Score": 64.6,
+                "Presentation Score": 62.3,
+                "Design Score": 70.0,
+                "Acceleration Score": 71.3,
+                "Skid Pad Score": 10.0,
+                "Autocross Score": 40.4,
+                "Endurance Score": 11.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 329.6
+            }
+        ],
+        "66": [
+            {
+                "Place": 66,
+                "Car Num": 33,
+                "Team": "Univ of Maryland - College Park",
+                "Penalty": 0,
+                "Cost Score": 61.9,
+                "Presentation Score": 55.9,
+                "Design Score": 85.0,
+                "Acceleration Score": 55.2,
+                "Skid Pad Score": 20.7,
+                "Autocross Score": 41.7,
+                "Endurance Score": 8.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 328.4
+            }
+        ],
+        "67": [
+            {
+                "Place": 67,
+                "Car Num": 59,
+                "Team": "Purdue Univ - W Lafayette",
+                "Penalty": 0,
+                "Cost Score": 53.8,
+                "Presentation Score": 52.2,
+                "Design Score": 100.0,
+                "Acceleration Score": 76.5,
+                "Skid Pad Score": 16.4,
+                "Autocross Score": 14.5,
+                "Endurance Score": 11.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 324.4
+            }
+        ],
+        "68": [
+            {
+                "Place": 68,
+                "Car Num": 104,
+                "Team": "Univ of Evansville",
+                "Penalty": -10,
+                "Cost Score": 51.1,
+                "Presentation Score": 24.7,
+                "Design Score": 55.0,
+                "Acceleration Score": 15.0,
+                "Skid Pad Score": 23.7,
+                "Autocross Score": 12.9,
+                "Endurance Score": 74.2,
+                "Efficiency Score": 77.2,
+                "Total Score": 323.6
+            }
+        ],
+        "69": [
+            {
+                "Place": 69,
+                "Car Num": 29,
+                "Team": "Washington Univ - St Louis",
+                "Penalty": 0,
+                "Cost Score": 62.9,
+                "Presentation Score": 33.1,
+                "Design Score": 70.0,
+                "Acceleration Score": 78.5,
+                "Skid Pad Score": 15.6,
+                "Autocross Score": 35.7,
+                "Endurance Score": 25.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 320.8
+            }
+        ],
+        "70": [
+            {
+                "Place": 70,
+                "Car Num": 73,
+                "Team": "Embry-Riddle Aero Univ - Daytona Beach",
+                "Penalty": 0,
+                "Cost Score": 61.5,
+                "Presentation Score": 43.9,
+                "Design Score": 70.0,
+                "Acceleration Score": 39.9,
+                "Skid Pad Score": 26.9,
+                "Autocross Score": 67.4,
+                "Endurance Score": 11.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 320.5
+            }
+        ],
+        "71": [
+            {
+                "Place": 71,
+                "Car Num": 108,
+                "Team": "Washington State Univ",
+                "Penalty": 0,
+                "Cost Score": 67.0,
+                "Presentation Score": 35.7,
+                "Design Score": 55.0,
+                "Acceleration Score": 4.5,
+                "Skid Pad Score": 7.0,
+                "Autocross Score": 20.7,
+                "Endurance Score": 43.0,
+                "Efficiency Score": 73.2,
+                "Total Score": 306.4
+            }
+        ],
+        "72": [
+            {
+                "Place": 72,
+                "Car Num": 71,
+                "Team": "Temple Univ",
+                "Penalty": 0,
+                "Cost Score": 69.2,
+                "Presentation Score": 38.6,
+                "Design Score": 85.0,
+                "Acceleration Score": 60.8,
+                "Skid Pad Score": 3.5,
+                "Autocross Score": 14.7,
+                "Endurance Score": 25.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 296.8
+            }
+        ],
+        "73": [
+            {
+                "Place": 73,
+                "Car Num": 94,
+                "Team": "Stevens Inst of Tech",
+                "Penalty": 0,
+                "Cost Score": 66.3,
+                "Presentation Score": 45.6,
+                "Design Score": 55.0,
+                "Acceleration Score": 46.0,
+                "Skid Pad Score": 19.8,
+                "Autocross Score": 36.9,
+                "Endurance Score": 25.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 294.7
+            }
+        ],
+        "74": [
+            {
+                "Place": 74,
+                "Car Num": 76,
+                "Team": "Univ of Hartford",
+                "Penalty": 0,
+                "Cost Score": 74.9,
+                "Presentation Score": 25.4,
+                "Design Score": 55.0,
+                "Acceleration Score": 32.3,
+                "Skid Pad Score": 27.9,
+                "Autocross Score": 39.9,
+                "Endurance Score": 25.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 280.5
+            }
+        ],
+        "75": [
+            {
+                "Place": 75,
+                "Car Num": 93,
+                "Team": "US Air Force Academy",
+                "Penalty": -50,
+                "Cost Score": 65.5,
+                "Presentation Score": 43.3,
+                "Design Score": 85.0,
+                "Acceleration Score": 46.6,
+                "Skid Pad Score": 15.0,
+                "Autocross Score": 45.7,
+                "Endurance Score": 25.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 276.1
+            }
+        ],
+        "76": [
+            {
+                "Place": 76,
+                "Car Num": 35,
+                "Team": "York College of Pennsylvania",
+                "Penalty": 0,
+                "Cost Score": 67.0,
+                "Presentation Score": 30.2,
+                "Design Score": 70.0,
+                "Acceleration Score": 32.9,
+                "Skid Pad Score": 16.2,
+                "Autocross Score": 32.6,
+                "Endurance Score": 25.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 274.0
+            }
+        ],
+        "77": [
+            {
+                "Place": 77,
+                "Car Num": 34,
+                "Team": "Grand Valley State Univ",
+                "Penalty": 0,
+                "Cost Score": 47.0,
+                "Presentation Score": 42.3,
+                "Design Score": 70.0,
+                "Acceleration Score": 54.3,
+                "Skid Pad Score": 7.1,
+                "Autocross Score": 39.7,
+                "Endurance Score": 11.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 271.3
+            }
+        ],
+        "78": [
+            {
+                "Place": 78,
+                "Car Num": 19,
+                "Team": "Mississippi State Univ",
+                "Penalty": 0,
+                "Cost Score": 69.0,
+                "Presentation Score": 55.1,
+                "Design Score": 45.0,
+                "Acceleration Score": 45.6,
+                "Skid Pad Score": 3.5,
+                "Autocross Score": 26.1,
+                "Endurance Score": 25.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 269.4
+            }
+        ],
+        "79": [
+            {
+                "Place": 79,
+                "Car Num": 44,
+                "Team": "Univ of Guelph",
+                "Penalty": 0,
+                "Cost Score": 69.9,
+                "Presentation Score": 43.2,
+                "Design Score": 45.0,
+                "Acceleration Score": 60.7,
+                "Skid Pad Score": 10.8,
+                "Autocross Score": 25.8,
+                "Endurance Score": 7.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 262.4
+            }
+        ],
+        "80": [
+            {
+                "Place": 80,
+                "Car Num": 27,
+                "Team": "South Dakota School of Mines & Tech",
+                "Penalty": 0,
+                "Cost Score": 58.8,
+                "Presentation Score": 26.3,
+                "Design Score": 70.0,
+                "Acceleration Score": 32.4,
+                "Skid Pad Score": 9.8,
+                "Autocross Score": 52.1,
+                "Endurance Score": 11.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 260.5
+            }
+        ],
+        "81": [
+            {
+                "Place": 81,
+                "Car Num": 100,
+                "Team": "Univ of British Columbia - Okangan",
+                "Penalty": 0,
+                "Cost Score": 62.1,
+                "Presentation Score": 48.6,
+                "Design Score": 55.0,
+                "Acceleration Score": 49.3,
+                "Skid Pad Score": 3.5,
+                "Autocross Score": 8.9,
+                "Endurance Score": 20.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 247.3
+            }
+        ],
+        "82": [
+            {
+                "Place": 82,
+                "Car Num": 52,
+                "Team": "Univ of Minnesota-Duluth",
+                "Penalty": 0,
+                "Cost Score": 52.0,
+                "Presentation Score": 36.4,
+                "Design Score": 45.0,
+                "Acceleration Score": 44.8,
+                "Skid Pad Score": 21.2,
+                "Autocross Score": 44.6,
+                "Endurance Score": 0.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 244.0
+            }
+        ],
+        "83": [
+            {
+                "Place": 83,
+                "Car Num": 86,
+                "Team": "Indiana Univ Purdue Univ Indianapolis",
+                "Penalty": -60,
+                "Cost Score": 47.6,
+                "Presentation Score": 43.2,
+                "Design Score": 70.0,
+                "Acceleration Score": 55.1,
+                "Skid Pad Score": 10.9,
+                "Autocross Score": 62.5,
+                "Endurance Score": 11.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 240.4
+            }
+        ],
+        "84": [
+            {
+                "Place": 84,
+                "Car Num": 114,
+                "Team": "Florida Inst of Tech",
+                "Penalty": 0,
+                "Cost Score": 62.3,
+                "Presentation Score": 28.3,
+                "Design Score": 55.0,
+                "Acceleration Score": 58.2,
+                "Skid Pad Score": 3.5,
+                "Autocross Score": 6.5,
+                "Endurance Score": 25.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 238.8
+            }
+        ],
+        "85": [
+            {
+                "Place": 85,
+                "Car Num": 109,
+                "Team": "Clemson Univ",
+                "Penalty": 0,
+                "Cost Score": 55.2,
+                "Presentation Score": 56.8,
+                "Design Score": 45.0,
+                "Acceleration Score": 40.3,
+                "Skid Pad Score": 9.9,
+                "Autocross Score": 18.9,
+                "Endurance Score": 8.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 234.2
+            }
+        ],
+        "86": [
+            {
+                "Place": 86,
+                "Car Num": 85,
+                "Team": "Univ of Kentucky",
+                "Penalty": 0,
+                "Cost Score": 63.4,
+                "Presentation Score": 40.0,
+                "Design Score": 45.0,
+                "Acceleration Score": 35.7,
+                "Skid Pad Score": 0.0,
+                "Autocross Score": 8.7,
+                "Endurance Score": 25.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 217.8
+            }
+        ],
+        "87": [
+            {
+                "Place": 87,
+                "Car Num": 87,
+                "Team": "West Virginia Univ",
+                "Penalty": 0,
+                "Cost Score": 70.8,
+                "Presentation Score": 61.9,
+                "Design Score": 45.0,
+                "Acceleration Score": 10.7,
+                "Skid Pad Score": 9.1,
+                "Autocross Score": 12.3,
+                "Endurance Score": 0.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 209.7
+            }
+        ],
+        "88": [
+            {
+                "Place": 88,
+                "Car Num": 112,
+                "Team": "Ferris State University",
+                "Penalty": 0,
+                "Cost Score": 71.0,
+                "Presentation Score": 48.1,
+                "Design Score": 45.0,
+                "Acceleration Score": 4.5,
+                "Skid Pad Score": 4.2,
+                "Autocross Score": 6.5,
+                "Endurance Score": 25.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 204.3
+            }
+        ],
+        "89": [
+            {
+                "Place": 89,
+                "Car Num": 24,
+                "Team": "Purdue Univ - Northwest",
+                "Penalty": 0,
+                "Cost Score": 66.4,
+                "Presentation Score": 26.8,
+                "Design Score": 70.0,
+                "Acceleration Score": 4.5,
+                "Skid Pad Score": 3.5,
+                "Autocross Score": 6.5,
+                "Endurance Score": 25.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 202.7
+            }
+        ],
+        "90": [
+            {
+                "Place": 90,
+                "Car Num": 70,
+                "Team": "Universidad Metropolitana",
+                "Penalty": 0,
+                "Cost Score": 62.2,
+                "Presentation Score": 44.4,
+                "Design Score": 45.0,
+                "Acceleration Score": 0.0,
+                "Skid Pad Score": 12.2,
+                "Autocross Score": 6.5,
+                "Endurance Score": 25.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 195.2
+            }
+        ],
+        "91": [
+            {
+                "Place": 91,
+                "Car Num": 61,
+                "Team": "Northwestern Univ",
+                "Penalty": 0,
+                "Cost Score": 62.7,
+                "Presentation Score": 46.4,
+                "Design Score": 70.0,
+                "Acceleration Score": 0.0,
+                "Skid Pad Score": 0.0,
+                "Autocross Score": 0.0,
+                "Endurance Score": 11.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 190.1
+            }
+        ],
+        "92": [
+            {
+                "Place": 92,
+                "Car Num": 92,
+                "Team": "Kansas State Univ",
+                "Penalty": -10,
+                "Cost Score": 57.1,
+                "Presentation Score": 27.0,
+                "Design Score": 70.0,
+                "Acceleration Score": 31.6,
+                "Skid Pad Score": 3.5,
+                "Autocross Score": 6.5,
+                "Endurance Score": 0.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 185.7
+            }
+        ],
+        "93": [
+            {
+                "Place": 93,
+                "Car Num": 125,
+                "Team": "Univ of Nebraska - Lincoln",
+                "Penalty": 0,
+                "Cost Score": 62.4,
+                "Presentation Score": 35.6,
+                "Design Score": 85.0,
+                "Acceleration Score": 0.0,
+                "Skid Pad Score": 0.0,
+                "Autocross Score": 0.0,
+                "Endurance Score": 0.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 182.9
+            }
+        ],
+        "94": [
+            {
+                "Place": 94,
+                "Car Num": 120,
+                "Team": "Oakland University",
+                "Penalty": 0,
+                "Cost Score": 62.3,
+                "Presentation Score": 38.3,
+                "Design Score": 55.0,
+                "Acceleration Score": 0.0,
+                "Skid Pad Score": 0.0,
+                "Autocross Score": 0.0,
+                "Endurance Score": 25.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 180.6
+            }
+        ],
+        "95": [
+            {
+                "Place": 95,
+                "Car Num": 53,
+                "Team": "Univ of Toledo",
+                "Penalty": 0,
+                "Cost Score": 66.7,
+                "Presentation Score": 37.4,
+                "Design Score": 75.0,
+                "Acceleration Score": 0.0,
+                "Skid Pad Score": 0.0,
+                "Autocross Score": 0.0,
+                "Endurance Score": 0.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 179.2
+            }
+        ],
+        "96": [
+            {
+                "Place": 96,
+                "Car Num": 30,
+                "Team": "Lehigh Univ",
+                "Penalty": 0,
+                "Cost Score": 55.0,
+                "Presentation Score": 38.2,
+                "Design Score": 55.0,
+                "Acceleration Score": 4.5,
+                "Skid Pad Score": 3.5,
+                "Autocross Score": 6.5,
+                "Endurance Score": 11.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 173.7
+            }
+        ],
+        "97": [
+            {
+                "Place": 97,
+                "Car Num": 91,
+                "Team": "Saint Louis Univ",
+                "Penalty": 0,
+                "Cost Score": 77.4,
+                "Presentation Score": 21.9,
+                "Design Score": 55.0,
+                "Acceleration Score": 4.5,
+                "Skid Pad Score": 0.0,
+                "Autocross Score": 0.0,
+                "Endurance Score": 14.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 172.8
+            }
+        ],
+        "98": [
+            {
+                "Place": 98,
+                "Car Num": 106,
+                "Team": "Universidad Autonoma Estado Mexico",
+                "Penalty": 0,
+                "Cost Score": 80.5,
+                "Presentation Score": 43.9,
+                "Design Score": 45.0,
+                "Acceleration Score": 0.0,
+                "Skid Pad Score": 0.0,
+                "Autocross Score": 0.0,
+                "Endurance Score": 0.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 169.4
+            }
+        ],
+        "99": [
+            {
+                "Place": 99,
+                "Car Num": 101,
+                "Team": "North Dakota State Univ",
+                "Penalty": 0,
+                "Cost Score": 64.3,
+                "Presentation Score": 22.9,
+                "Design Score": 45.0,
+                "Acceleration Score": 28.1,
+                "Skid Pad Score": 3.5,
+                "Autocross Score": 0.0,
+                "Endurance Score": 0.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 163.7
+            }
+        ],
+        "100": [
+            {
+                "Place": 100,
+                "Car Num": 31,
+                "Team": "Univ of Louisiana - Lafayette",
+                "Penalty": 0,
+                "Cost Score": 70.5,
+                "Presentation Score": 30.6,
+                "Design Score": 35.0,
+                "Acceleration Score": 4.5,
+                "Skid Pad Score": 3.5,
+                "Autocross Score": 6.5,
+                "Endurance Score": 11.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 161.6
+            }
+        ],
+        "101": [
+            {
+                "Place": 101,
+                "Car Num": 18,
+                "Team": "Univ of Illinois - Chicago",
+                "Penalty": 0,
+                "Cost Score": 70.6,
+                "Presentation Score": 36.6,
+                "Design Score": 40.0,
+                "Acceleration Score": 0.0,
+                "Skid Pad Score": 3.5,
+                "Autocross Score": 10.5,
+                "Endurance Score": 0.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 161.2
+            }
+        ],
+        "102": [
+            {
+                "Place": 102,
+                "Car Num": 36,
+                "Team": "Colorado Mesa University",
+                "Penalty": 0,
+                "Cost Score": 68.2,
+                "Presentation Score": 42.4,
+                "Design Score": 45.0,
+                "Acceleration Score": 0.0,
+                "Skid Pad Score": 0.0,
+                "Autocross Score": 0.0,
+                "Endurance Score": 0.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 155.6
+            }
+        ],
+        "103": [
+            {
+                "Place": 103,
+                "Car Num": 56,
+                "Team": "Univ of South Florida",
+                "Penalty": 0,
+                "Cost Score": 54.1,
+                "Presentation Score": 38.2,
+                "Design Score": 55.0,
+                "Acceleration Score": 0.0,
+                "Skid Pad Score": 0.0,
+                "Autocross Score": 0.0,
+                "Endurance Score": 0.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 147.3
+            }
+        ],
+        "104": [
+            {
+                "Place": 104,
+                "Car Num": 117,
+                "Team": "Texas Tech Univ",
+                "Penalty": 0,
+                "Cost Score": 45.2,
+                "Presentation Score": 49.1,
+                "Design Score": 45.0,
+                "Acceleration Score": 0.0,
+                "Skid Pad Score": 0.0,
+                "Autocross Score": 0.0,
+                "Endurance Score": 0.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 139.3
+            }
+        ],
+        "105": [
+            {
+                "Place": 105,
+                "Car Num": 45,
+                "Team": "St Cloud State Univ",
+                "Penalty": 0,
+                "Cost Score": 64.2,
+                "Presentation Score": 29.7,
+                "Design Score": 45.0,
+                "Acceleration Score": 0.0,
+                "Skid Pad Score": 0.0,
+                "Autocross Score": 0.0,
+                "Endurance Score": 0.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 138.9
+            }
+        ],
+        "106": [
+            {
+                "Place": 106,
+                "Car Num": 89,
+                "Team": "Lakehead Univ",
+                "Penalty": -50,
+                "Cost Score": 60.4,
+                "Presentation Score": 43.1,
+                "Design Score": 70.0,
+                "Acceleration Score": 0.0,
+                "Skid Pad Score": 0.0,
+                "Autocross Score": 0.0,
+                "Endurance Score": 9.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 132.4
+            }
+        ],
+        "107": [
+            {
+                "Place": 107,
+                "Car Num": 64,
+                "Team": "Penn State Univ - Harrisburg",
+                "Penalty": 0,
+                "Cost Score": 59.2,
+                "Presentation Score": 27.7,
+                "Design Score": 30.0,
+                "Acceleration Score": 0.0,
+                "Skid Pad Score": 0.0,
+                "Autocross Score": 0.0,
+                "Endurance Score": 0.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 116.8
+            }
+        ],
+        "108": [
+            {
+                "Place": 108,
+                "Car Num": 121,
+                "Team": "Texas State University-San Marcos",
+                "Penalty": -10,
+                "Cost Score": 54.6,
+                "Presentation Score": 22.3,
+                "Design Score": 0.0,
+                "Acceleration Score": 0.0,
+                "Skid Pad Score": 0.0,
+                "Autocross Score": 0.0,
+                "Endurance Score": 0.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 66.9
+            }
+        ],
+        "109": [
+            {
+                "Place": 109,
+                "Car Num": 90,
+                "Team": "Univ of Massachusetts - Lowell",
+                "Penalty": -50,
+                "Cost Score": 55.2,
+                "Presentation Score": 19.7,
+                "Design Score": 30.0,
+                "Acceleration Score": 0.0,
+                "Skid Pad Score": 0.0,
+                "Autocross Score": 0.0,
+                "Endurance Score": 0.0,
+                "Efficiency Score": 0.0,
+                "Total Score": 54.9
+            }
+        ]
+    }
+}

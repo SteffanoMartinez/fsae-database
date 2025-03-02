@@ -1,0 +1,55 @@
+{
+    "overall": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "design": [
+        5,
+        6,
+        7
+    ],
+    "presentation": [
+        8,
+        9,
+        10
+    ],
+    "cost": [
+        11,
+        12,
+        13,
+        14
+    ],
+    "accel": [
+        15,
+        16,
+        17,
+        18
+    ],
+    "skidpad": [
+        19,
+        20,
+        21
+    ],
+    "autocross": [
+        22,
+        23,
+        24
+    ],
+    "endurance": [
+        25,
+        26
+    ],
+    "efficiency": [
+        27
+    ],
+    "endurance_lap_time": [
+        31
+    ],
+    "team_info": [
+        28,
+        29,
+        30
+    ]
+}
